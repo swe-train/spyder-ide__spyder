@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-11-18 21:26\n"
+"PO-Revision-Date: 2023-11-18 22:28\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -3693,7 +3693,7 @@ msgstr ""
 
 #: spyder/plugins/help/widgets.py:421 spyder/plugins/onlinehelp/widgets.py:202 spyder/plugins/onlinehelp/widgets.py:203 spyder/widgets/browser.py:424
 msgid "Home"
-msgstr "Otthoni"
+msgstr "Kezdőlap"
 
 #: spyder/plugins/help/widgets.py:500
 msgid "Unlock"
