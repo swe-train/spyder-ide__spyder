@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-11-17 21:51\n"
+"PO-Revision-Date: 2023-11-18 21:26\n"
 "Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -103,7 +103,7 @@ msgstr "Bővítmény kompatibilitásának ellenőrzése"
 
 #: spyder/app/mainwindow.py:401
 msgid "It was not possible to load the {} plugin. The problem was:<br><br>{}"
-msgstr "A {} bővítmény betöltése nem lehetséges. A hiba a következő:<br><br>{}"
+msgstr "A(z) {} bővítmény betöltése nem lehetséges. A hiba a következő:<br><br>{}"
 
 #: spyder/app/mainwindow.py:423
 msgid "Loading {}..."
@@ -175,7 +175,7 @@ msgstr "Hiba"
 
 #: spyder/app/mainwindow.py:1575
 msgid "To open <code>{fpath}</code> as a project with Spyder, please use <code>spyder -p \"{fname}\"</code>."
-msgstr "Kérjük, használja a <code>spyder -p \"{fname}\"</code> kódot a <code>{fpath}</code> projektként való megnyitásához a Spyderben."
+msgstr "Kérjük, használja a <code>spyder -p \"{fname}\"</code> kódot a(z) <code>{fpath}</code> projektként való megnyitásához a Spyderben."
 
 #: spyder/app/mainwindow.py:1801
 msgid "Initializing..."
@@ -531,7 +531,7 @@ msgstr "Világos"
 
 #: spyder/plugins/appearance/confpage.py:49
 msgid "Dark"
-msgstr ""
+msgstr "Sötét"
 
 #: spyder/plugins/appearance/confpage.py:52
 msgid "Interface theme"
