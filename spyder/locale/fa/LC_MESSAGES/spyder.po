@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-30 22:35\n"
+"PO-Revision-Date: 2023-12-30 23:31\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -23,43 +23,43 @@ msgstr "در اینجا میتوانید افزونه های خارجی و دا�
 
 #: spyder/api/plugin_registration/_confpage.py:34
 msgid "Internal plugins"
-msgstr ""
+msgstr "افزونه های داخلی"
 
 #: spyder/api/plugin_registration/_confpage.py:62
 msgid "External plugins"
-msgstr ""
+msgstr "افزونه های خارجی"
 
 #: spyder/api/plugin_registration/registry.py:809
 msgid "Plugins"
-msgstr ""
+msgstr "افزونه‌ها"
 
 #: spyder/api/widgets/main_widget.py:253
 msgid "Main widget toolbar"
-msgstr ""
+msgstr "نوارابزار اصلی ویجت ها"
 
 #: spyder/api/widgets/main_widget.py:263
 msgid "Main widget corner toolbar"
-msgstr ""
+msgstr "نوارابزار کناری اصلی ویجت ها"
 
 #: spyder/api/widgets/main_widget.py:275
 msgid "Options menu"
-msgstr ""
+msgstr "فهرست گزینه ها"
 
 #: spyder/api/widgets/main_widget.py:322 spyder/plugins/base.py:183 spyder/plugins/editor/widgets/editor.py:692 spyder/plugins/variableexplorer/widgets/objectexplorer/objectexplorer.py:201
 msgid "Options"
-msgstr ""
+msgstr "گزینه‌ها"
 
 #: spyder/api/widgets/main_widget.py:346 spyder/plugins/base.py:198
 msgid "Dock"
-msgstr ""
+msgstr "جایگاه"
 
 #: spyder/api/widgets/main_widget.py:347 spyder/plugins/base.py:200
 msgid "Dock the pane"
-msgstr ""
+msgstr "جایگذاری قطعه"
 
 #: spyder/api/widgets/main_widget.py:353 spyder/api/widgets/main_widget.py:457 spyder/plugins/base.py:205 spyder/plugins/base.py:497
 msgid "Unlock position"
-msgstr ""
+msgstr "از قفل درآوردن موقعیت"
 
 #: spyder/api/widgets/main_widget.py:354 spyder/api/widgets/main_widget.py:462 spyder/plugins/base.py:206 spyder/plugins/base.py:501
 msgid "Unlock to move pane to another position"
@@ -67,31 +67,31 @@ msgstr ""
 
 #: spyder/api/widgets/main_widget.py:360 spyder/plugins/base.py:213
 msgid "Undock"
-msgstr ""
+msgstr "از جایگاه درآمدن"
 
 #: spyder/api/widgets/main_widget.py:361 spyder/plugins/base.py:215
 msgid "Undock the pane"
-msgstr ""
+msgstr "از جایگاه درآوردن قطعه"
 
 #: spyder/api/widgets/main_widget.py:367 spyder/plugins/base.py:220 spyder/plugins/variableexplorer/widgets/arrayeditor.py:837 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:1010 spyder/plugins/variableexplorer/widgets/objectexplorer/objectexplorer.py:300 spyder/plugins/variableexplorer/widgets/texteditor.py:72 spyder/widgets/collectionseditor.py:1506 spyder/widgets/reporterror.py:228
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 #: spyder/api/widgets/main_widget.py:368 spyder/plugins/base.py:222
 msgid "Close the pane"
-msgstr ""
+msgstr "بستن قطعه"
 
 #: spyder/api/widgets/main_widget.py:451 spyder/plugins/base.py:491
 msgid "Lock position"
-msgstr ""
+msgstr "قفل کردن موقعیت"
 
 #: spyder/api/widgets/main_widget.py:455 spyder/plugins/base.py:495
 msgid "Lock pane to the current position"
-msgstr ""
+msgstr "قفل کردن قطعه در موقعیت فعلی"
 
 #: spyder/api/widgets/toolbars.py:120
 msgid "More"
-msgstr ""
+msgstr "بیشتر"
 
 #: spyder/app/mainwindow.py:329
 msgid "An error occurred while creating a socket needed by Spyder. Please, try to run as an Administrator from cmd.exe the following command and then restart your computer: <br><br><span style='color: {color}'><b>netsh winsock reset </b></span><br>"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: spyder/app/mainwindow.py:399
 msgid "Plugin compatibility check"
-msgstr ""
+msgstr "بررسی سازگاری افزونه"
 
 #: spyder/app/mainwindow.py:401
 msgid "It was not possible to load the {} plugin. The problem was:<br><br>{}"
@@ -107,15 +107,15 @@ msgstr ""
 
 #: spyder/app/mainwindow.py:423
 msgid "Loading {}..."
-msgstr ""
+msgstr "در حال بارگذاری..."
 
 #: spyder/app/mainwindow.py:744 spyder/plugins/tours/widgets.py:1085
 msgid "Welcome to Spyder!"
-msgstr "به Spyder خوش آمدید!"
+msgstr "به اسپایدر خوش آمدید!"
 
 #: spyder/app/mainwindow.py:822
 msgid "Loading old third-party plugins..."
-msgstr ""
+msgstr "در حال بارگذاری افزونه های قدیم توضیح سیستم (Third-party)..."
 
 #: spyder/app/mainwindow.py:870 spyder/plugins/editor/widgets/editor.py:282
 msgid "File switcher..."
@@ -127,7 +127,7 @@ msgstr "تعویض سریع بین فایل ها"
 
 #: spyder/app/mainwindow.py:880
 msgid "Symbol finder..."
-msgstr "جستجوگر Symbol..."
+msgstr "جستجوگر نشانه ها..."
 
 #: spyder/app/mainwindow.py:882
 msgid "Fast symbol search in file"
@@ -163,11 +163,11 @@ msgstr "در حال تکمیل پنجره ی اصلی..."
 
 #: spyder/app/mainwindow.py:1520 spyder/plugins/explorer/widgets/explorer.py:480 spyder/plugins/run/plugin.py:40 spyder/plugins/run/widgets.py:392 spyder/utils/programs.py:742 spyder/utils/programs.py:759
 msgid "Run"
-msgstr ""
+msgstr "اجرا"
 
 #: spyder/app/mainwindow.py:1521
 msgid "Running an external system terminal is not supported on platform %s."
-msgstr ""
+msgstr "اجرا کردن ترمینال خارجی در این جایگاه پشتیبانی نمیشود %s."
 
 #: spyder/app/mainwindow.py:1574 spyder/plugins/application/confpage.py:256 spyder/plugins/application/confpage.py:281 spyder/plugins/application/container.py:539 spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:205 spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:223 spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:149 spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:168 spyder/plugins/editor/widgets/editor.py:2571 spyder/plugins/explorer/widgets/explorer.py:1213 spyder/plugins/explorer/widgets/explorer.py:1566 spyder/plugins/ipythonconsole/widgets/shell.py:831 spyder/plugins/layout/container.py:298 spyder/plugins/profiler/widgets/main_widget.py:571 spyder/plugins/profiler/widgets/main_widget.py:729 spyder/plugins/projects/plugin.py:458 spyder/plugins/projects/plugin.py:477 spyder/plugins/projects/plugin.py:735 spyder/plugins/pylint/main_widget.py:113 spyder/plugins/pylint/main_widget.py:390 spyder/plugins/pylint/main_widget.py:422 spyder/plugins/variableexplorer/widgets/arrayeditor.py:627 spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:129 spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:144 spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:150 spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:457 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:665 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:1315 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:1319 spyder/widgets/collectionseditor.py:1620 spyder/widgets/reporterror.py:412
 msgid "Error"
@@ -175,7 +175,7 @@ msgstr "خطا"
 
 #: spyder/app/mainwindow.py:1575
 msgid "To open <code>{fpath}</code> as a project with Spyder, please use <code>spyder -p \"{fname}\"</code>."
-msgstr ""
+msgstr "برای باز کردن <code>{fpath}</code> به عنوان یک پروژه با اسپایدر از <code>spyder -p \"{fname}\"</code> استفاده کنید."
 
 #: spyder/app/mainwindow.py:1801
 msgid "Initializing..."
@@ -184,21 +184,24 @@ msgstr "در حال راه‌اندازی..."
 #: spyder/app/restart.py:137
 msgid "It was not possible to close the previous Spyder instance.\n"
 "Restart aborted."
-msgstr ""
+msgstr "ممکن نبود که دوره قبلی اسپایدر بسته شود.\n"
+"دوباره راه‌اندازی بی نتیجه بود."
 
 #: spyder/app/restart.py:139
 msgid "Spyder could not reset to factory defaults.\n"
 "Restart aborted."
-msgstr ""
+msgstr "اسپایدر نمیتواند به حالت کارخانه بازگردد.\n"
+"دوباره راه‌اندازی بی تنیجه ماند."
 
 #: spyder/app/restart.py:141
 msgid "It was not possible to restart Spyder.\n"
 "Operation aborted."
-msgstr ""
+msgstr "دوباره راه‌اندازی اسپایدر ممکن نبود.\n"
+"عملکرد بی نتیجه ماند."
 
 #: spyder/app/restart.py:143
 msgid "Spyder exit error"
-msgstr ""
+msgstr "خطا در خروج از اسپایدر"
 
 #: spyder/app/restart.py:144
 msgid "Spyder reset error"
@@ -206,19 +209,19 @@ msgstr ""
 
 #: spyder/app/restart.py:145
 msgid "Spyder restart error"
-msgstr ""
+msgstr "خطا در دوباره راه‌اندازی اسپایدر"
 
 #: spyder/app/restart.py:185
 msgid "Closing Spyder"
-msgstr ""
+msgstr "بستن اسپایدر"
 
 #: spyder/app/restart.py:264
 msgid "Resetting Spyder to defaults"
-msgstr ""
+msgstr "دوباره راه‌اندازی اسپایدر به حالت اولیه"
 
 #: spyder/app/restart.py:296
 msgid "Restarting"
-msgstr ""
+msgstr "در حال راه‌اندازی مجدد"
 
 #: spyder/config/manager.py:616
 msgid "Shortcut context must match '_' or the plugin `CONF_SECTION`!"
@@ -235,51 +238,51 @@ msgstr ""
 
 #: spyder/config/utils.py:25 spyder/plugins/console/widgets/main_widget.py:514 spyder/plugins/explorer/widgets/explorer.py:1727 spyder/plugins/profiler/widgets/main_widget.py:462 spyder/plugins/pylint/main_widget.py:868
 msgid "Python files"
-msgstr ""
+msgstr "فایل های Python"
 
 #: spyder/config/utils.py:26
 msgid "Cython/Pyrex files"
-msgstr ""
+msgstr "فایل های Cython/Pyrex"
 
 #: spyder/config/utils.py:27
 msgid "C files"
-msgstr ""
+msgstr "فایل های C"
 
 #: spyder/config/utils.py:28
 msgid "C++ files"
-msgstr ""
+msgstr "فایل های C++"
 
 #: spyder/config/utils.py:29
 msgid "OpenCL files"
-msgstr ""
+msgstr "فایل های OpenCL"
 
 #: spyder/config/utils.py:30
 msgid "Fortran files"
-msgstr ""
+msgstr "فایل های Fortran"
 
 #: spyder/config/utils.py:32
 msgid "IDL files"
-msgstr ""
+msgstr "فایل های IDL"
 
 #: spyder/config/utils.py:33
 msgid "MATLAB files"
-msgstr ""
+msgstr "فایل های MATLAB"
 
 #: spyder/config/utils.py:34
 msgid "Julia files"
-msgstr ""
+msgstr "فایل های Julia"
 
 #: spyder/config/utils.py:35
 msgid "Yaml files"
-msgstr ""
+msgstr "فایل های Yaml"
 
 #: spyder/config/utils.py:36
 msgid "Patch and diff files"
-msgstr ""
+msgstr "فایل های Patch و diff"
 
 #: spyder/config/utils.py:37
 msgid "Batch files"
-msgstr ""
+msgstr "فایل های Batch"
 
 #: spyder/config/utils.py:38
 msgid "Text files"
@@ -287,19 +290,19 @@ msgstr "فایل های متنی"
 
 #: spyder/config/utils.py:39
 msgid "reStructuredText files"
-msgstr ""
+msgstr "فایل های reStructuredText"
 
 #: spyder/config/utils.py:40
 msgid "gettext files"
-msgstr ""
+msgstr "فایل های gettext"
 
 #: spyder/config/utils.py:41
 msgid "NSIS files"
-msgstr ""
+msgstr "فایل های NSIS"
 
 #: spyder/config/utils.py:42
 msgid "Web page files"
-msgstr ""
+msgstr "فایل های Web page"
 
 #: spyder/config/utils.py:43
 msgid "XML files"
