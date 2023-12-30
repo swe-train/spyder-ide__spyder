@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-10-21 00:01\n"
+"PO-Revision-Date: 2023-12-30 22:35\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: spyder/api/plugin_registration/_confpage.py:26
 msgid "Here you can turn on/off any internal or external Spyder plugin to disable functionality that is not desired or to have a lighter experience. Unchecked plugins in this page will be unloaded immediately and will not be loaded the next time Spyder starts."
-msgstr ""
+msgstr "در اینجا میتوانید افزونه های خارجی و داخلی اسپایدر را خاموش یا روشن کنید تا قابلیت هایی که دلخواهتان نیست را غیرفعال کنید و یا با این کار تجربه سبک تری را برای خود فراهم کنید. افزونه های انتخاب نشده از اسپایدر غیرفعال میشود و موقع ورود مجدد غیرفعال میمانند."
 
 #: spyder/api/plugin_registration/_confpage.py:34
 msgid "Internal plugins"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: spyder/config/utils.py:38
 msgid "Text files"
-msgstr ""
+msgstr "فایل های متنی"
 
 #: spyder/config/utils.py:39
 msgid "reStructuredText files"
