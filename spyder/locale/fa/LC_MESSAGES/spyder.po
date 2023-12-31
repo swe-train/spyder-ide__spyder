@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-30 23:31\n"
+"PO-Revision-Date: 2023-12-31 01:47\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -95,7 +95,7 @@ msgstr "بیشتر"
 
 #: spyder/app/mainwindow.py:329
 msgid "An error occurred while creating a socket needed by Spyder. Please, try to run as an Administrator from cmd.exe the following command and then restart your computer: <br><br><span style='color: {color}'><b>netsh winsock reset </b></span><br>"
-msgstr ""
+msgstr "در هنگام ایجاد سوکت توسط Spyder مشکلی به وجود آمده. لطفا دستور زیر را در کنسول cmd.exe در حالت Administrator اجرا کرده و س‍پس سیستم خود را ریستارت کنید: <br><br><span style='color: {color}'><b>netsh winsock reset </b></span><br>"
 
 #: spyder/app/mainwindow.py:399
 msgid "Plugin compatibility check"
