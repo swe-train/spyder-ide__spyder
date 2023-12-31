@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 10:30\n"
+"PO-Revision-Date: 2023-12-31 11:30\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -217,7 +217,7 @@ msgstr "بستن اسپایدر"
 
 #: spyder/app/restart.py:264
 msgid "Resetting Spyder to defaults"
-msgstr "دوباره راه‌اندازی اسپایدر به حالت اولیه"
+msgstr "دوباره راه‌اندازی اسپایدر به حالت پیش‌فرض"
 
 #: spyder/app/restart.py:296
 msgid "Restarting"
@@ -347,183 +347,183 @@ msgstr "به مک او اس اعلام کن که اسپایدر میتواند �
 
 #: spyder/dependencies.py:106
 msgid "Atomic file writes in the Editor"
-msgstr ""
+msgstr "فایل Atomic در ویرایشگر می نویسد"
 
 #: spyder/dependencies.py:110
 msgid "Character encoding auto-detection for the Editor"
-msgstr ""
+msgstr "شناسایی خودکار Character encoding برای ویرایشگر"
 
 #: spyder/dependencies.py:114
 msgid "Handle communications between kernel and frontend"
-msgstr ""
+msgstr "کنترل ارتباطات بین kernel و frontend"
 
 #: spyder/dependencies.py:118
 msgid "Create projects from cookiecutter templates"
-msgstr ""
+msgstr "شروع یک پروژه از cookiecutter templates"
 
 #: spyder/dependencies.py:122
 msgid "Compute text file diff changes during edition"
-msgstr ""
+msgstr "محاسبه تغییرات و تفاوت های فایل متنی در طول ویرایش"
 
 #: spyder/dependencies.py:126
 msgid "Compute folding range nesting levels"
-msgstr ""
+msgstr "محاسبه folding range nesting levels"
 
 #: spyder/dependencies.py:130
 msgid "IPython interactive python environment"
-msgstr ""
+msgstr "محیط برکنشی پایتون IPython"
 
 #: spyder/dependencies.py:134
 msgid "Main backend for the Python Language Server"
-msgstr ""
+msgstr "Backend اصلی برای سرور زبان پایتون"
 
 #: spyder/dependencies.py:138
 msgid "Optimize algorithms for folding"
-msgstr ""
+msgstr "بهینه‌سازی الگوریتم ها برای folding"
 
 #: spyder/dependencies.py:142
 msgid "Verify if snippets files are valid"
-msgstr ""
+msgstr "بررسی اعتبار فایل‌های snippets"
 
 #: spyder/dependencies.py:146
 msgid "Save Github credentials to report internal errors securely"
-msgstr ""
+msgstr "برای گزارش خطاهای ایمنی داخلی، اعتبار Github را ذخیره کنید"
 
 #: spyder/dependencies.py:151
 msgid "Manipulate Jupyter notebooks in the Editor"
-msgstr ""
+msgstr "نوت بوک های Jupyter را در ویرایشگر تنظیم کنید"
 
 #: spyder/dependencies.py:155
 msgid "Improve code completion for objects that use Numpy docstrings"
-msgstr ""
+msgstr "بهینه‌سازی کد برای اشیایی که از رشته‌های اسناد Numpy استفاده می‌کنند"
 
 #: spyder/dependencies.py:159
 msgid "Connect to remote kernels through SSH"
-msgstr ""
+msgstr "از طریق SSH به kernel از راه دور متصل شوید"
 
 #: spyder/dependencies.py:164
 msgid "Python parser that supports error recovery and round-trip parsing"
-msgstr ""
+msgstr "Parser پایتون که از بازیابی خطا و parsing رفت و برگشت پشتیبانی می کند"
 
 #: spyder/dependencies.py:169
 msgid "Stdio support for our language server client"
-msgstr ""
+msgstr "پشتیبانی Stdio برای کلاینت سرور زبان"
 
 #: spyder/dependencies.py:173
 msgid "Cache the list of installed Python modules"
-msgstr ""
+msgstr "Cache کردن لیست ماژول های نصب شده پایتون"
 
 #: spyder/dependencies.py:177
 msgid "CPU and memory usage info in the status bar"
-msgstr ""
+msgstr "اطلاعات مصرف CPU و حافظه در نوار وضعیت"
 
 #: spyder/dependencies.py:181
 msgid "Syntax highlighting for a lot of file types in the Editor"
-msgstr ""
+msgstr "برجسته کردن Syntax برای انواع فایل در ویرایشگر"
 
 #: spyder/dependencies.py:185
 msgid "Static code analysis"
-msgstr ""
+msgstr "بررسی و مشاهده کد استاتیک"
 
 #: spyder/dependencies.py:189
 msgid "Use the same Pylint installation with different virtual environments"
-msgstr ""
+msgstr "از نصب Pylint با محیط های مجازی مختلف استفاده کنید"
 
 #: spyder/dependencies.py:194
 msgid "Code completion and linting for the Editor"
-msgstr ""
+msgstr "تکمیل کد و لینتینگ برای ویرایشگر"
 
 #: spyder/dependencies.py:198
 msgid "Autoformat Python files in the Editor with the Black package"
-msgstr ""
+msgstr "فرمت خودکار فایل های پایتون در ویرایشگر با پکیج سیاه"
 
 #: spyder/dependencies.py:203
 msgid "Spyder plugin for the Python LSP Server"
-msgstr ""
+msgstr "افزونه اسپایدر برای سرور LSP پایتون"
 
 #: spyder/dependencies.py:207
 msgid "Parse desktop files on Linux"
-msgstr ""
+msgstr "پارس کردن فایل های دست تاپ در لینوکس"
 
 #: spyder/dependencies.py:212
 msgid "Client for the language server protocol (LSP)"
-msgstr ""
+msgstr "کلاینت پروتکل سرور زبان (LSP)"
 
 #: spyder/dependencies.py:216
 msgid "Dark style for the entire interface"
-msgstr ""
+msgstr "سبک تاریک برای کل رابط"
 
 #: spyder/dependencies.py:220
 msgid "Customize Qt stylesheets"
-msgstr ""
+msgstr "شخصی سازی Qt stylesheets"
 
 #: spyder/dependencies.py:224
 msgid "Icon theme based on FontAwesome and Material Design icons"
-msgstr ""
+msgstr "تم آیکون بر اساس نمادهای FontAwesome و Material Design"
 
 #: spyder/dependencies.py:228
 msgid "Main package for the IPython console"
-msgstr ""
+msgstr "بسته اصلی برای کنسول IPython"
 
 #: spyder/dependencies.py:232
 msgid "Abstraction layer for Python Qt bindings."
-msgstr ""
+msgstr "لایه Abstract برای پیوندهای Python Qt."
 
 #: spyder/dependencies.py:236
 msgid "Fast access to code snippets regions"
-msgstr ""
+msgstr "دسترسی سریع به snippets regions کد"
 
 #: spyder/dependencies.py:240
 msgid "Determine package version"
-msgstr ""
+msgstr "تعیین نسخه بسته"
 
 #: spyder/dependencies.py:244
 msgid "Show help for objects in the Editor and Consoles in a dedicated pane"
-msgstr ""
+msgstr "نمایش کمک برای اشیاء در ویرایشگر و کنسول ها در یک قطعه اختصاصی"
 
 #: spyder/dependencies.py:248
 msgid "Jupyter kernels for the Spyder console"
-msgstr ""
+msgstr "Jupyter kernels برای کنسول اسپایدر"
 
 #: spyder/dependencies.py:252
 msgid "Compute distances between strings"
-msgstr ""
+msgstr "محاسبه فاصله ی بین دو رشته"
 
 #: spyder/dependencies.py:256
 msgid "3-way merge algorithm to merge document changes"
-msgstr ""
+msgstr "ادغام الگوریتم سه طرفه برای ادغام تغییرات سند"
 
 #: spyder/dependencies.py:260
 msgid "Watch file changes on project directories"
-msgstr ""
+msgstr "تغییرات فایل را در فهرست های پروژه مشاهده کنید"
 
 #: spyder/dependencies.py:269
 msgid "Run Cython files in the IPython Console"
-msgstr ""
+msgstr "فایل های Cython را در کنسول IPython اجرا کنید"
 
 #: spyder/dependencies.py:274
 msgid "2D/3D plotting in the IPython console"
-msgstr ""
+msgstr "ترسیم 2 بعدی و 3 بعدی در کنسول IPython"
 
 #: spyder/dependencies.py:279
 msgid "View and edit two and three dimensional arrays in the Variable Explorer"
-msgstr ""
+msgstr "آرایه های دو بعدی و سه بعدی را در Variable Explorer مشاهده و ویرایش کنید"
 
 #: spyder/dependencies.py:284
 msgid "View and edit DataFrames and Series in the Variable Explorer"
-msgstr ""
+msgstr "DataFrames و Series را در Variable Explorer مشاهده و ویرایش کنید"
 
 #: spyder/dependencies.py:289
 msgid "Import Matlab workspace files in the Variable Explorer"
-msgstr ""
+msgstr "فایل های فضای کاری Matlab را در Variable Explorer وارد کنید"
 
 #: spyder/dependencies.py:294
 msgid "Symbolic mathematics in the IPython Console"
-msgstr ""
+msgstr "ریاضیات نمادین در کنسول IPython"
 
 #: spyder/plugins/appearance/confpage.py:43
 msgid "Main interface"
-msgstr ""
+msgstr "رابط اصلی"
 
 #: spyder/plugins/appearance/confpage.py:47 spyder/plugins/ipythonconsole/confpage.py:106
 msgid "Automatic"
@@ -547,35 +547,35 @@ msgstr "تم آیکن"
 
 #: spyder/plugins/appearance/confpage.py:75
 msgid "Syntax highlighting theme"
-msgstr ""
+msgstr "تم برجسته سازی Syntax"
 
 #: spyder/plugins/appearance/confpage.py:78
 msgid "Edit selected scheme"
-msgstr ""
+msgstr "ویرایش scheme انتخابی"
 
 #: spyder/plugins/appearance/confpage.py:79
 msgid "Create new scheme"
-msgstr ""
+msgstr "ایجاد scheme جدید"
 
 #: spyder/plugins/appearance/confpage.py:80
 msgid "Delete scheme"
-msgstr ""
+msgstr "حذف scheme"
 
 #: spyder/plugins/appearance/confpage.py:81 spyder/plugins/preferences/widgets/configdialog.py:38
 msgid "Reset to defaults"
-msgstr ""
+msgstr "تنظیم دوباره به حالت پیش‌فرض"
 
 #: spyder/plugins/appearance/confpage.py:105
 msgid "Fonts"
-msgstr ""
+msgstr "فونت‌ها"
 
 #: spyder/plugins/appearance/confpage.py:110
 msgid "Plain text"
-msgstr ""
+msgstr "متن ساده"
 
 #: spyder/plugins/appearance/confpage.py:116
 msgid "Rich text"
-msgstr ""
+msgstr "متن غنی"
 
 #: spyder/plugins/appearance/confpage.py:138 spyder/plugins/variableexplorer/widgets/importwizard.py:520
 msgid "Preview"
@@ -595,7 +595,7 @@ msgstr "ظاهر"
 
 #: spyder/plugins/appearance/plugin.py:44
 msgid "Manage application appearance and themes."
-msgstr ""
+msgstr "اداره کردن ضاهر و تم اپلیکیشن."
 
 #: spyder/plugins/appearance/widgets.py:88
 msgid "Text"
@@ -611,11 +611,11 @@ msgstr "پس زمینه"
 
 #: spyder/plugins/appearance/widgets.py:96
 msgid "Scheme name:"
-msgstr ""
+msgstr "نام Scheme:"
 
 #: spyder/plugins/appearance/widgets.py:103
 msgid "Color scheme editor"
-msgstr ""
+msgstr "ویرایشگر رنگ scheme"
 
 #: spyder/plugins/application/confpage.py:46
 msgid "Language:"
@@ -623,11 +623,11 @@ msgstr "زبان:"
 
 #: spyder/plugins/application/confpage.py:54
 msgid "Rendering engine:"
-msgstr ""
+msgstr "موتور Rendering:"
 
 #: spyder/plugins/application/confpage.py:59
 msgid "Use a single instance"
-msgstr ""
+msgstr "از یک instance استفاده کنید"
 
 #: spyder/plugins/application/confpage.py:61
 msgid "Set this to open external<br> Python files in an already running instance (Requires a restart)"
@@ -643,7 +643,7 @@ msgstr ""
 
 #: spyder/plugins/application/confpage.py:68
 msgid "Check for updates on startup"
-msgstr ""
+msgstr "بررسی بروزرسانی به هنگام آغاز برنامه"
 
 #: spyder/plugins/application/confpage.py:96 spyder/plugins/layout/container.py:163
 msgid "Panes"
@@ -659,7 +659,7 @@ msgstr ""
 
 #: spyder/plugins/application/confpage.py:102
 msgid "pixels"
-msgstr ""
+msgstr "پیکسل‌ها"
 
 #: spyder/plugins/application/confpage.py:109
 msgid "Cursor blinking:"
@@ -667,7 +667,7 @@ msgstr ""
 
 #: spyder/plugins/application/confpage.py:112
 msgid "ms"
-msgstr ""
+msgstr "ms"
 
 #: spyder/plugins/application/confpage.py:150
 msgid "macOS integration"
@@ -695,7 +695,7 @@ msgstr ""
 
 #: spyder/plugins/application/confpage.py:181
 msgid "Normal"
-msgstr ""
+msgstr "معمولی"
 
 #: spyder/plugins/application/confpage.py:185
 msgid "Enable auto high DPI scaling"
@@ -720,11 +720,11 @@ msgstr ""
 
 #: spyder/plugins/application/confpage.py:235 spyder/plugins/ipythonconsole/confpage.py:28 spyder/plugins/outlineexplorer/widgets.py:48
 msgid "Interface"
-msgstr ""
+msgstr "رابط کاربری"
 
 #: spyder/plugins/application/confpage.py:237 spyder/plugins/editor/confpage.py:347 spyder/plugins/ipythonconsole/confpage.py:429
 msgid "Advanced settings"
-msgstr ""
+msgstr "تنظیمات پیشرفته"
 
 #: spyder/plugins/application/confpage.py:257
 msgid "We're sorry but setting a scale factor bellow 1.0 isn't possible. Any scale factor bellow 1.0 will be set to 1.0"
@@ -796,19 +796,19 @@ msgstr ""
 
 #: spyder/plugins/application/container.py:212
 msgid "Debug logs"
-msgstr ""
+msgstr "گزارش اشکالات"
 
 #: spyder/plugins/application/container.py:274
 msgid "New Spyder version"
-msgstr ""
+msgstr "ورژن جدید اسپایدر"
 
 #: spyder/plugins/application/container.py:276
 msgid "Check for updates at startup"
-msgstr ""
+msgstr "بررسی بروزرسانی به هنگام آغاز برنامه"
 
 #: spyder/plugins/application/container.py:285
 msgid "<h3>Spyder {} is available!</h3><br>"
-msgstr ""
+msgstr "<h3>Spyder {} is available!</h3><br>"
 
 #: spyder/plugins/application/container.py:306
 msgid "Would you like to automatically download and install it using Spyder's installer?<br><br>We <a href='{}'>recommend our own installer</a> because it's more stable and makes updating easy. This will leave your existing Spyder installation untouched."
@@ -816,7 +816,7 @@ msgstr ""
 
 #: spyder/plugins/application/container.py:317
 msgid "Would you like to automatically download and install it?"
-msgstr ""
+msgstr "میخواهید به صورت خودکار دانلود و نصب کنید?"
 
 #: spyder/plugins/application/container.py:348
 msgid "Run the following command or commands in the Anaconda prompt to update manually:<br><br>"
@@ -900,7 +900,7 @@ msgstr ""
 
 #: spyder/plugins/application/widgets/install.py:34
 msgid "Installing update"
-msgstr ""
+msgstr "در حال نصب به‌روزرسانی"
 
 #: spyder/plugins/application/widgets/install.py:35 spyder/plugins/completion/providers/kite/utils/install.py:34
 msgid "Installation finished"
@@ -948,7 +948,7 @@ msgstr ""
 
 #: spyder/plugins/application/widgets/install.py:71 spyder/plugins/completion/providers/kite/widgets/install.py:211
 msgid "Downloading"
-msgstr ""
+msgstr "در حال دانلود"
 
 #: spyder/plugins/application/widgets/install.py:74
 msgid "Downloading Spyder update <br>"
@@ -1029,7 +1029,7 @@ msgstr ""
 
 #: spyder/plugins/completion/confpage.py:28
 msgid "Providers"
-msgstr ""
+msgstr "ارائه دهندگان"
 
 #: spyder/plugins/completion/confpage.py:30
 msgid "Enable {0} provider"
@@ -1117,11 +1117,11 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:32
 msgid "Downloading installer"
-msgstr ""
+msgstr "دانلود فایل نصب"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:33
 msgid "Installing"
-msgstr ""
+msgstr "در حال نصب"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:35
 msgid "Installation errored"
@@ -1129,7 +1129,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:36
 msgid "Cancelled"
-msgstr ""
+msgstr "لغو شد"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:70
 msgid "Now Spyder can use Kite to provide better code completions for key packages in the scientific Python Ecosystem. Install Kite for a better editor experience in Spyder. <br><br>Kite is free to use but is not open source. <a href=\"{kite_url}\">Learn more about Kite </a>"
@@ -1175,7 +1175,7 @@ msgstr ""
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:28 spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:60 spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:268
 msgid "Advanced"
-msgstr ""
+msgstr "پیشرفته"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:33
 msgid "Python Language Server configuration"
