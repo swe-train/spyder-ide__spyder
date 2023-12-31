@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 16:43\n"
+"PO-Revision-Date: 2023-12-31 17:43\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -3543,407 +3543,415 @@ msgstr "آیا می خواهید لیست دایرکتوری های دیگر ر�
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:85 spyder/widgets/findreplace.py:59
 msgid "Regular expression error"
-msgstr ""
+msgstr "خطای expression error"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:152
 msgid "Write text to search"
-msgstr ""
+msgstr "برای جستجو، متن بنویسید"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:154
 msgid "Search in:"
-msgstr ""
+msgstr "جستجو در:"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:157
 msgid "Exclude:"
-msgstr ""
+msgstr "استثناها:"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:167
 msgid "Exclude pattern"
-msgstr ""
+msgstr "الگوی مسنثناها"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:217 spyder/plugins/findinfiles/widgets/main_widget.py:243
 msgid "Regular expression"
-msgstr ""
+msgstr "عبارت منظم"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:218 spyder/plugins/findinfiles/widgets/main_widget.py:244 spyder/widgets/findreplace.py:154
 msgid "Use regular expressions"
-msgstr ""
+msgstr "استفاده از عبارت منظم"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:226
 msgid "Case sensitive"
-msgstr ""
+msgstr "حساس به کوچکی و بزرگی حروف"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:227
 msgid "Case sensitive search"
-msgstr ""
+msgstr "جستجوی حساس به حروف کوچک و بزرگ"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:235
 msgid "&Find in files"
-msgstr ""
+msgstr "&در فایل ها پیدا کنید"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:236
 msgid "Search text"
-msgstr ""
+msgstr "جستجوی متن"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:252 spyder/plugins/findinfiles/widgets/main_widget.py:253
 msgid "Exclude case sensitive"
-msgstr ""
+msgstr "حساس به حروف کوچک و بزرگ را حذف کنید"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:261 spyder/plugins/findinfiles/widgets/main_widget.py:262 spyder/plugins/findinfiles/widgets/main_widget.py:334
 msgid "Show advanced options"
-msgstr ""
+msgstr "نمایش گزینه های پیشرفته"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:270 spyder/plugins/findinfiles/widgets/main_widget.py:271
 msgid "Set maximum number of results"
-msgstr ""
+msgstr "حداکثر تعداد نتایج را تنظیم کنید"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:331
 msgid "Hide advanced options"
-msgstr ""
+msgstr "گزینه های پیشرفته را مخفی کنید"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:631
 msgid "Max results"
-msgstr ""
+msgstr "حداکثر نتایج"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:632
 msgid "Set maximum number of results: "
-msgstr ""
+msgstr "حداکثر تعداد نتایج را تنظیم کنید: "
 
 #: spyder/plugins/findinfiles/widgets/results_browser.py:261 spyder/plugins/findinfiles/widgets/search_thread.py:315
 msgid "String not found"
-msgstr ""
+msgstr "رشته پیدا نشد"
 
 #: spyder/plugins/findinfiles/widgets/results_browser.py:289
 msgid "Maximum number of results reached! Try narrowing the search."
-msgstr ""
+msgstr "به حداکثر تعداد نتایج رسیده است! جستجو را محدود کنید."
 
 #: spyder/plugins/findinfiles/widgets/search_thread.py:107
 msgid "Unexpected error: see internal console"
-msgstr ""
+msgstr "خطای غیرمنتظره: کنسول داخلی را ببینید"
 
 #: spyder/plugins/findinfiles/widgets/search_thread.py:182
 msgid "invalid regular expression"
-msgstr ""
+msgstr "عبارت منظم نامعتبر"
 
 #: spyder/plugins/findinfiles/widgets/search_thread.py:275
 msgid "permission denied errors were encountered"
-msgstr ""
+msgstr "با خطاهای رد شده مجوز مواجه شد"
 
 #: spyder/plugins/findinfiles/widgets/search_thread.py:317
 msgid "matches in"
-msgstr ""
+msgstr "matches in"
 
 #: spyder/plugins/findinfiles/widgets/search_thread.py:318
 msgid "file"
-msgstr ""
+msgstr "فایل"
 
 #: spyder/plugins/help/confpage.py:23
 msgid "Automatic connections"
-msgstr ""
+msgstr "اتصالات اتوماتیک"
 
 #: spyder/plugins/help/confpage.py:24
 msgid "This pane can automatically show an object's help information after a left parenthesis is written next to it. Below you can decide to which plugin you want to connect it to turn on this feature."
-msgstr ""
+msgstr "این قطعه می تواند به طور خودکار اطلاعات کمکی یک شی را پس از نوشتن پرانتز سمت چپ در کنار آن نشان دهد. در زیر می توانید تصمیم بگیرید که می خواهید آن را به کدام افزونه متصل کنید تا این ویژگی روشن شود."
 
 #: spyder/plugins/help/confpage.py:33 spyder/plugins/ipythonconsole/widgets/main_widget.py:406 spyder/plugins/tours/tours.py:99
 msgid "IPython Console"
-msgstr ""
+msgstr "کنسول IPython"
 
 #: spyder/plugins/help/confpage.py:43
 msgid "Additional features"
-msgstr ""
+msgstr "ویژگی های اضافی"
 
 #: spyder/plugins/help/confpage.py:44
 msgid "Render mathematical equations"
-msgstr ""
+msgstr "معادلات ریاضی را ارائه دهید"
 
 #: spyder/plugins/help/confpage.py:50
 msgid "This feature requires Sphinx 1.1 or superior."
-msgstr ""
+msgstr "این ویژگی به Sphinx 1.1 یا بالاتر نیاز دارد."
 
 #: spyder/plugins/help/confpage.py:51
 msgid "Sphinx %s is currently installed."
-msgstr ""
+msgstr "Sphinx %s در حال حاضر نصب شده است."
 
 #: spyder/plugins/help/plugin.py:66
 msgid "Get rich text documentation from the editor and the console"
-msgstr ""
+msgstr "اسناد متنی غنی را از ویرایشگر و کنسول دریافت کنید"
 
 #: spyder/plugins/help/plugin.py:85
 msgid "Spyder tutorial"
-msgstr ""
+msgstr "آموزش اسپایدر"
 
 #: spyder/plugins/help/utils/sphinxify.py:243 spyder/plugins/help/utils/sphinxify.py:253
 msgid "It was not possible to generate rich text help for this object.</br>Please see it in plain text."
-msgstr ""
+msgstr "امکان ایجاد کمک نوشتاری غنی برای این شی وجود نداشت.</br>لطفاً آن را به صورت نوشتاری ساده ببینید."
 
 #: spyder/plugins/help/utils/sphinxthread.py:77
 msgid "No further documentation available"
-msgstr ""
+msgstr "مستندات بیشتری در دسترس نیست"
 
 #: spyder/plugins/help/utils/sphinxthread.py:80 spyder/plugins/help/widgets.py:300
 msgid "No documentation available"
-msgstr ""
+msgstr "هیچ سندی در دسترس نیست"
 
 #: spyder/plugins/help/widgets.py:315
 msgid "Source"
-msgstr ""
+msgstr "منبع"
 
 #: spyder/plugins/help/widgets.py:321 spyder/plugins/outlineexplorer/widgets.py:56
 msgid "Object"
-msgstr ""
+msgstr "شئ"
 
 #: spyder/plugins/help/widgets.py:335 spyder/plugins/ipythonconsole/widgets/client.py:619 spyder/plugins/run/confpage.py:44 spyder/plugins/run/widgets.py:184
 msgid "Console"
-msgstr ""
+msgstr "کنسول"
 
 #: spyder/plugins/help/widgets.py:386
 msgid "Automatic import"
-msgstr ""
+msgstr "واردات خودکار"
 
 #: spyder/plugins/help/widgets.py:393
 msgid "Show Source"
-msgstr ""
+msgstr "نمایش مبدا"
 
 #: spyder/plugins/help/widgets.py:399
 msgid "Rich Text"
-msgstr ""
+msgstr "متن غنی"
 
 #: spyder/plugins/help/widgets.py:406
 msgid "Plain Text"
-msgstr ""
+msgstr "متن ساده"
 
 #: spyder/plugins/help/widgets.py:413
 msgid "Lock/Unlock"
-msgstr ""
+msgstr "قفل / باز کردن"
 
 #: spyder/plugins/help/widgets.py:421 spyder/plugins/onlinehelp/widgets.py:202 spyder/plugins/onlinehelp/widgets.py:203 spyder/widgets/browser.py:424
 msgid "Home"
-msgstr ""
+msgstr "خانه"
 
 #: spyder/plugins/help/widgets.py:500
 msgid "Unlock"
-msgstr ""
+msgstr "باز کردن"
 
 #: spyder/plugins/help/widgets.py:503
 msgid "Lock"
-msgstr ""
+msgstr "قفل کردن"
 
 #: spyder/plugins/help/widgets.py:612
 msgid "The following error occurred when calling <b>Sphinx %s</b>. <br>Incompatible Sphinx version or doc string decoding failed.<br><br>Error message:<br>%s"
-msgstr ""
+msgstr "هنگام فراخوانی <b>Sphinx %s</b> خطای زیر رخ داد. <br>نسخه Sphinx ناسازگار یا رمزگشایی رشته سند ناموفق بود.<br><br>پیام خطا:<br>%s"
 
 #: spyder/plugins/help/widgets.py:764
 msgid "Retrieving documentation"
-msgstr ""
+msgstr "بازیابی اسناد"
 
 #: spyder/plugins/help/widgets.py:776
 msgid "Here you can get help of any object by pressing %s in front of it, either on the Editor or the Console.%s"
-msgstr ""
+msgstr "در اینجا می توانید با فشار دادن %s در جلوی آن، چه در ویرایشگر یا کنسول، از هر شیئی کمک بگیرید. %s"
 
 #: spyder/plugins/help/widgets.py:780
 msgid "Here you can get help of any object by pressing %s in front of it on the Editor, or %s in front of it on the Console.%s"
-msgstr ""
+msgstr "در اینجا می‌توانید با فشار دادن %s در جلوی آن در ویرایشگر یا %s در جلوی آن در کنسول، از هر شیئی کمک بگیرید. %s"
 
 #: spyder/plugins/help/widgets.py:784
 msgid "Help can also be shown automatically after writing a left parenthesis next to an object. You can activate this behavior in %s."
-msgstr ""
+msgstr "پس از نوشتن پرانتز سمت چپ در کنار یک شی، راهنما نیز می تواند به طور خودکار نشان داده شود. می توانید این رفتار را در %s فعال کنید."
 
 #: spyder/plugins/help/widgets.py:788
 msgid "Preferences > Help"
-msgstr ""
+msgstr "تنظیمات > راهنما"
 
 #: spyder/plugins/help/widgets.py:800
 msgid "Usage"
-msgstr ""
+msgstr "استفاده"
 
 #: spyder/plugins/help/widgets.py:801
 msgid "New to Spyder? Read our"
-msgstr ""
+msgstr "تازه به اسپایدر هستید، مقاله آموزشی ما را بخوانید"
 
 #: spyder/plugins/help/widgets.py:802
 msgid "tutorial"
-msgstr ""
+msgstr "آموزش"
 
 #: spyder/plugins/help/widgets.py:818
 msgid "Please consider installing Sphinx to get documentation rendered in rich text."
-msgstr ""
+msgstr "لطفاً نصب Sphinx را در نظر بگیرید تا اسناد را با متن غنی ارائه کنید."
 
 #: spyder/plugins/help/widgets.py:1079
 msgid "No source code available."
-msgstr ""
+msgstr "کد منبع موجود نیست."
 
 #: spyder/plugins/history/confpage.py:32
 msgid "Scroll automatically to last entry"
-msgstr ""
+msgstr "به طور خودکار به آخرین ورودی بروید"
 
 #: spyder/plugins/history/plugin.py:55 spyder/plugins/history/widgets.py:109 spyder/plugins/pylint/confpage.py:28 spyder/plugins/pylint/main_widget.py:635
 msgid "History"
-msgstr ""
+msgstr "تاریخچه"
 
 #: spyder/plugins/history/plugin.py:58
 msgid "Provide command history for IPython Consoles"
-msgstr ""
+msgstr "ارائه تاریخچه فرمان برای کنسول های IPython"
 
 #: spyder/plugins/ipythonconsole/confpage.py:29
 msgid "Display initial banner"
-msgstr ""
+msgstr "نمایش بنر اولیه"
 
 #: spyder/plugins/ipythonconsole/confpage.py:30
 msgid "This option lets you hide the message shown at\n"
 "the top of the console when it's opened."
-msgstr ""
+msgstr "این گزینه به شما امکان می دهد پیام نشان داده شده در را پنهان کنید\n"
+"بالای کنسول وقتی باز می شود."
 
 #: spyder/plugins/ipythonconsole/confpage.py:34
 msgid "Ask for confirmation before closing"
-msgstr ""
+msgstr "قبل از بستن درخواست تایید کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:37
 msgid "Ask for confirmation before removing all user-defined variables"
-msgstr ""
+msgstr "قبل از حذف همه متغیرهای تعریف شده توسط کاربر، درخواست تأیید کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:40
 msgid "This option lets you hide the warning message shown\n"
 "when resetting the namespace from Spyder."
-msgstr ""
+msgstr "این گزینه به شما امکان می دهد پیام هشدار نمایش داده شده را مخفی کنید\n"
+"هنگام تنظیم مجدد فضای نام از اسپایدر."
 
 #: spyder/plugins/ipythonconsole/confpage.py:42 spyder/plugins/ipythonconsole/widgets/main_widget.py:477
 msgid "Show elapsed time"
-msgstr ""
+msgstr "نمایش زمان سپری شده"
 
 #: spyder/plugins/ipythonconsole/confpage.py:44
 msgid "Ask for confirmation before restarting"
-msgstr ""
+msgstr "قبل از راه اندازی مجدد درخواست تأیید کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:46
 msgid "This option lets you hide the warning message shown\n"
 "when restarting the kernel."
-msgstr ""
+msgstr "این گزینه به شما امکان می دهد پیام هشدار نمایش داده شده را مخفی کنید\n"
+"هنگام راه‌اندازی مجدد هسته."
 
 #: spyder/plugins/ipythonconsole/confpage.py:58
 msgid "Completion type"
-msgstr ""
+msgstr "نوع تکمیلگر"
 
 #: spyder/plugins/ipythonconsole/confpage.py:59
 msgid "Decide what type of completion to use"
-msgstr ""
+msgstr "تصمیم بگیرید که از چه نوع تکمیلگری استفاده کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:61
 msgid "Graphical"
-msgstr ""
+msgstr "گرافیکی"
 
 #: spyder/plugins/ipythonconsole/confpage.py:61
 msgid "Plain"
-msgstr ""
+msgstr "ساده"
 
 #: spyder/plugins/ipythonconsole/confpage.py:61
 msgid "Terminal"
-msgstr ""
+msgstr "ترمینال"
 
 #: spyder/plugins/ipythonconsole/confpage.py:62
 msgid "Completion:"
-msgstr ""
+msgstr "تکمیلگرها:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:76
 msgid " lines"
-msgstr ""
+msgstr " خطوط"
 
 #: spyder/plugins/ipythonconsole/confpage.py:76
 msgid "Buffer:  "
-msgstr ""
+msgstr "بافر:  "
 
 #: spyder/plugins/ipythonconsole/confpage.py:78
 msgid "Set the maximum number of lines of text shown in the\n"
 "console before truncation. Specifying -1 disables it\n"
 "(not recommended!)"
-msgstr ""
+msgstr "حداکثر تعداد خطوط متن نشان داده شده در را تنظیم کنید\n"
+"کنسول قبل از بریدن مشخص کردن -1 آن را غیرفعال می کند\n"
+"(توصیه نمیشود!)"
 
 #: spyder/plugins/ipythonconsole/confpage.py:87
 msgid "Support for graphics (Matplotlib)"
-msgstr ""
+msgstr "پشتیبانی از گرافیک (Matplotlib)"
 
 #: spyder/plugins/ipythonconsole/confpage.py:88
 msgid "Activate support"
-msgstr ""
+msgstr "پشتیبانی را فعال کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:90
 msgid "Automatically load Pylab and NumPy modules"
-msgstr ""
+msgstr "به طور خودکار ماژول های Pylab و NumPy را بارگیری کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:92
 msgid "This lets you load graphics support without importing\n"
 "the commands to do plots. Useful to work with other\n"
 "plotting libraries different to Matplotlib or to develop\n"
 "GUIs with Spyder."
-msgstr ""
+msgstr "این به شما امکان می دهد پشتیبانی گرافیکی را بدون وارد کردن بارگیری کنید\n"
+"دستورها انجام نمودارها برای کار با دیگران مفید است\n"
+"رسم کتابخانه های متفاوت از Matplotlib یا توسعه\n"
+"رابط کاربری گرافیکی با اسپایدر."
 
 #: spyder/plugins/ipythonconsole/confpage.py:105
 msgid "Inline"
-msgstr ""
+msgstr "درون خطی"
 
 #: spyder/plugins/ipythonconsole/confpage.py:107
 msgid "Graphics backend"
-msgstr ""
+msgstr "گرافیک backend"
 
 #: spyder/plugins/ipythonconsole/confpage.py:108
 msgid "Decide how graphics are going to be displayed in the console. If unsure, please select <b>%s</b> to put graphics inside the console or <b>%s</b> to interact with them (through zooming and panning) in a separate window."
-msgstr ""
+msgstr "تصمیم بگیرید که چگونه گرافیک هایی در کنسول نمایش داده می شوند. اگر مطمئن نیستید، لطفاً <b>%s</b> را برای قرار دادن گرافیک‌ها در داخل کنسول یا <b>%s</b> را برای تعامل با آنها (از طریق بزرگ‌نمایی و جابجایی) در یک پنجره جداگانه انتخاب کنید."
 
 #: spyder/plugins/ipythonconsole/confpage.py:123
 msgid "Backend:"
-msgstr ""
+msgstr "Backend:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:126
 msgid "This option will be applied the next time a console is opened."
-msgstr ""
+msgstr "این گزینه دفعه بعد که یک کنسول باز می شود اعمال می شود."
 
 #: spyder/plugins/ipythonconsole/confpage.py:137
 msgid "Inline backend"
-msgstr ""
+msgstr "Inline backend"
 
 #: spyder/plugins/ipythonconsole/confpage.py:138
 msgid "Decide how to render the figures created by this backend"
-msgstr ""
+msgstr "تصمیم بگیرید که چگونه فیگورهای ایجاد شده توسط این backend را رندر کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:142
 msgid "Format:"
-msgstr ""
+msgstr "قالب‌بندی:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:146
 msgid "Resolution:"
-msgstr ""
+msgstr "وضوح:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:146
 msgid "dpi"
-msgstr ""
+msgstr "dpi"
 
 #: spyder/plugins/ipythonconsole/confpage.py:148
 msgid "Only used when the format is PNG. Default is 72"
-msgstr ""
+msgstr "فقط زمانی استفاده می شود که فرمت PNG باشد. پیش فرض 72 است"
 
 #: spyder/plugins/ipythonconsole/confpage.py:151
 msgid "Width:"
-msgstr ""
+msgstr "عرض:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:151 spyder/plugins/ipythonconsole/confpage.py:155
 msgid "inches"
-msgstr ""
+msgstr "اینچ"
 
 #: spyder/plugins/ipythonconsole/confpage.py:153
 msgid "Default is 6"
-msgstr ""
+msgstr "پیش فرض 6 است"
 
 #: spyder/plugins/ipythonconsole/confpage.py:155
 msgid "Height:"
-msgstr ""
+msgstr "ارتفاع:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:157
 msgid "Default is 4"
-msgstr ""
+msgstr "پیش فرض 4 است"
 
 #: spyder/plugins/ipythonconsole/confpage.py:159
 msgid "Use a tight layout for inline plots"
-msgstr ""
+msgstr "از یک طرح بندی محکم برای طرح های درون خطی استفاده کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:161
 msgid "Sets bbox_inches to \"tight\" when\n"
@@ -3951,179 +3959,183 @@ msgid "Sets bbox_inches to \"tight\" when\n"
 "When enabled, can cause discrepancies\n"
 "between the image displayed inline and\n"
 "that created using savefig."
-msgstr ""
+msgstr "Bbox_inches را روی \"tight\" تنظیم می کند وقتی\n"
+"رسم درون خطی با matplotlib است.\n"
+"وقتی فعال باشد، می تواند باعث ایجاد اختلاف شود\n"
+"بین تصویر نمایش داده شده درون خطی و\n"
+"که با استفاده از savefig ایجاد شده است."
 
 #: spyder/plugins/ipythonconsole/confpage.py:194
 msgid "You can run several lines of code when a console is started. Please introduce each one separated by semicolons and a space, for example:<br><i>import os; import sys</i>"
-msgstr ""
+msgstr "هنگام راه‌اندازی یک کنسول می توانید چندین خط کد را اجرا کنید. لطفاً هر کدام را که با نقطه ویرگول و فاصله از هم جدا شده اند، معرفی کنید، به عنوان مثال:<br><i>import os; import sys</i>"
 
 #: spyder/plugins/ipythonconsole/confpage.py:200 spyder/plugins/ipythonconsole/confpage.py:237
 msgid "Lines:"
-msgstr ""
+msgstr "خطوط:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:209
 msgid "Run a file"
-msgstr ""
+msgstr "اجرای فایل"
 
 #: spyder/plugins/ipythonconsole/confpage.py:210
 msgid "You can also run a whole file at startup instead of just some lines (This is similar to have a PYTHONSTARTUP file)."
-msgstr ""
+msgstr "همچنین می‌توانید به‌جای چند خط، یک فایل کامل را هنگام راه‌اندازی اجرا کنید (این شبیه به داشتن یک فایل PYTHONSTARTUP است)."
 
 #: spyder/plugins/ipythonconsole/confpage.py:214
 msgid "Use the following file:"
-msgstr ""
+msgstr "از فایل زیر استفاده کنید:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:228
 msgid "Run code while debugging"
-msgstr ""
+msgstr "کد را هنگام اشکال زدایی اجرا کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:229
 msgid "You can run several lines of code on each new prompt while debugging. Please introduce each one separated by semicolons and a space, for example:<br><i>import matplotlib.pyplot as plt</i>"
-msgstr ""
+msgstr "هنگام اشکال زدایی می توانید چندین خط کد را روی هر فرمان جدید اجرا کنید. لطفاً هر کدام را که با نقطه ویرگول و یک فاصله از هم جدا شده اند، معرفی کنید، به عنوان مثال:<br><i>import matplotlib.pyplot به عنوان plt</i>"
 
 #: spyder/plugins/ipythonconsole/confpage.py:245
 msgid "Debug"
-msgstr ""
+msgstr "اشکال زدایی"
 
 #: spyder/plugins/ipythonconsole/confpage.py:249
 msgid "Prevent editor from closing files while debugging"
-msgstr ""
+msgstr "از بستن فایل ها در حین اشکال زدایی توسط ویرایشگر جلوگیری کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:251
 msgid "This option prevents the user from closing a file while it is debugged."
-msgstr ""
+msgstr "این گزینه از بستن فایل در حین رفع اشکال توسط کاربر جلوگیری می کند."
 
 #: spyder/plugins/ipythonconsole/confpage.py:256
 msgid "Stop debugging on first line of files without breakpoints"
-msgstr ""
+msgstr "اشکال زدایی در خط اول فایل ها را بدون نقطه شکست متوقف کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:258
 msgid "This option lets you decide if the debugger should stop on the first line while debugging if no breakpoints are present."
-msgstr ""
+msgstr "این گزینه به شما امکان می دهد در صورت عدم وجود نقطه انفصال، تصمیم بگیرید که آیا اشکال زدا در خط اول در هنگام اشکال زدایی متوقف شود یا خیر."
 
 #: spyder/plugins/ipythonconsole/confpage.py:264
 msgid "Ignore Python libraries while debugging"
-msgstr ""
+msgstr "هنگام اشکال زدایی، کتابخانه های پایتون را نادیده بگیرید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:265
 msgid "This option lets you decide if the debugger should ignore the system libraries while debugging."
-msgstr ""
+msgstr "این گزینه به شما امکان می دهد تصمیم بگیرید که آیا دیباگر باید کتابخانه های سیستم را در حین اشکال زدایی نادیده بگیرد."
 
 #: spyder/plugins/ipythonconsole/confpage.py:270
 msgid "Process execute events while debugging"
-msgstr ""
+msgstr "فرآیند اجرای رویدادها در حین اشکال زدایی"
 
 #: spyder/plugins/ipythonconsole/confpage.py:271
 msgid "This option lets you decide if the debugger should process the 'execute events' after each prompt, such as matplotlib 'show' command."
-msgstr ""
+msgstr "این گزینه به شما امکان می دهد تصمیم بگیرید که آیا دیباگر باید \"اجرای رویدادها\" را بعد از هر فرمان پردازش کند، مانند دستور \"show\" matplotlib."
 
 #: spyder/plugins/ipythonconsole/confpage.py:277
 msgid "Use exclamation mark prefix for Pdb commands"
-msgstr ""
+msgstr "از پیشوند علامت تعجب برای دستورات Pdb استفاده کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:279
 msgid "This option lets you decide if the Pdb commands should be prefixed by an exclamation mark. This helps in separating Pdb commands from Python code."
-msgstr ""
+msgstr "این گزینه به شما امکان می دهد تصمیم بگیرید که آیا دستورات Pdb باید با علامت تعجب پیشوند شوند یا خیر. این به جداسازی دستورات Pdb از کد پایتون کمک می کند."
 
 #: spyder/plugins/ipythonconsole/confpage.py:288
 msgid "Jedi completion"
-msgstr ""
+msgstr "تکمیلگر Jedi"
 
 #: spyder/plugins/ipythonconsole/confpage.py:289
 msgid "Enable Jedi-based <tt>Tab</tt> completion in the IPython console; similar to the greedy completer, but without evaluating the code.<br><b>Warning:</b> Slows down your console when working with large dataframes!"
-msgstr ""
+msgstr "تکمیل <tt>Tab</tt> مبتنی بر Jedi را در کنسول IPython فعال کنید. شبیه به تکمیل کننده حریص، اما بدون ارزیابی کد.<br><b>هشدار:</b> هنگام کار با دیتافریم های بزرگ، کنسول شما را کند می کند!"
 
 #: spyder/plugins/ipythonconsole/confpage.py:296
 msgid "Use Jedi completion in the IPython console"
-msgstr ""
+msgstr "از تکمیل Jedi در کنسول IPython استفاده کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:298
 msgid "<b>Warning</b>: Slows down your console when working with large dataframes!<br>Allows completion of nested lists etc."
-msgstr ""
+msgstr "<b>هشدار</b>: هنگام کار با دیتافریم های بزرگ، کنسول شما را کند می کند!<br>به تکمیل لیست های تو در تو و غیره اجازه می دهد."
 
 #: spyder/plugins/ipythonconsole/confpage.py:309
 msgid "Greedy completion"
-msgstr ""
+msgstr "تکمیلگر Greedy"
 
 #: spyder/plugins/ipythonconsole/confpage.py:310
 msgid "Enable <tt>Tab</tt> completion on elements of lists, results of function calls, etc, <i>without</i> assigning them to a variable, like <tt>li[0].&lt;Tab&gt;</tt> or <tt>ins.meth().&lt;Tab&gt;</tt> <br><b>Warning:</b> Due to a bug, IPython's greedy completer requires a leading <tt>&lt;Space&gt;</tt> for some completions; e.g.  <tt>np.sin(&lt;Space&gt;np.&lt;Tab&gt;</tt> works while <tt>np.sin(np.&lt;Tab&gt; </tt> doesn't."
-msgstr ""
+msgstr "فعال کردن تکمیل <tt>Tab</tt> در عناصر لیست، نتایج فراخوانی تابع و غیره، <i>without<br></i> اختصاص دادن آنها به متغیری، مانند <tt>li[0].&lt;Tab&gt;</tt> یا <tt>ins.meth().&lt;Tab&gt;</tt> <br><b>Warning:</b> به دلیل وجود یک اشکال، تکمیل کننده حریص IPython به یک <tt>&lt;Space&gt;</tt> برای برخی از تکمیل‌ها نیاز دارد. به عنوان مثال، <tt>np.sin(&lt;Space&gt;np.&lt;Tab&gt;</tt> کار می کند در حالی که <tt>np.sin(np.&lt;Tab&gt; </tt> این کار را نمی کند."
 
 #: spyder/plugins/ipythonconsole/confpage.py:322
 msgid "Use greedy completion in the IPython console"
-msgstr ""
+msgstr "از تکمیل greedy در کنسول IPython استفاده کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:334
 msgid "Autocall"
-msgstr ""
+msgstr "تماس خودکار"
 
 #: spyder/plugins/ipythonconsole/confpage.py:335
 msgid "Autocall makes IPython automatically call any callable object even if you didn't type explicit parentheses.<br>For example, if you type <i>str 43</i> it becomes <i>str(43)</i> automatically."
-msgstr ""
+msgstr "Autocall باعث می‌شود IPython به‌طور خودکار هر شیء قابل فراخوانی را فراخوانی کند، حتی اگر پرانتز صریح را تایپ نکرده باشید.<br>به عنوان مثال، اگر <i>str 43</i> را تایپ کنید، به صورت خودکار <i>str(43)</i> می‌شود."
 
 #: spyder/plugins/ipythonconsole/confpage.py:342
 msgid "Smart"
-msgstr ""
+msgstr "هوشمند"
 
 #: spyder/plugins/ipythonconsole/confpage.py:343
 msgid "Full"
-msgstr ""
+msgstr "پر"
 
 #: spyder/plugins/ipythonconsole/confpage.py:344
 msgid "Off"
-msgstr ""
+msgstr "خاموش"
 
 #: spyder/plugins/ipythonconsole/confpage.py:346
 msgid "Autocall:  "
-msgstr ""
+msgstr "تماس خودکار:  "
 
 #: spyder/plugins/ipythonconsole/confpage.py:347
 msgid "On <b>%s</b> mode, Autocall is not applied if there are no arguments after the callable. On <b>%s</b> mode, all callable objects are automatically called (even if no arguments are present)."
-msgstr ""
+msgstr "در حالت <b>%s</b>، اگر هیچ آرگومان بعد از قابل فراخوانی وجود نداشته باشد، Autocall اعمال نمی شود. در حالت <b>%s</b>، تمام اشیاء قابل فراخوانی به طور خودکار فراخوانی می شوند (حتی اگر هیچ آرگومان موجود نباشد)."
 
 #: spyder/plugins/ipythonconsole/confpage.py:359
 msgid "Symbolic mathematics"
-msgstr ""
+msgstr "ریاضیات نمادین"
 
 #: spyder/plugins/ipythonconsole/confpage.py:360
 msgid "Perfom symbolic operations in the console (e.g. integrals, derivatives, vector calculus, etc) and get the outputs in a beautifully printed style (it requires the Sympy module)."
-msgstr ""
+msgstr "عملیات نمادین را در کنسول انجام دهید (مثلاً انتگرال ها، مشتقات، محاسبات برداری، و غیره) و خروجی ها را به سبک چاپ شده ای زیبا دریافت کنید (به ماژول Sympy نیاز دارد)."
 
 #: spyder/plugins/ipythonconsole/confpage.py:366
 msgid "Use symbolic math"
-msgstr ""
+msgstr "از ریاضیات نمادین استفاده کنید"
 
 #: spyder/plugins/ipythonconsole/confpage.py:367
 msgid "This option loads the Sympy library to work with.<br>Please refer to its documentation to learn how to use it."
-msgstr ""
+msgstr "این گزینه کتابخانه Sympy را برای کار با آن بارگیری می کند.<br>لطفاً برای یادگیری نحوه استفاده از آن به مستندات آن مراجعه کنید."
 
 #: spyder/plugins/ipythonconsole/confpage.py:377
 msgid "Prompts"
-msgstr ""
+msgstr "اعلان ها"
 
 #: spyder/plugins/ipythonconsole/confpage.py:378
 msgid "Modify how Input and Output prompts are shown in the console."
-msgstr ""
+msgstr "نحوه نمایش اعلان‌های ورودی و خروجی در کنسول را تغییر دهید."
 
 #: spyder/plugins/ipythonconsole/confpage.py:382
 msgid "Input prompt:"
-msgstr ""
+msgstr "اعلان ورودی:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:384
 msgid "Default is<br>In [&lt;span class=\"in-prompt-number\"&gt;%i&lt;/span&gt;]:"
-msgstr ""
+msgstr "پیش فرض<br>در [&lt;span class=\"in-prompt-number\"&gt;%i&lt;/span&gt;] است:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:389
 msgid "Output prompt:"
-msgstr ""
+msgstr "اعلان خروجی:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:391
 msgid "Default is<br>Out[&lt;span class=\"out-prompt-number\"&gt;%i&lt;/span&gt;]:"
-msgstr ""
+msgstr "پیش فرض<br>خارج است[&lt;span class=\"out-prompt-number\"&gt;%i&lt;/span&gt;]:"
 
 #: spyder/plugins/ipythonconsole/confpage.py:407
 msgid "Windows adjustments"
-msgstr ""
+msgstr "تنظیمات ویندوز"
 
 #: spyder/plugins/ipythonconsole/confpage.py:409
 msgid "Hide command line output windows generated by the subprocess module."
