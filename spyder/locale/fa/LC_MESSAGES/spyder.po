@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 11:30\n"
+"PO-Revision-Date: 2023-12-31 12:30\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -631,15 +631,15 @@ msgstr "از یک instance استفاده کنید"
 
 #: spyder/plugins/application/confpage.py:61
 msgid "Set this to open external<br> Python files in an already running instance (Requires a restart)"
-msgstr ""
+msgstr "تنظیم فایل‌های خارجی <br> پایتون در نمونه‌ای که قبلاً در حال اجرا است باز شود (نیاز به راه‌اندازی مجدد دارد)"
 
 #: spyder/plugins/application/confpage.py:65
 msgid "Prompt when exiting"
-msgstr ""
+msgstr "در هنگام خروج اعلان کنید"
 
 #: spyder/plugins/application/confpage.py:66
 msgid "Show internal Spyder errors to report them to Github"
-msgstr ""
+msgstr "خطاهای داخلی اسپایدر را نشان دهید تا آنها را به Github گزارش دهید"
 
 #: spyder/plugins/application/confpage.py:68
 msgid "Check for updates on startup"
@@ -651,11 +651,11 @@ msgstr "قطعه ها"
 
 #: spyder/plugins/application/confpage.py:98
 msgid "Vertical tabs in panes"
-msgstr ""
+msgstr "قطعه های عمودی در پنجره ها"
 
 #: spyder/plugins/application/confpage.py:100
 msgid "Custom margin for panes:"
-msgstr ""
+msgstr "حاشیه شخصی سازی شده برای صفحات:"
 
 #: spyder/plugins/application/confpage.py:102
 msgid "pixels"
@@ -663,7 +663,7 @@ msgstr "پیکسل‌ها"
 
 #: spyder/plugins/application/confpage.py:109
 msgid "Cursor blinking:"
-msgstr ""
+msgstr "چشمک زدن Cursor:"
 
 #: spyder/plugins/application/confpage.py:112
 msgid "ms"
@@ -671,27 +671,27 @@ msgstr "ms"
 
 #: spyder/plugins/application/confpage.py:150
 msgid "macOS integration"
-msgstr ""
+msgstr "ادغام با macOS"
 
 #: spyder/plugins/application/confpage.py:152
 msgid "Open files from Finder with Spyder"
-msgstr ""
+msgstr "فایل های Finder را با Spyder باز کنید"
 
 #: spyder/plugins/application/confpage.py:154
 msgid "Register Spyder with the Launch Services"
-msgstr ""
+msgstr "Spyder را با Launch Services ثبت کنید"
 
 #: spyder/plugins/application/confpage.py:162
 msgid "Launch Spyder with <code>python.app</code> to enable Apple event integrations."
-msgstr ""
+msgstr "برای فعال کردن ادغام رویدادهای اپل، Spyder را با <code>python.app</code> راه‌اندازی کنید."
 
 #: spyder/plugins/application/confpage.py:168
 msgid "Screen resolution"
-msgstr ""
+msgstr "وضوح صفحه نمایش"
 
 #: spyder/plugins/application/confpage.py:170
 msgid "Configuration for high DPI screens<br><br>Please see <a href=\"{0}\">{0}</a><> for more information about these options (in English)."
-msgstr ""
+msgstr "پیکربندی صفحه‌های DPI بالا<br><br>لطفاً برای اطلاعات بیشتر درباره این گزینه‌ها (به زبان انگلیسی) به <a href=\"{0}\">{0}</a><> مراجعه کنید."
 
 #: spyder/plugins/application/confpage.py:181
 msgid "Normal"
@@ -699,24 +699,25 @@ msgstr "معمولی"
 
 #: spyder/plugins/application/confpage.py:185
 msgid "Enable auto high DPI scaling"
-msgstr ""
+msgstr "فعال کردن مقیاس خودکار high DPI"
 
 #: spyder/plugins/application/confpage.py:188
 msgid "Set this for high DPI displays"
-msgstr ""
+msgstr "تنظیم این برای نمایشگرهای high DPI"
 
 #: spyder/plugins/application/confpage.py:192
 msgid "Set a custom high DPI scaling"
-msgstr ""
+msgstr "تنظیم یک مقیاس شخصی سازی شده high DPI"
 
 #: spyder/plugins/application/confpage.py:195
 msgid "Set this for high DPI displays when auto scaling does not work"
-msgstr ""
+msgstr "تنظیم این برای نمایشگرهای high DPI هنگامی که مقیاس خودکار کار نمی کند"
 
 #: spyder/plugins/application/confpage.py:202
 msgid "Enter values for different screens separated by semicolons ';'.\n"
 "Float values are supported"
-msgstr ""
+msgstr "مقادیر را برای صفحات مختلف که با نقطه ویرگول «;» از هم جدا شده اند وارد کنید.\n"
+"مقادیر شناور (float) پشتیبانی می شوند"
 
 #: spyder/plugins/application/confpage.py:235 spyder/plugins/ipythonconsole/confpage.py:28 spyder/plugins/outlineexplorer/widgets.py:48
 msgid "Interface"
@@ -728,11 +729,11 @@ msgstr "تنظیمات پیشرفته"
 
 #: spyder/plugins/application/confpage.py:257
 msgid "We're sorry but setting a scale factor bellow 1.0 isn't possible. Any scale factor bellow 1.0 will be set to 1.0"
-msgstr ""
+msgstr "متأسفیم، اما تنظیم ضریب مقیاس زیر 1.0 ممکن نیست. هر ضریب مقیاس زیر 1.0 روی 1.0 تنظیم می شود"
 
 #: spyder/plugins/application/confpage.py:282
 msgid "We're sorry but the following error occurred while trying to set your selected language:<br><br><tt>{}</tt>"
-msgstr ""
+msgstr "متأسفیم، اما هنگام تلاش برای تنظیم زبان انتخابی شما، خطای زیر رخ داد:<br><br><tt>{}</tt>"
 
 #: spyder/plugins/application/container.py:127
 msgid "Spyder documentation"
@@ -740,7 +741,7 @@ msgstr "دفترچه راهنمای اسپایدر"
 
 #: spyder/plugins/application/container.py:138
 msgid "Tutorial videos"
-msgstr ""
+msgstr "ویدیوهای آموزشی"
 
 #: spyder/plugins/application/container.py:145
 msgid "Troubleshooting..."
@@ -772,7 +773,7 @@ msgstr "نمایش و ویرایش متغیر های محیطی کنونی کا�
 
 #: spyder/plugins/application/container.py:179
 msgid "Show current user environment variables (i.e. for all sessions)"
-msgstr ""
+msgstr "نمایش متغیرهای محیط فعلی کاربر (یعنی برای همه جلسات)"
 
 #: spyder/plugins/application/container.py:183
 msgid "Current user environment variables..."
@@ -788,11 +789,11 @@ msgstr "راه اندازی مجدد"
 
 #: spyder/plugins/application/container.py:201
 msgid "&Restart in debug mode"
-msgstr ""
+msgstr "&راه‌اندازی مجدد در حالت اشکال‌زدایی (debug)"
 
 #: spyder/plugins/application/container.py:202
 msgid "Restart in debug mode"
-msgstr ""
+msgstr "راه‌اندازی مجدد در حالت اشکال‌زدایی (debug)"
 
 #: spyder/plugins/application/container.py:212
 msgid "Debug logs"
@@ -812,7 +813,7 @@ msgstr "<h3>Spyder {} is available!</h3><br>"
 
 #: spyder/plugins/application/container.py:306
 msgid "Would you like to automatically download and install it using Spyder's installer?<br><br>We <a href='{}'>recommend our own installer</a> because it's more stable and makes updating easy. This will leave your existing Spyder installation untouched."
-msgstr ""
+msgstr "آیا می‌خواهید با استفاده از نصب‌کننده Spyder به‌طور خودکار آن را دانلود و نصب کنید؟<br><br>ما <a href='{}'>نصب‌کننده خود را توصیه می‌کنیم</a> زیرا پایدارتر است و به‌روزرسانی را بسیار آسان‌تر می‌کند. با این کار نصب Spyder موجود شما دست نخورده باقی می ماند."
 
 #: spyder/plugins/application/container.py:317
 msgid "Would you like to automatically download and install it?"
@@ -820,39 +821,39 @@ msgstr "میخواهید به صورت خودکار دانلود و نصب کن�
 
 #: spyder/plugins/application/container.py:348
 msgid "Run the following command or commands in the Anaconda prompt to update manually:<br><br>"
-msgstr ""
+msgstr "برای به روز رسانی دستی دستور یا دستورهای زیر را در Anaconda prompt اجرا کنید:<br><br>"
 
 #: spyder/plugins/application/container.py:352
 msgid "Run the following command in a cmd prompt to update manually:<br><br>"
-msgstr ""
+msgstr "دستور زیر را در cmd prompt برای به روز رسانی دستی اجرا کنید:<br><br>"
 
 #: spyder/plugins/application/container.py:356
 msgid "Run the following command or commands in a terminal to update manually:<br><br>"
-msgstr ""
+msgstr "دستور یا دستورهای زیر را در ترمینال برای به روز رسانی دستی اجرا کنید:<br><br>"
 
 #: spyder/plugins/application/container.py:359
 msgid "Run the following command in a terminal to update manually:<br><br>"
-msgstr ""
+msgstr "دستور یا دستورات زیر را در ترمینال برای به روز رسانی دستی اجرا کنید:<br><br>"
 
 #: spyder/plugins/application/container.py:379
 msgid "<b>Important note:</b> You installed Spyder with pip in a Conda environment, which is not a good idea. See <a href=\"{}\">our video</a> for more details about it."
-msgstr ""
+msgstr "<b>نکته مهم:</b> شما Spyder را با pip در محیط Conda نصب کردید که ایده خوبی نیست. برای جزئیات بیشتر در مورد آن به <a href=\"{}\">ویدیوی ما</a> مراجعه کنید."
 
 #: spyder/plugins/application/container.py:397
 msgid "<b>Important note:</b> Since you installed Spyder with Anaconda, please don't use pip to update it as that will break your installation."
-msgstr ""
+msgstr "<b>نکته مهم:</b> از آنجایی که Spyder را با Anaconda نصب کردید، لطفاً از pip برای به‌روزرسانی آن استفاده نکنید زیرا نصب شما را مختل می‌کند."
 
 #: spyder/plugins/application/container.py:406
 msgid "<br><br>For more information, visit our <a href=\"{}\">installation guide</a>."
-msgstr ""
+msgstr "<br><br>برای اطلاعات بیشتر، از <a href=\"{}\">راهنمای نصب</a> ما دیدن کنید."
 
 #: spyder/plugins/application/container.py:414
 msgid "Spyder is up to date."
-msgstr ""
+msgstr "Spyder به روز است."
 
 #: spyder/plugins/application/container.py:518
 msgid "<b>You have missing dependencies!</b><br><br><tt>%s</tt><br><b>Please install them to avoid this message.</b><br><br><i>Note</i>: Spyder could work without some of these dependencies, however to have a smooth experience when using Spyder we <i>strongly</i> recommend you to install all the listed missing dependencies.<br><br>Failing to install these dependencies might result in bugs. Please be sure that any found bugs are not the direct result of missing dependencies, prior to reporting a new issue."
-msgstr ""
+msgstr "<b>شما وابستگی‌های گمشده دارید!</b><br><br><tt>%s</tt><br><b>لطفاً آنها را نصب کنید تا از این پیام جلوگیری کنید.</b><br><br><br> ><i>توجه</i>: Spyder می‌تواند بدون برخی از این وابستگی‌ها کار کند، اما برای داشتن تجربه‌ای روان هنگام استفاده از Spyder، <i>اکیداً</i> به شما توصیه می‌کنیم که تمام وابستگی‌های گمشده فهرست شده را نصب کنید.<br> <br>نصب نکردن این وابستگی ها ممکن است منجر به اشکال شود. لطفاً قبل از گزارش یک مشکل جدید، مطمئن شوید که هر گونه اشکال یافت شده نتیجه مستقیم وابستگی های از دست رفته نیست."
 
 #: spyder/plugins/application/container.py:555
 msgid "Question"
@@ -860,11 +861,11 @@ msgstr "سوال"
 
 #: spyder/plugins/application/container.py:558
 msgid "Which debug mode do you want Spyder to restart in?"
-msgstr ""
+msgstr "می‌خواهید اسپایدر در کدام حالت اشکال‌زدایی مجدد راه‌اندازی شود?"
 
 #: spyder/plugins/application/container.py:561
 msgid "Verbose"
-msgstr ""
+msgstr "درازنویسی"
 
 #: spyder/plugins/application/container.py:562
 msgid "Minimal"
@@ -888,15 +889,15 @@ msgstr "برنامه"
 
 #: spyder/plugins/application/plugin.py:57
 msgid "Provide main application base actions."
-msgstr ""
+msgstr "اقدامات پایه برنامه اصلی را ارائه دهید."
 
 #: spyder/plugins/application/widgets/install.py:32
 msgid "Downloading update"
-msgstr ""
+msgstr "درحال دانلود به‌روزرسانی"
 
 #: spyder/plugins/application/widgets/install.py:33
 msgid "Download finished"
-msgstr ""
+msgstr "دریافت پایان یافت"
 
 #: spyder/plugins/application/widgets/install.py:34
 msgid "Installing update"
@@ -904,7 +905,7 @@ msgstr "در حال نصب به‌روزرسانی"
 
 #: spyder/plugins/application/widgets/install.py:35 spyder/plugins/completion/providers/kite/utils/install.py:34
 msgid "Installation finished"
-msgstr ""
+msgstr "نصب انجام شد"
 
 #: spyder/plugins/application/widgets/install.py:36
 msgid "Update available"
@@ -916,35 +917,35 @@ msgstr "بررسی برای به روزرسانی"
 
 #: spyder/plugins/application/widgets/install.py:38
 msgid "Cancelled update"
-msgstr ""
+msgstr "آپدیت کنسل شد"
 
 #: spyder/plugins/application/widgets/install.py:41
 msgid "Downloading Spyder {version}"
-msgstr ""
+msgstr "دانلود کردن اسپایدر {version}"
 
 #: spyder/plugins/application/widgets/install.py:42
 msgid "Finished downloading Spyder {version}"
-msgstr ""
+msgstr "دانلود اسپایدر {version} پایان یافت"
 
 #: spyder/plugins/application/widgets/install.py:43
 msgid "Installing Spyder {version}"
-msgstr ""
+msgstr "نصب کردن اسپایدر {version}"
 
 #: spyder/plugins/application/widgets/install.py:44
 msgid "Finished installing Spyder {version}"
-msgstr ""
+msgstr "نصب کردن اسپایدر {version} پایان یافت"
 
 #: spyder/plugins/application/widgets/install.py:45
 msgid "Spyder {version} available to download"
-msgstr ""
+msgstr "اسپایدر {version} برای دانلود موجود است"
 
 #: spyder/plugins/application/widgets/install.py:46
 msgid "Checking for new Spyder version"
-msgstr ""
+msgstr "در حال بررسی برای نسخه جدیدتر اسپایدر"
 
 #: spyder/plugins/application/widgets/install.py:47
 msgid "Spyder update cancelled"
-msgstr ""
+msgstr "به روز رسانی Spyder لغو شد"
 
 #: spyder/plugins/application/widgets/install.py:71 spyder/plugins/completion/providers/kite/widgets/install.py:211
 msgid "Downloading"
@@ -952,7 +953,7 @@ msgstr "در حال دانلود"
 
 #: spyder/plugins/application/widgets/install.py:74
 msgid "Downloading Spyder update <br>"
-msgstr ""
+msgstr "دانلود آپدیت Spyder <br>"
 
 #: spyder/plugins/application/widgets/install.py:77 spyder/plugins/completion/providers/kite/widgets/install.py:221
 msgid "OK"
@@ -960,32 +961,33 @@ msgstr "تایید"
 
 #: spyder/plugins/application/widgets/install.py:216
 msgid "Do you really want to cancel the Spyder update installation?"
-msgstr ""
+msgstr "آیا می خواهید نصب به روز رسانی Spyder را لغو کنید?"
 
 #: spyder/plugins/application/widgets/install.py:232
 msgid "Would you like to update Spyder to the latest version?<br><br>"
-msgstr ""
+msgstr "آیا می خواهید Spyder را به آخرین نسخه به روز رسانی کنید؟<br><br>"
 
 #: spyder/plugins/application/widgets/install.py:255
 msgid "Would you like to proceed with the installation?<br><br>"
-msgstr ""
+msgstr "آیا می خواهید نصب را ادامه دهید؟<br><br>"
 
 #: spyder/plugins/application/widgets/install.py:258
 msgid "Spyder update"
-msgstr ""
+msgstr "به روز رسانی Spyder"
 
 #: spyder/plugins/application/widgets/install.py:267
 msgid "After closing"
-msgstr ""
+msgstr "بعد از بسته شدن"
 
 #: spyder/plugins/application/widgets/status.py:36
 msgid "Application update status"
-msgstr ""
+msgstr "وضعیت به روز رسانی برنامه"
 
 #: spyder/plugins/application/widgets/status.py:86
 msgid "Update installation will continue in the background.\n"
 "Click here to show the installation dialog again."
-msgstr ""
+msgstr "نصب به‌روزرسانی در پس‌زمینه ادامه خواهد یافت.\n"
+"اینجا را کلیک کنید تا پنجره نصب دوباره نمایش داده شود."
 
 #: spyder/plugins/base.py:333 spyder/plugins/editor/confpage.py:40 spyder/plugins/editor/plugin.py:433 spyder/plugins/editor/plugin.py:2121 spyder/plugins/editor/utils/switcher.py:36 spyder/plugins/editor/widgets/codeeditor.py:5707 spyder/plugins/editor/widgets/editor.py:325 spyder/plugins/editor/widgets/gotoline.py:29 spyder/plugins/help/confpage.py:31 spyder/plugins/help/widgets.py:335 spyder/plugins/tours/tours.py:81
 msgid "Editor"
@@ -993,15 +995,15 @@ msgstr "ویرایشگر"
 
 #: spyder/plugins/breakpoints/plugin.py:91 spyder/plugins/breakpoints/widgets/main_widget.py:377
 msgid "Breakpoints"
-msgstr ""
+msgstr "نقاط توقف"
 
 #: spyder/plugins/breakpoints/plugin.py:94
 msgid "Manage code breakpoints in a unified pane."
-msgstr ""
+msgstr "نقاط توقف کد را در یک صفحه یکپارچه مدیریت کنید."
 
 #: spyder/plugins/breakpoints/plugin.py:112
 msgid "List breakpoints"
-msgstr ""
+msgstr "نقاط توقف را فهرست کنید"
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:40
 msgid "Condition"
@@ -1017,15 +1019,15 @@ msgstr "خط"
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:209 spyder/plugins/editor/plugin.py:621
 msgid "Clear breakpoints in all files"
-msgstr ""
+msgstr "نقاط توقف را در همه فایل ها پاک کنید"
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:214
 msgid "Clear selected breakpoint"
-msgstr ""
+msgstr "پاک کردن نقطه توقف انتخاب شده"
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:219
 msgid "Edit selected breakpoint"
-msgstr ""
+msgstr "نقطه توقف انتخابی را ویرایش کنید"
 
 #: spyder/plugins/completion/confpage.py:28
 msgid "Providers"
@@ -1033,75 +1035,75 @@ msgstr "ارائه دهندگان"
 
 #: spyder/plugins/completion/confpage.py:30
 msgid "Enable {0} provider"
-msgstr ""
+msgstr "ارائه دهنده {0} را فعال کنید"
 
 #: spyder/plugins/completion/confpage.py:38
 msgid "Time to wait for all providers to return (ms):"
-msgstr ""
+msgstr "زمان انتظار برای بازگشت همه ارائه دهندگان (ms):"
 
 #: spyder/plugins/completion/confpage.py:40
 msgid "Beyond this timeout the first available provider will be returned"
-msgstr ""
+msgstr "فراتر از این مهلت زمانی، اولین ارائه دهنده موجود برگردانده می شود"
 
 #: spyder/plugins/completion/confpage.py:43
 msgid "Show completion details"
-msgstr ""
+msgstr "نمایش جزئیات تکمیل شده"
 
 #: spyder/plugins/completion/confpage.py:47
 msgid "Show completions on the fly"
-msgstr ""
+msgstr "نمایش کامل در fly"
 
 #: spyder/plugins/completion/confpage.py:51
 msgid "Show automatic completions after characters entered:"
-msgstr ""
+msgstr "نمایش تکمیل خودکار پس از وارد کردن کاراکترها:"
 
 #: spyder/plugins/completion/confpage.py:53
 msgid "Default is 1"
-msgstr ""
+msgstr "پیش فرض 1 است"
 
 #: spyder/plugins/completion/confpage.py:55
 msgid "Enable code snippets"
-msgstr ""
+msgstr "Snippets کد را فعال کنید"
 
 #: spyder/plugins/completion/confpage.py:57
 msgid "Show completion details after keyboard idle (ms):"
-msgstr ""
+msgstr "نمایش جزئیات تکمیل شده پس از idle صفحه کلید (ms):"
 
 #: spyder/plugins/completion/confpage.py:59
 msgid "Default is 500 milliseconds"
-msgstr ""
+msgstr "پیش فرض 500 میلی ثانیه است"
 
 #: spyder/plugins/completion/confpage.py:62
 msgid "Completions"
-msgstr ""
+msgstr "تکمیلگرها"
 
 #: spyder/plugins/completion/plugin.py:265
 msgid "Completion and linting"
-msgstr ""
+msgstr "Completion و linting"
 
 #: spyder/plugins/completion/plugin.py:268
 msgid "This plugin is in charge of handling and dispatching, as well as of receiving the responses of completion and linting requests sent to multiple providers."
-msgstr ""
+msgstr "این افزونه وظیفه رسیدگی و ارسال و همچنین دریافت پاسخ درخواست های تکمیل و ارسال به چندین ارائه دهنده را بر عهده دارد."
 
 #: spyder/plugins/completion/providers/fallback/provider.py:42
 msgid "Fallback"
-msgstr ""
+msgstr "اصلاح حالت عمل"
 
 #: spyder/plugins/completion/providers/kite/client.py:117
 msgid "<code>{error}</code><br><br>Note: If you are using a VPN, please don't route requests to localhost/127.0.0.1 with it"
-msgstr ""
+msgstr "<code>{error}</code><br><br>توجه: اگر از VPN استفاده می‌کنید، لطفاً درخواست‌ها را با آن به localhost/127.0.0.1 هدایت نکنید"
 
 #: spyder/plugins/completion/providers/kite/provider.py:114
 msgid "It seems that your Kite installation is faulty. If you want to use Kite, please remove the directory that appears bellow, and try a reinstallation:<br><br><code>{kite_dir}</code>"
-msgstr ""
+msgstr "به نظر می رسد نصب کایت شما معیوب است. اگر می‌خواهید از Kite استفاده کنید، لطفاً دایرکتوری که در زیر ظاهر می‌شود را حذف کنید و دوباره نصب کنید:<br><br><code>{kite_dir}</code>"
 
 #: spyder/plugins/completion/providers/kite/provider.py:217
 msgid "The Kite completion engine returned an unexpected result for the request <tt>{0}</tt>: <br><br><tt>{1}</tt><br><br>Please make sure that your Kite installation is correct. In the meantime, Spyder will disable the Kite client to prevent further errors. For more information, please visit the <a href='https://help.kite.com/'>Kite help center</a>"
-msgstr ""
+msgstr "موتور تکمیلی kite نتیجه غیرمنتظره ای را برای درخواست <tt>{0}</tt> نشان داد: <br><br><tt>{1}</tt><br><br>لطفاً مطمئن شوید که kite شما درست نصب شده است در این بین، Spyder برای جلوگیری از خطاهای بیشتر، کلاینت Kite را غیرفعال می کند. برای اطلاعات بیشتر، لطفاً از <a href='https://help.kite.com/'>مرکز راهنمایی کیت</a> دیدن کنید"
 
 #: spyder/plugins/completion/providers/kite/provider.py:227
 msgid "Kite error"
-msgstr ""
+msgstr "خطای kite"
 
 #: spyder/plugins/completion/providers/kite/provider.py:247
 msgid "Install Kite completion engine"
@@ -1109,11 +1111,11 @@ msgstr "نصب موتور تکمیلگر Kite"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:30
 msgid "No status"
-msgstr ""
+msgstr "بدون وضعیت"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:31
 msgid "Downloading script installer"
-msgstr ""
+msgstr "در حال دانلود نصب کننده script"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:32
 msgid "Downloading installer"
@@ -1125,7 +1127,7 @@ msgstr "در حال نصب"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:35
 msgid "Installation errored"
-msgstr ""
+msgstr "خطای نصب"
 
 #: spyder/plugins/completion/providers/kite/utils/install.py:36
 msgid "Cancelled"
@@ -1179,55 +1181,55 @@ msgstr "پیشرفته"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:33
 msgid "Python Language Server configuration"
-msgstr ""
+msgstr "Python Language Server configuration"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:36
 msgid "<b>Warning</b>: Only modify these values if you know what you're doing!"
-msgstr ""
+msgstr "<b>هشدار</b>: فقط در صورتی این مقادیر را تغییر دهید که می‌دانید چه کاری را انجام می دهید!"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:43
 msgid "Enable advanced settings"
-msgstr ""
+msgstr "فعال‌سازی تنظیمات پیشرفته"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:47
 msgid "Module for the Python language server: "
-msgstr ""
+msgstr "ماژول برای سرور زبان پایتون: "
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:51
 msgid "IP Address and port to bind the server to: "
-msgstr ""
+msgstr "آدرس IP و پورت برای اتصال سرور به: "
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:57
 msgid "This is an external server"
-msgstr ""
+msgstr "This is an external server"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:60
 msgid "Use stdio pipes to communicate with server"
-msgstr ""
+msgstr "از پایپ های stdio برای ارتباط با سرور استفاده کنید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:154
 msgid "<b>Modifying these options can break code completion!!</b><br><br>If that's the case, please reset your Spyder preferences by going to the menu<br><br><tt>Tools > Reset Spyder to factory defaults</tt><br><br>instead of reporting a bug."
-msgstr ""
+msgstr "<b>تغییر این گزینه‌ها می‌تواند تکمیل کد را مختل کند!!</b><br><br>اگر چنین است، لطفاً تنظیمات برگزیده Spyder خود را با رفتن به منو تنظیم مجدد کنید<br><br><tt>Tools > Reset Spyder به جای گزارش یک اشکال، به پیش فرض های کارخانه</tt><br><br> بروید."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:206
 msgid "It appears there is no {language} language server listening at address:<br><br><tt>{host}:{port}</tt><br><br>Please verify that the provided information is correct and try again."
-msgstr ""
+msgstr "به نظر می رسد هیچ سرور زبان {language} در آدرس:<br><br><tt>{host}:{port}</tt><br><br>لطفاً بررسی کنید که اطلاعات ارائه شده صحیح است و دوباره تلاش کنید."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:224
 msgid "The address of the external server you are trying to connect to is the same as the one of the current internal server started by Spyder.<br><br>Please provide a different address!"
-msgstr ""
+msgstr "آدرس سرور خارجی که می‌خواهید به آن متصل شوید، همان آدرس سرور داخلی فعلی است که توسط Spyder راه‌اندازی شده است.<br><br>لطفاً آدرس دیگری ارائه دهید!"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:27
 msgid "Docstring style"
-msgstr ""
+msgstr "سبک Docstring"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:37
 msgid "<a href='http://www.pydocstyle.org/en/stable/error_codes.html'>page</a>"
-msgstr ""
+msgstr "<a href='http://www.pydocstyle.org/en/stable/error_codes.html'>page</a>"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:41
 msgid "Here you can decide if you want to perform style analysis on your docstrings according to the {} or {} conventions. You can also decide if you want to show or ignore specific errors, according to the codes found on this {}."
-msgstr ""
+msgstr "در اینجا می‌توانید تصمیم بگیرید که آیا می‌خواهید تجزیه و تحلیل سبک را بر روی رشته‌های اسنادی خود مطابق با قراردادهای {} یا {} انجام دهید. همچنین می‌توانید با توجه به کدهای موجود در این {} تصمیم بگیرید که آیا می‌خواهید خطاهای خاصی را نشان دهید یا نادیده بگیرید."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:51
 msgid "Enable docstring style linting"
