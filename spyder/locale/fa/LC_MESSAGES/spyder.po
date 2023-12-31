@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 14:35\n"
+"PO-Revision-Date: 2023-12-31 15:41\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -2139,207 +2139,207 @@ msgstr "فاصله ذخیره‌سازی خودکار: "
 
 #: spyder/plugins/editor/confpage.py:241
 msgid "seconds"
-msgstr ""
+msgstr "ثانیه"
 
 #: spyder/plugins/editor/confpage.py:252
 msgid "Docstring type"
-msgstr ""
+msgstr "سبک Docstring"
 
 #: spyder/plugins/editor/confpage.py:258
 msgid "Here you can select the type of docstrings ({}, {} or {}) you want the editor to automatically introduce when pressing <tt>{}</tt> after a function, method or class declaration."
-msgstr ""
+msgstr "در اینجا می‌توانید نوع رشته‌های اسنادی ({}، {} یا {}) را که می‌خواهید ویرایشگر با فشار دادن <tt>{}</tt> به‌طور خودکار پس از یک تابع، متد یا اعلام کلاس معرفی کند، انتخاب کنید."
 
 #: spyder/plugins/editor/confpage.py:267
 msgid "Numpy"
-msgstr ""
+msgstr "Numpy"
 
 #: spyder/plugins/editor/confpage.py:268
 msgid "Google"
-msgstr ""
+msgstr "Google"
 
 #: spyder/plugins/editor/confpage.py:269
 msgid "Sphinx"
-msgstr ""
+msgstr "Sphinx"
 
 #: spyder/plugins/editor/confpage.py:271
 msgid "Type:"
-msgstr ""
+msgstr "نوع:"
 
 #: spyder/plugins/editor/confpage.py:282
 msgid "Annotations"
-msgstr ""
+msgstr "حاشیه نویسی ها"
 
 #: spyder/plugins/editor/confpage.py:284
 msgid "Display a marker to the left of line numbers when the following annotations appear at the beginning of a comment: <tt>TODO, FIXME, XXX, HINT, TIP, @todo, HACK, BUG, OPTIMIZE, !!!, ???</tt>"
-msgstr ""
+msgstr "هنگامی که حاشیه‌نویسی‌های زیر در ابتدای نظر ظاهر می‌شوند، نشانگر را در سمت چپ شماره‌های خط نشان دهید: <tt>TODO، FIXME، XXX، HINT، TIP، @todo، HACK، BUG، OPTIMIZE، !!!، ??? </tt>"
 
 #: spyder/plugins/editor/confpage.py:290
 msgid "Display code annotations"
-msgstr ""
+msgstr "نمایش حاشیه نویسی کد"
 
 #: spyder/plugins/editor/confpage.py:299
 msgid "End-of-line characters"
-msgstr ""
+msgstr "کاراکترهای انتهای خط"
 
 #: spyder/plugins/editor/confpage.py:300
 msgid "When opening a text file containing mixed end-of-line characters (this may raise syntax errors in the consoles on Windows platforms), Spyder may fix the file automatically."
-msgstr ""
+msgstr "هنگام باز کردن یک فایل متنی حاوی نویسه‌های انتهای خط مختلط (این ممکن است باعث ایجاد خطاهای نحوی در کنسول‌های پلتفرم‌های ویندوز شود)، اسپایدر ممکن است فایل را به طور خودکار اصلاح کند."
 
 #: spyder/plugins/editor/confpage.py:306
 msgid "Fix automatically and show warning message box"
-msgstr ""
+msgstr "رفع خودکار و نمایش جعبه پیام هشدار"
 
 #: spyder/plugins/editor/confpage.py:310
 msgid "Convert end-of-line characters to the following on save:"
-msgstr ""
+msgstr "Convert end-of-line characters to the following on save:"
 
 #: spyder/plugins/editor/confpage.py:315 spyder/plugins/editor/plugin.py:891
 msgid "LF (Unix)"
-msgstr ""
+msgstr "LF (Unix)"
 
 #: spyder/plugins/editor/confpage.py:316 spyder/plugins/editor/plugin.py:886
 msgid "CRLF (Windows)"
-msgstr ""
+msgstr "CRLF (Windows)"
 
 #: spyder/plugins/editor/confpage.py:317 spyder/plugins/editor/plugin.py:896
 msgid "CR (macOS)"
-msgstr ""
+msgstr "CR (macOS)"
 
 #: spyder/plugins/editor/confpage.py:341 spyder/plugins/history/confpage.py:27 spyder/plugins/ipythonconsole/confpage.py:419 spyder/plugins/statusbar/confpage.py:23 spyder/plugins/variableexplorer/confpage.py:31
 msgid "Display"
-msgstr ""
+msgstr "صفحه نمایش"
 
 #: spyder/plugins/editor/confpage.py:342 spyder/plugins/help/confpage.py:59 spyder/plugins/ipythonconsole/confpage.py:70
 msgid "Source code"
-msgstr ""
+msgstr "کد منبع"
 
 #: spyder/plugins/editor/confpage.py:343 spyder/plugins/ipythonconsole/confpage.py:193 spyder/plugins/tours/widgets.py:332
 msgid "Run code"
-msgstr ""
+msgstr "کد را اجرا کنید"
 
 #: spyder/plugins/editor/confpage.py:379
 msgid "This option is disabled since the <i>Autoformat files on save</i> option is active."
-msgstr ""
+msgstr "از آنجایی که گزینه <i>Autoformat files on save</i> فعال است، این گزینه غیرفعال است."
 
 #: spyder/plugins/editor/panels/classfunctiondropdown.py:46 spyder/plugins/editor/panels/classfunctiondropdown.py:47 spyder/plugins/editor/panels/classfunctiondropdown.py:154 spyder/plugins/shortcuts/widgets/table.py:141
 msgid "<None>"
-msgstr ""
+msgstr "<None>"
 
 #: spyder/plugins/editor/plugin.py:508
 msgid "&New file..."
-msgstr ""
+msgstr "&فایل جدید..."
 
 #: spyder/plugins/editor/plugin.py:509 spyder/plugins/explorer/widgets/explorer.py:1287 spyder/plugins/explorer/widgets/explorer.py:1299
 msgid "New file"
-msgstr ""
+msgstr "فایل جدید"
 
 #: spyder/plugins/editor/plugin.py:518
 msgid "O&pen last closed"
-msgstr ""
+msgstr "O&pen آخرین بسته شد"
 
 #: spyder/plugins/editor/plugin.py:519
 msgid "Open last closed"
-msgstr ""
+msgstr "آخرین برگه بسته شده باز شود"
 
 #: spyder/plugins/editor/plugin.py:525
 msgid "&Open..."
-msgstr ""
+msgstr "&باز کردن..."
 
 #: spyder/plugins/editor/plugin.py:526 spyder/plugins/editor/plugin.py:2191 spyder/plugins/editor/plugin.py:2205 spyder/plugins/editor/plugin.py:2213
 msgid "Open file"
-msgstr ""
+msgstr "باز کردن فایل"
 
 #: spyder/plugins/editor/plugin.py:532
 msgid "&Revert"
-msgstr ""
+msgstr "بازگرداندن"
 
 #: spyder/plugins/editor/plugin.py:533
 msgid "Revert file from disk"
-msgstr ""
+msgstr "بازگرداندن فایل از دیسک"
 
 #: spyder/plugins/editor/plugin.py:536
 msgid "&Save"
-msgstr ""
+msgstr "ذخیره"
 
 #: spyder/plugins/editor/plugin.py:537 spyder/plugins/editor/widgets/editor.py:2055
 msgid "Save file"
-msgstr ""
+msgstr "ذخیره فایل"
 
 #: spyder/plugins/editor/plugin.py:543
 msgid "Sav&e all"
-msgstr ""
+msgstr "همه را ذخیره کن"
 
 #: spyder/plugins/editor/plugin.py:544
 msgid "Save all files"
-msgstr ""
+msgstr "تمام فایل ها را ذخیره کن"
 
 #: spyder/plugins/editor/plugin.py:550
 msgid "Save &as..."
-msgstr ""
+msgstr "ذخیره به عنوان..."
 
 #: spyder/plugins/editor/plugin.py:551
 msgid "Save current file as..."
-msgstr ""
+msgstr "ذخیره فایل فعلی به عنوان..."
 
 #: spyder/plugins/editor/plugin.py:556
 msgid "Save copy as..."
-msgstr ""
+msgstr "ذخیره کپی به عنوان..."
 
 #: spyder/plugins/editor/plugin.py:557
 msgid "Save copy of current file as..."
-msgstr ""
+msgstr "ذخیره کپی فایل فعلی به عنوان..."
 
 #: spyder/plugins/editor/plugin.py:560 spyder/plugins/editor/plugin.py:561
 msgid "Print preview..."
-msgstr ""
+msgstr "چاپ پیش نمایش..."
 
 #: spyder/plugins/editor/plugin.py:562
 msgid "&Print..."
-msgstr ""
+msgstr "&چاپ..."
 
 #: spyder/plugins/editor/plugin.py:563
 msgid "Print current file..."
-msgstr ""
+msgstr "چاپ فایل فعلی..."
 
 #: spyder/plugins/editor/plugin.py:566
 msgid "&Close"
-msgstr ""
+msgstr "&بستن"
 
 #: spyder/plugins/editor/plugin.py:567
 msgid "Close current file"
-msgstr ""
+msgstr "بستن فایل فعلی"
 
 #: spyder/plugins/editor/plugin.py:570
 msgid "C&lose all"
-msgstr ""
+msgstr "همه را ببند"
 
 #: spyder/plugins/editor/plugin.py:571
 msgid "Close all opened files"
-msgstr ""
+msgstr "تمام فایل های باز شده را ببندید"
 
 #: spyder/plugins/editor/plugin.py:578
 msgid "&Find text"
-msgstr ""
+msgstr "&پیدا کردن متن"
 
 #: spyder/plugins/editor/plugin.py:584
 msgid "Find &next"
-msgstr ""
+msgstr "یافتن بعدی"
 
 #: spyder/plugins/editor/plugin.py:590
 msgid "Find &previous"
-msgstr ""
+msgstr "یافتن قبلی"
 
 #: spyder/plugins/editor/plugin.py:596
 msgid "&Replace text"
-msgstr ""
+msgstr "جایگزینی متن"
 
 #: spyder/plugins/editor/plugin.py:605
 msgid "Set/Clear breakpoint"
-msgstr ""
+msgstr "تنظیم/پاک کردن نقطه توقف"
 
 #: spyder/plugins/editor/plugin.py:613
 msgid "Set/Edit conditional breakpoint"
-msgstr ""
+msgstr "تنظیم/ویرایش نقطه توقف شرطی"
 
 #: spyder/plugins/editor/plugin.py:626 spyder/plugins/mainmenu/plugin.py:69
 msgid "&Debug"
@@ -2347,47 +2347,47 @@ msgstr "&اشکال زدایی"
 
 #: spyder/plugins/editor/plugin.py:628
 msgid "Debug file"
-msgstr ""
+msgstr "فایل اشکال زدایی"
 
 #: spyder/plugins/editor/plugin.py:634
 msgid "Step"
-msgstr ""
+msgstr "گام"
 
 #: spyder/plugins/editor/plugin.py:635
 msgid "Run current line"
-msgstr ""
+msgstr "خط فعلی را اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:641
 msgid "Continue"
-msgstr ""
+msgstr "ادامه"
 
 #: spyder/plugins/editor/plugin.py:643
 msgid "Continue execution until next breakpoint"
-msgstr ""
+msgstr "اجرا را تا نقطه توقف بعدی ادامه دهید"
 
 #: spyder/plugins/editor/plugin.py:650
 msgid "Step Into"
-msgstr ""
+msgstr "قدم به"
 
 #: spyder/plugins/editor/plugin.py:652
 msgid "Step into function or method of current line"
-msgstr ""
+msgstr "وارد تابع یا روش خط فعلی شوید"
 
 #: spyder/plugins/editor/plugin.py:658
 msgid "Step Return"
-msgstr ""
+msgstr "گام بازگشت"
 
 #: spyder/plugins/editor/plugin.py:660
 msgid "Run until current function or method returns"
-msgstr ""
+msgstr "اجرا کنید تا تابع یا روش فعلی برگردد"
 
 #: spyder/plugins/editor/plugin.py:667 spyder/widgets/browser.py:193
 msgid "Stop"
-msgstr ""
+msgstr "توقف"
 
 #: spyder/plugins/editor/plugin.py:668
 msgid "Stop debugging"
-msgstr ""
+msgstr "متوقف کردن دیباگ"
 
 #: spyder/plugins/editor/plugin.py:674 spyder/plugins/editor/plugin.py:1695 spyder/plugins/mainmenu/plugin.py:68
 msgid "&Run"
@@ -2395,192 +2395,193 @@ msgstr "&اجرا"
 
 #: spyder/plugins/editor/plugin.py:675
 msgid "Run file"
-msgstr ""
+msgstr "اجرای فایل"
 
 #: spyder/plugins/editor/plugin.py:682
 msgid "&Configuration per file..."
-msgstr ""
+msgstr "&Configuration در هر فایل..."
 
 #: spyder/plugins/editor/plugin.py:684
 msgid "Run settings"
-msgstr ""
+msgstr "اجرای تنظیمات"
 
 #: spyder/plugins/editor/plugin.py:691
 msgid "Re-run &last script"
-msgstr ""
+msgstr "&آخرین اسکریپت را دوباره اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:693
 msgid "Run again last file"
-msgstr ""
+msgstr "آخرین فایل را دوباره اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:699 spyder/plugins/editor/widgets/codeeditor.py:4580
 msgid "Run &selection or current line"
-msgstr ""
+msgstr "&انتخاب یا خط فعلی را اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:702
 msgid "Run selection or current line"
-msgstr ""
+msgstr "انتخاب یا خط فعلی را اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:709
 msgid "Run &to current line"
-msgstr ""
+msgstr "&به خط فعلی اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:710 spyder/plugins/editor/widgets/codeeditor.py:4585
 msgid "Run to current line"
-msgstr ""
+msgstr "به خط فعلی اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:716
 msgid "Run &from current line"
-msgstr ""
+msgstr "اجرای &از خط فعلی"
 
 #: spyder/plugins/editor/plugin.py:717 spyder/plugins/editor/widgets/codeeditor.py:4589
 msgid "Run from current line"
-msgstr ""
+msgstr "از خط فعلی اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:724 spyder/plugins/editor/widgets/codeeditor.py:4568
 msgid "Run cell"
-msgstr ""
+msgstr "سلول را اجرا کنید"
 
 #: spyder/plugins/editor/plugin.py:726
 msgid "Run current cell \n"
 "[Use #%% to create cells]"
-msgstr ""
+msgstr "سلول فعلی را اجرا کنید\n"
+"[از #%% برای ایجاد سلول استفاده کنید]"
 
 #: spyder/plugins/editor/plugin.py:736 spyder/plugins/editor/widgets/codeeditor.py:4572
 msgid "Run cell and advance"
-msgstr ""
+msgstr "سلول را اجرا کنید و پیش بروید"
 
 #: spyder/plugins/editor/plugin.py:738
 msgid "Run current cell and go to the next one "
-msgstr ""
+msgstr "سلول فعلی را اجرا کنید و به سلول بعدی بروید "
 
 #: spyder/plugins/editor/plugin.py:748 spyder/plugins/editor/widgets/codeeditor.py:4593
 msgid "Debug cell"
-msgstr ""
+msgstr "سلول اشکال زدایی"
 
 #: spyder/plugins/editor/plugin.py:750
 msgid "Debug current cell (Alt+Shift+Enter)"
-msgstr ""
+msgstr "اشکال زدایی سلول فعلی (Alt+Shift+Enter)"
 
 #: spyder/plugins/editor/plugin.py:760 spyder/plugins/editor/widgets/codeeditor.py:4576
 msgid "Re-run last cell"
-msgstr ""
+msgstr "Re-run last cell"
 
 #: spyder/plugins/editor/plugin.py:761
 msgid "Re run last cell "
-msgstr ""
+msgstr "آخرین سلول را دوباره اجرا کنید "
 
 #: spyder/plugins/editor/plugin.py:771
 msgid "Show todo list"
-msgstr ""
+msgstr "نمایش لیست کارها"
 
 #: spyder/plugins/editor/plugin.py:772
 msgid "Show comments list (TODO/FIXME/XXX/HINT/TIP/@todo/HACK/BUG/OPTIMIZE/!!!/???)"
-msgstr ""
+msgstr "نمایش لیست نظرات (TODO/FIXME/XXX/HINT/TIP/@todo/HACK/BUG/OPTIMIZE/!!!/???)"
 
 #: spyder/plugins/editor/plugin.py:781
 msgid "Show warning/error list"
-msgstr ""
+msgstr "نمایش لیست هشدار/خطا"
 
 #: spyder/plugins/editor/plugin.py:782
 msgid "Show code analysis warnings/errors"
-msgstr ""
+msgstr "نمایش هشدارها/خطاهای تجزیه و تحلیل کد"
 
 #: spyder/plugins/editor/plugin.py:789
 msgid "Previous warning/error"
-msgstr ""
+msgstr "Previous warning/error"
 
 #: spyder/plugins/editor/plugin.py:790
 msgid "Go to previous code analysis warning/error"
-msgstr ""
+msgstr "نمایش هشدارها/خطاهای تجزیه و تحلیل کد"
 
 #: spyder/plugins/editor/plugin.py:798
 msgid "Next warning/error"
-msgstr ""
+msgstr "هشدار/خطای بعدی"
 
 #: spyder/plugins/editor/plugin.py:799
 msgid "Go to next code analysis warning/error"
-msgstr ""
+msgstr "به هشدار/خطای تحلیل کد بعدی برو"
 
 #: spyder/plugins/editor/plugin.py:808
 msgid "Last edit location"
-msgstr ""
+msgstr "آخرین مکان ویرایش"
 
 #: spyder/plugins/editor/plugin.py:809
 msgid "Go to last edit location"
-msgstr ""
+msgstr "به آخرین مکان ویرایش برو"
 
 #: spyder/plugins/editor/plugin.py:817
 msgid "Previous cursor position"
-msgstr ""
+msgstr "موقعیت مکان نمای قبلی"
 
 #: spyder/plugins/editor/plugin.py:818
 msgid "Go to previous cursor position"
-msgstr ""
+msgstr "به موقعیت مکان نمای قبلی برو"
 
 #: spyder/plugins/editor/plugin.py:826
 msgid "Next cursor position"
-msgstr ""
+msgstr "موقعیت مکان نمای بعدی"
 
 #: spyder/plugins/editor/plugin.py:827
 msgid "Go to next cursor position"
-msgstr ""
+msgstr "به موقعیت مکان نمای بعدی بروید"
 
 #: spyder/plugins/editor/plugin.py:837 spyder/plugins/editor/widgets/codeeditor.py:4546
 msgid "Comment"
-msgstr ""
+msgstr "Comment"
 
 #: spyder/plugins/editor/plugin.py:837 spyder/plugins/editor/widgets/codeeditor.py:4546
 msgid "Uncomment"
-msgstr ""
+msgstr "Uncomment"
 
 #: spyder/plugins/editor/plugin.py:838
 msgid "Comment current line or selection"
-msgstr ""
+msgstr "Comment current line or selection"
 
 #: spyder/plugins/editor/plugin.py:842
 msgid "Add &block comment"
-msgstr ""
+msgstr "افزودن &مسدود کردن comment"
 
 #: spyder/plugins/editor/plugin.py:843
 msgid "Add block comment around current line or selection"
-msgstr ""
+msgstr "Comment بلوک را در اطراف خط یا انتخاب فعلی اضافه کنید"
 
 #: spyder/plugins/editor/plugin.py:849
 msgid "R&emove block comment"
-msgstr ""
+msgstr "Comment بلوک را&حذف کنید"
 
 #: spyder/plugins/editor/plugin.py:850
 msgid "Remove comment block around current line or selection"
-msgstr ""
+msgstr "بلوک comment را در اطراف خط یا انتخاب فعلی حذف کنید"
 
 #: spyder/plugins/editor/plugin.py:861
 msgid "Indent"
-msgstr ""
+msgstr "فاصله ی سر سطر Indent"
 
 #: spyder/plugins/editor/plugin.py:862
 msgid "Indent current line or selection"
-msgstr ""
+msgstr "Indent خط یا انتخاب فعلی"
 
 #: spyder/plugins/editor/plugin.py:865
 msgid "Unindent"
-msgstr ""
+msgstr "Unindent"
 
 #: spyder/plugins/editor/plugin.py:866
 msgid "Unindent current line or selection"
-msgstr ""
+msgstr "حذف Indent خط یا انتخاب فعلی"
 
 #: spyder/plugins/editor/plugin.py:870
 msgid "Toggle Uppercase"
-msgstr ""
+msgstr "فعال سازی حروف بزرگ"
 
 #: spyder/plugins/editor/plugin.py:871
 msgid "Change to uppercase current line or selection"
-msgstr ""
+msgstr "تغییر دهی خط فعلی یا محیط منتخب به حروف بزرگ"
 
 #: spyder/plugins/editor/plugin.py:877
 msgid "Toggle Lowercase"
-msgstr ""
+msgstr "فعال سازی حروف کوچک"
 
 #: spyder/plugins/editor/plugin.py:878
 msgid "Change to lowercase current line or selection"
@@ -2656,7 +2657,7 @@ msgstr "نوار ابزار فایل"
 
 #: spyder/plugins/editor/plugin.py:1686 spyder/plugins/toolbar/plugin.py:55
 msgid "Run toolbar"
-msgstr "نوار ابزار اجرا"
+msgstr "اجرای نوار ابزار"
 
 #: spyder/plugins/editor/plugin.py:1688 spyder/plugins/toolbar/plugin.py:56
 msgid "Debug toolbar"
