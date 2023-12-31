@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 13:33\n"
+"PO-Revision-Date: 2023-12-31 14:35\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -1641,195 +1641,195 @@ msgstr "گرامر LSP"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:42
 msgid "Spyder allows to define custom completion snippets to use in addition to the ones offered by the Language Server Protocol (LSP). Each snippet should follow {}.<br><br> <b>Note:</b> All changes will be effective only when applying the settings"
-msgstr "اسپایدر اجازه می دهد تا قطعه های تکمیل شخصی سازی شده را برای استفاده علاوه بر موارد ارائه شده توسط پروتکل سرور زبان (LSP) تعریف کنید. هر قطعه باید از {} ​​پیروی کند.<br><br> <b>توجه:</b> همه تغییرات فقط هنگام اعمال تنظیمات مؤثر خواهند بود"
+msgstr "اسپایدر اجازه می دهد تا قطعه های تکمیلگر شخصی سازی شده را برای استفاده علاوه بر موارد ارائه شده توسط پروتکل سرور زبان (LSP) تعریف کنید. هر قطعه باید از {} ​​پیروی کند.<br><br> <b>توجه:</b> همه تغییرات فقط هنگام اعمال تنظیمات مؤثر خواهند بود"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:69
 msgid "Available snippets"
-msgstr ""
+msgstr "Snippet های موجود"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:76
 msgid "Create a new snippet"
-msgstr ""
+msgstr "ایجاد اسنیپت جدید"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:78
 msgid "Delete currently selected snippet"
-msgstr ""
+msgstr "Snippet انتخابی فعلی را حذف کنید"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:80
 msgid "Export snippets to JSON"
-msgstr ""
+msgstr "Snippet ها را به JSON صادر کنید"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:81
 msgid "Import snippets from JSON"
-msgstr ""
+msgstr "Snippet ها را به JSON وارد کنید"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:135
 msgid "Save snippets"
-msgstr ""
+msgstr "ذخیره‌سازی اسنیپت ها"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:148
 msgid "Load snippets"
-msgstr ""
+msgstr "بارگذاری اسنیپت ها"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:162
 msgid "All snippets imported"
-msgstr ""
+msgstr "همه اسنیپت ها وارد شد"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:163
 msgid "{0} snippets were loaded successfully"
-msgstr ""
+msgstr "{0} قطعه با موفقیت بارگیری شد"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:170
 msgid "JSON malformed"
-msgstr ""
+msgstr "JASON ناقص ماند"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:171
 msgid "There was an error when trying to load the provided JSON file: <tt>{0}</tt>"
-msgstr ""
+msgstr "هنگام بارگیری فایل JSON ارائه شده خطایی روی داد: <tt>{0}</tt>"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:180
 msgid "Invalid snippet file"
-msgstr ""
+msgstr "فایل اسنیپت نامعتبر است"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:181
 msgid "The provided snippet file does not comply with the Spyder JSON snippets spec and therefore it cannot be loaded.<br><br><tt>{}</tt>"
-msgstr ""
+msgstr "فایل اسنیپت ارائه شده با مشخصات اسنیپت های Spyder JSON مطابقت ندارد و بنابراین نمی‌توان آن را بارگیری کرد.<br><br><tt>{}</tt>"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:198
 msgid "Incorrect snippet format"
-msgstr ""
+msgstr "قالب اسنیپت نادرست است"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:199
 msgid "Spyder was able to load {0}/{1} snippets correctly, please check the following snippets for any syntax errors: <br><br>{2}"
-msgstr ""
+msgstr "اسپایدر توانست {0}/{1} قطعه را به درستی بارگیری کند، لطفاً قطعات زیر را برای هرگونه خطای syntax بررسی کنید: <br><br>{2}"
 
 #: spyder/plugins/completion/providers/snippets/provider.py:53
 msgid "Text snippets"
-msgstr ""
+msgstr "Text snippets"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:219
 msgid "Valid snippet"
-msgstr ""
+msgstr "اسنیپت معتبر"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:220
 msgid "Invalid snippet"
-msgstr ""
+msgstr "اسنیپت نامعتبر"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:232
 msgid "To add a new text snippet, you need to define the text that triggers it, a short description (two words maximum) of the snippet and if it should delete the trigger text when inserted. Finally, you need to define the snippet body to insert."
-msgstr ""
+msgstr "برای افزودن یک text snippet جدید، باید متنی که آن را راه‌اندازی می‌کند، با توضیح کوتاهی (حداکثر دو کلمه) از قطعه و اینکه آیا باید متن trigger را هنگام درج حذف کند. در نهایت، باید بدنه اسنیپت را برای درج تعریف کنید."
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:256
 msgid "Trigger text:"
-msgstr ""
+msgstr "Trigger text:"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:261
 msgid "Description:"
-msgstr ""
+msgstr "توضیحات:"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:266
 msgid "Remove trigger text on insertion"
-msgstr ""
+msgstr "متن trigger را هنگام درج حذف کنید"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:267
 msgid "Check if the text that triggers this snippet should be removed when inserting it"
-msgstr ""
+msgstr "بررسی کنید که آیا متنی که این قطعه را فعال می کند باید هنگام درج آن حذف شود"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:273
 msgid "<b>Snippet text:</b>"
-msgstr ""
+msgstr "<b>Snippet text:</b>"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:284
 msgid "Snippet editor"
-msgstr ""
+msgstr "ویرایشگر اسنیپت"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:288
 msgid "Trigger text for the current snippet"
-msgstr ""
+msgstr "متن Trigger برای اسنیپت فعلی"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:311
 msgid "Snippet text completion to insert"
-msgstr ""
+msgstr "تکمیل متن اسنیپت برای درج"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:318
 msgid "Trigger information"
-msgstr ""
+msgstr "اطلاعات Trigger"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:460
 msgid "Double-click to view or edit"
-msgstr ""
+msgstr "برای مشاهده یا ویرایش دوبار کلیک کنید"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:472
 msgid "Trigger text"
-msgstr ""
+msgstr "Trigger text"
 
 #: spyder/plugins/completion/providers/snippets/widgets/snippetsconfig.py:474
 msgid "Description"
-msgstr ""
+msgstr "توضیحات"
 
 #: spyder/plugins/completion/widgets/status.py:56
 msgid "Change default environment in Preferences..."
-msgstr ""
+msgstr "تغییر محیط پیش فرض در Preferences..."
 
 #: spyder/plugins/console/plugin.py:82 spyder/plugins/console/widgets/main_widget.py:172
 msgid "Internal console"
-msgstr ""
+msgstr "کنسول داخلی"
 
 #: spyder/plugins/console/plugin.py:88
 msgid "Internal console running Spyder."
-msgstr ""
+msgstr "Internal console running Spyder."
 
 #: spyder/plugins/console/plugin.py:111
 msgid "<h3>Spyder crashed during last session</h3>"
-msgstr ""
+msgstr "<h3> اسپایدر در جلسه پیشین از کار افتاد</h3>"
 
 #: spyder/plugins/console/plugin.py:112
 msgid "Please provide any additional information you might have about the crash."
-msgstr ""
+msgstr "لطفاً هر گونه اطلاعات اضافی که در مورد خرابی دارید ارائه دهید."
 
 #: spyder/plugins/console/widgets/internalshell.py:268
 msgid "Help..."
-msgstr ""
+msgstr "راهنما..."
 
 #: spyder/plugins/console/widgets/internalshell.py:276 spyder/plugins/help/plugin.py:63 spyder/plugins/help/widgets.py:362 spyder/plugins/help/widgets.py:611 spyder/plugins/tours/tours.py:134 spyder/widgets/switcher.py:970 spyder/widgets/tests/test_switcher.py:32
 msgid "Help"
-msgstr ""
+msgstr "راهنما"
 
 #: spyder/plugins/console/widgets/internalshell.py:285
 msgid "Shell special commands:"
-msgstr ""
+msgstr "دستورات ویژه Shell:"
 
 #: spyder/plugins/console/widgets/internalshell.py:286
 msgid "Internal editor:"
-msgstr ""
+msgstr "ویرایشگر داخلی:"
 
 #: spyder/plugins/console/widgets/internalshell.py:287
 msgid "External editor:"
-msgstr ""
+msgstr "ویرایشگر خارجی:"
 
 #: spyder/plugins/console/widgets/internalshell.py:288
 msgid "Run script:"
-msgstr ""
+msgstr "اجرای اسکریپت:"
 
 #: spyder/plugins/console/widgets/internalshell.py:289
 msgid "Remove references:"
-msgstr ""
+msgstr "حذف references:"
 
 #: spyder/plugins/console/widgets/internalshell.py:290
 msgid "System commands:"
-msgstr ""
+msgstr "دستورات سیستم:"
 
 #: spyder/plugins/console/widgets/internalshell.py:291
 msgid "Python help:"
-msgstr ""
+msgstr "کمک پایتون:"
 
 #: spyder/plugins/console/widgets/internalshell.py:292
 msgid "GUI-based editor:"
-msgstr ""
+msgstr "ویرایشگر مبتنی بر رابط کاربری گرافیکی:"
 
 #: spyder/plugins/console/widgets/internalshell.py:433
 msgid "In order to use commands like \"raw_input\" or \"input\" run Spyder with the multithread option (--multithread) from a system terminal"
-msgstr ""
+msgstr "به منظور استفاده از دستوراتی مانند \"raw_input\" یا \"input\" Spyder میتوانید گزینه multithread (--multithread) در ترمینال سیستم خود اجرا کنید"
 
 #: spyder/plugins/console/widgets/main_widget.py:119
 msgid "Spyder Internal Console\n\n"
@@ -1838,7 +1838,12 @@ msgid "Spyder Internal Console\n\n"
 "internals with the following commands:\n"
 "  spy.app, spy.window, dir(spy)\n\n"
 "Please do not use it to run your code\n\n"
-msgstr ""
+msgstr "کنسول داخلی اسپایدر\n\n"
+"این کنسول برای گزارش برنامه استفاده می شود\n"
+"خطاهای داخلی و بازرسی اسپایدر\n"
+"داخلی با دستورها زیر:\n\n"
+"  spy.app، spy.window، dir(spy)\n\n"
+"لطفا از آن برای اجرای کد خود استفاده نکنید\n\n"
 
 #: spyder/plugins/console/widgets/main_widget.py:178 spyder/plugins/ipythonconsole/widgets/main_widget.py:505
 msgid "&Quit"
@@ -1850,175 +1855,175 @@ msgstr "خروج"
 
 #: spyder/plugins/console/widgets/main_widget.py:189
 msgid "&Run..."
-msgstr ""
+msgstr "&اجرا..."
 
 #: spyder/plugins/console/widgets/main_widget.py:190
 msgid "Run a Python file"
-msgstr ""
+msgstr "یک فایل پایتون را اجرا کنید"
 
 #: spyder/plugins/console/widgets/main_widget.py:196
 msgid "Environment variables..."
-msgstr ""
+msgstr "متغیرهای محیطی..."
 
 #: spyder/plugins/console/widgets/main_widget.py:197
 msgid "Show and edit environment variables (for current session)"
-msgstr ""
+msgstr "نمایش و ویرایش متغیرهای محیط (برای جلسه فعلی)"
 
 #: spyder/plugins/console/widgets/main_widget.py:204
 msgid "Show sys.path contents..."
-msgstr ""
+msgstr "نمایش محتویات sys.path..."
 
 #: spyder/plugins/console/widgets/main_widget.py:205
 msgid "Show (read-only) sys.path"
-msgstr ""
+msgstr "نمایش محتویات sys.path (read-only)"
 
 #: spyder/plugins/console/widgets/main_widget.py:211
 msgid "Buffer..."
-msgstr ""
+msgstr "بافر..."
 
 #: spyder/plugins/console/widgets/main_widget.py:212
 msgid "Set maximum line count"
-msgstr ""
+msgstr "حداکثر تعداد خطوط را تنظیم کنید"
 
 #: spyder/plugins/console/widgets/main_widget.py:217
 msgid "External editor path..."
-msgstr ""
+msgstr "مسیر ویرایشگر خارجی..."
 
 #: spyder/plugins/console/widgets/main_widget.py:218
 msgid "Set external editor executable path"
-msgstr ""
+msgstr "مسیر اجرایی ویرایشگر خارجی را تنظیم کنید"
 
 #: spyder/plugins/console/widgets/main_widget.py:223 spyder/plugins/editor/confpage.py:62 spyder/plugins/help/confpage.py:60 spyder/plugins/help/widgets.py:367 spyder/plugins/history/confpage.py:28 spyder/plugins/history/widgets.py:118
 msgid "Wrap lines"
-msgstr ""
+msgstr "بسته بندی خطوط"
 
 #: spyder/plugins/console/widgets/main_widget.py:229
 msgid "Automatic code completion"
-msgstr ""
+msgstr "تکمیل خودکار کد"
 
 #: spyder/plugins/console/widgets/main_widget.py:237
 msgid "Internal console settings"
-msgstr ""
+msgstr "تنظیمات کنسول داخلی"
 
 #: spyder/plugins/console/widgets/main_widget.py:512
 msgid "Run Python file"
-msgstr ""
+msgstr "یک فایل پایتون را اجرا کنید"
 
 #: spyder/plugins/console/widgets/main_widget.py:571
 msgid "Buffer"
-msgstr ""
+msgstr "بافر"
 
 #: spyder/plugins/console/widgets/main_widget.py:572
 msgid "Maximum line count"
-msgstr ""
+msgstr "حداکثر تعداد خطوط"
 
 #: spyder/plugins/console/widgets/main_widget.py:590
 msgid "External editor"
-msgstr ""
+msgstr "ویرایشگر خارجی"
 
 #: spyder/plugins/console/widgets/main_widget.py:591
 msgid "External editor executable path:"
-msgstr ""
+msgstr "مسیر اجرایی ویرایشگر خارجی:"
 
 #: spyder/plugins/console/widgets/shell.py:139
 msgid "Save history log..."
-msgstr ""
+msgstr "ذخیره گزارش سابقه..."
 
 #: spyder/plugins/console/widgets/shell.py:141
 msgid "Save current history log (i.e. all inputs and outputs) in a text file"
-msgstr ""
+msgstr "گزارش تاریخ جاری (یعنی همه ورودی ها و خروجی ها) را در یک فایل متنی ذخیره کنید"
 
 #: spyder/plugins/console/widgets/shell.py:144 spyder/plugins/explorer/widgets/explorer.py:1091 spyder/plugins/projects/plugin.py:578
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #: spyder/plugins/console/widgets/shell.py:261
 msgid "Save history log"
-msgstr ""
+msgstr "ذخیره گزارش سابقه"
 
 #: spyder/plugins/console/widgets/shell.py:264
 msgid "History logs"
-msgstr ""
+msgstr "لاگ های تاریخچه"
 
 #: spyder/plugins/console/widgets/shell.py:724
 msgid "Copy without prompts"
-msgstr ""
+msgstr "بدون prompts کپی کنید"
 
 #: spyder/plugins/console/widgets/shell.py:730 spyder/plugins/console/widgets/shell.py:733
 msgid "Clear line"
-msgstr ""
+msgstr "Clear line"
 
 #: spyder/plugins/console/widgets/shell.py:738
 msgid "Clear shell"
-msgstr ""
+msgstr "Clear shell"
 
 #: spyder/plugins/console/widgets/shell.py:741
 msgid "Clear shell contents ('cls' command)"
-msgstr ""
+msgstr "محتویات shell را پاک کنید (فرمان 'cls')"
 
 #: spyder/plugins/editor/confpage.py:49
 msgid "Show tab bar"
-msgstr ""
+msgstr "نمایش نوار Tab"
 
 #: spyder/plugins/editor/confpage.py:51 spyder/plugins/editor/plugin.py:940
 msgid "Show selector for classes and functions"
-msgstr ""
+msgstr "نمایش selector برای کلاس ها و توابع"
 
 #: spyder/plugins/editor/confpage.py:53 spyder/plugins/editor/plugin.py:934
 msgid "Show indent guides"
-msgstr ""
+msgstr "نمایش راهنمای indent"
 
 #: spyder/plugins/editor/confpage.py:55 spyder/plugins/editor/plugin.py:937
 msgid "Show code folding"
-msgstr ""
+msgstr "نمایش code folding"
 
 #: spyder/plugins/editor/confpage.py:56 spyder/plugins/history/confpage.py:29 spyder/plugins/history/widgets.py:125
 msgid "Show line numbers"
-msgstr ""
+msgstr "نمایش تعداد خطوط"
 
 #: spyder/plugins/editor/confpage.py:57 spyder/plugins/editor/plugin.py:927
 msgid "Show blank spaces"
-msgstr ""
+msgstr "نمایش جاهای خالی"
 
 #: spyder/plugins/editor/confpage.py:58
 msgid "Highlight current line"
-msgstr ""
+msgstr "خط فعلی را برجسته کنید"
 
 #: spyder/plugins/editor/confpage.py:60
 msgid "Highlight current cell"
-msgstr ""
+msgstr "سلول فعلی را برجسته کنید"
 
 #: spyder/plugins/editor/confpage.py:63 spyder/plugins/editor/plugin.py:930
 msgid "Scroll past the end"
-msgstr ""
+msgstr "از انتها عبور کنید"
 
 #: spyder/plugins/editor/confpage.py:66
 msgid "Highlight occurrences after"
-msgstr ""
+msgstr "برجسته کردن اتفاقات بعد"
 
 #: spyder/plugins/editor/confpage.py:69 spyder/plugins/statusbar/confpage.py:27 spyder/plugins/statusbar/confpage.py:34
 msgid " ms"
-msgstr ""
+msgstr " ms"
 
 #: spyder/plugins/editor/confpage.py:106
 msgid "Automatic insertion of parentheses, braces and brackets"
-msgstr ""
+msgstr "درج خودکار پرانتز و براکت"
 
 #: spyder/plugins/editor/confpage.py:109
 msgid "Automatic insertion of closing quotes"
-msgstr ""
+msgstr "درج خودکار نقل قول های پایانی"
 
 #: spyder/plugins/editor/confpage.py:112
 msgid "Automatic insertion of colons after 'for', 'if', 'def', etc"
-msgstr ""
+msgstr "درج خودکار دو نقطه بعد از 'for'، 'if'، 'def' و غیره"
 
 #: spyder/plugins/editor/confpage.py:115
 msgid "Automatic indentation after 'else', 'elif', etc."
-msgstr ""
+msgstr "Indentation خودکار بعد از «else»، «elif» و غیره."
 
 #: spyder/plugins/editor/confpage.py:118
 msgid "Tab always indent"
-msgstr ""
+msgstr "Tab always indent"
 
 #: spyder/plugins/editor/confpage.py:120
 msgid "If enabled, pressing Tab will always indent,\n"
@@ -2026,105 +2031,111 @@ msgid "If enabled, pressing Tab will always indent,\n"
 "of a line (when this option is enabled, code\n"
 "completion may be triggered using the alternate\n"
 "shortcut: Ctrl+Space)"
-msgstr ""
+msgstr "اگر فعال باشد، فشار دادن Tab همیشه indent گذاری خواهد کرد،\n"
+"حتی زمانی که cursor در ابتدای یک خط نیست\n"
+"(وقتی این گزینه فعال است، \n"
+"تکمیل کد ممکن است با استفاده از جایگزین آغاز شود\n"
+"میانبر: Ctrl+Space)"
 
 #: spyder/plugins/editor/confpage.py:126
 msgid "Automatically strip trailing spaces on changed lines"
-msgstr ""
+msgstr "به طور خودکار فضاهای انتهایی را در خطوط تغییر یافته بردارید"
 
 #: spyder/plugins/editor/confpage.py:128
 msgid "If enabled, modified lines of code (excluding strings)\n"
 "will have their trailing whitespace stripped when leaving them.\n"
 "If disabled, only whitespace added by Spyder will be stripped."
-msgstr ""
+msgstr "در صورت فعال بودن، خطوط کد را تغییر دهید (به استثنای رشته ها)\n"
+"هنگام خروج از آنها، فضای خالی انتهایی آنها برداشته می شود.\n"
+"اگر غیرفعال باشد، فقط فضای خالی اضافه شده توسط اسپایدر حذف می شود."
 
 #: spyder/plugins/editor/confpage.py:132
 msgid "Intelligent backspace"
-msgstr ""
+msgstr "بک اسپیس هوشمند"
 
 #: spyder/plugins/editor/confpage.py:136
 msgid "Automatically remove trailing spaces when saving files"
-msgstr ""
+msgstr "هنگام ذخیره فایل‌ها، فاصله‌های انتهایی را به‌طور خودکار حذف کنید"
 
 #: spyder/plugins/editor/confpage.py:140
 msgid "Insert a newline at the end if one does not exist when saving a file"
-msgstr ""
+msgstr "در صورتی که هنگام ذخیره یک فایل، خط جدیدی وجود نداشته باشد، در انتها وارد کنید"
 
 #: spyder/plugins/editor/confpage.py:145
 msgid "Trim all newlines after the final one when saving a file"
-msgstr ""
+msgstr "هنگام ذخیره یک فایل، تمام خطوط جدید را پس از آخرین خط Trim کنید"
 
 #: spyder/plugins/editor/confpage.py:150
 msgid "Indentation characters: "
-msgstr ""
+msgstr "کاراکترهای Indentation: "
 
 #: spyder/plugins/editor/confpage.py:151
 msgid "2 spaces"
-msgstr ""
+msgstr "2 اسپیس"
 
 #: spyder/plugins/editor/confpage.py:152
 msgid "3 spaces"
-msgstr ""
+msgstr "3 اسپیس"
 
 #: spyder/plugins/editor/confpage.py:153
 msgid "4 spaces"
-msgstr ""
+msgstr "4 اسپیس"
 
 #: spyder/plugins/editor/confpage.py:154
 msgid "5 spaces"
-msgstr ""
+msgstr "5 اسپیس"
 
 #: spyder/plugins/editor/confpage.py:155
 msgid "6 spaces"
-msgstr ""
+msgstr "6 اسپیس"
 
 #: spyder/plugins/editor/confpage.py:156
 msgid "7 spaces"
-msgstr ""
+msgstr "7 اسپیس"
 
 #: spyder/plugins/editor/confpage.py:157
 msgid "8 spaces"
-msgstr ""
+msgstr "8 اسپیس"
 
 #: spyder/plugins/editor/confpage.py:158
 msgid "Tabulations"
-msgstr ""
+msgstr "جدول بندی ها"
 
 #: spyder/plugins/editor/confpage.py:161
 msgid "Tab stop width:"
-msgstr ""
+msgstr "عرض توقف Tab:"
 
 #: spyder/plugins/editor/confpage.py:162
 msgid "spaces"
-msgstr ""
+msgstr "اسپیس ها"
 
 #: spyder/plugins/editor/confpage.py:212
 msgid "Save all files before running script"
-msgstr ""
+msgstr "قبل از اجرای اسکریپت همه فایل ها را ذخیره کنید"
 
 #: spyder/plugins/editor/confpage.py:215
 msgid "Maintain focus in the editor after running or debugging code"
-msgstr ""
+msgstr "پس از اجرای یا اشکال زدایی کد، تمرکز خود را در ویرایشگر حفظ کنید"
 
 #: spyder/plugins/editor/confpage.py:218
 msgid "Copy full cell contents to the console when running code cells"
-msgstr ""
+msgstr "هنگام اجرای سلول های کد، محتویات سلول کامل را در کنسول کپی کنید"
 
 #: spyder/plugins/editor/confpage.py:231
 msgid "Edit template for new files"
-msgstr ""
+msgstr "ویرایش template برای فایل های جدید"
 
 #: spyder/plugins/editor/confpage.py:235
 msgid "Autosave"
-msgstr ""
+msgstr "ذخیره‌سازی خودکار"
 
 #: spyder/plugins/editor/confpage.py:237
 msgid "Automatically save a copy of files with unsaved changes"
-msgstr ""
+msgstr "به طور خودکار یک کپی از فایل های با تغییرات ذخیره نشده ذخیره کنید"
 
 #: spyder/plugins/editor/confpage.py:240
 msgid "Autosave interval: "
-msgstr ""
+msgstr "فاصله ذخیره‌سازی خودکار: "
 
 #: spyder/plugins/editor/confpage.py:241
 msgid "seconds"
