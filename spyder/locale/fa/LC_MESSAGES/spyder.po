@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 15:41\n"
+"PO-Revision-Date: 2023-12-31 16:43\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -2585,71 +2585,71 @@ msgstr "فعال سازی حروف کوچک"
 
 #: spyder/plugins/editor/plugin.py:878
 msgid "Change to lowercase current line or selection"
-msgstr ""
+msgstr "تغییر دهی خط فعلی یا محیط منتخب به حروف کوچک"
 
 #: spyder/plugins/editor/plugin.py:903
 msgid "Convert end-of-line characters"
-msgstr ""
+msgstr "تبدیل کاراکترهای انتهای خط"
 
 #: spyder/plugins/editor/plugin.py:909
 msgid "Remove trailing spaces"
-msgstr ""
+msgstr "فضاهای عقب را حذف کنید"
 
 #: spyder/plugins/editor/plugin.py:918 spyder/plugins/editor/plugin.py:1876 spyder/plugins/editor/widgets/codeeditor.py:4625 spyder/plugins/editor/widgets/codeeditor.py:5488
 msgid "Format file or selection with {0}"
-msgstr ""
+msgstr "فرمت فایل یا انتخاب با {0}"
 
 #: spyder/plugins/editor/plugin.py:944
 msgid "Show code style warnings"
-msgstr ""
+msgstr "نمایش هشدارهای استایل کد"
 
 #: spyder/plugins/editor/plugin.py:947
 msgid "Show docstring style warnings"
-msgstr ""
+msgstr "نمایش هشدارهای سبک docstring"
 
 #: spyder/plugins/editor/plugin.py:963
 msgid "Fix indentation"
-msgstr ""
+msgstr "تعمیر indentation"
 
 #: spyder/plugins/editor/plugin.py:964
 msgid "Replace tab characters by space characters"
-msgstr ""
+msgstr "کاراکترهای tab را با کاراکترهای space جایگزین کنید"
 
 #: spyder/plugins/editor/plugin.py:967
 msgid "Go to line..."
-msgstr ""
+msgstr "برو به خط..."
 
 #: spyder/plugins/editor/plugin.py:975
 msgid "Set console working directory"
-msgstr ""
+msgstr "دایرکتوری در حال کار کنسول را تنظیم کنید"
 
 #: spyder/plugins/editor/plugin.py:977
 msgid "Set current console (and file explorer) working directory to current script directory"
-msgstr ""
+msgstr "دایرکتوری در حال کار کنسول فعلی (و کاوشگر فایل) را روی فهرست اسکریپت فعلی تنظیم کنید"
 
 #: spyder/plugins/editor/plugin.py:982
 msgid "Maximum number of recent files..."
-msgstr ""
+msgstr "حداکثر تعداد فایل های اخیر..."
 
 #: spyder/plugins/editor/plugin.py:985
 msgid "Clear recent files list"
-msgstr ""
+msgstr "لیست فایل های اخیر را پاک کن"
 
 #: spyder/plugins/editor/plugin.py:985 spyder/plugins/findinfiles/widgets/combobox.py:77 spyder/plugins/projects/plugin.py:322
 msgid "Clear this list"
-msgstr ""
+msgstr "پاک کردن این لیست"
 
 #: spyder/plugins/editor/plugin.py:994
 msgid "Go to next file"
-msgstr ""
+msgstr "برو به فایل بعدی"
 
 #: spyder/plugins/editor/plugin.py:1000
 msgid "Go to previous file"
-msgstr ""
+msgstr "برو به فایل قبلی"
 
 #: spyder/plugins/editor/plugin.py:1021
 msgid "Open &recent"
-msgstr ""
+msgstr "باز کردن &اخیر"
 
 #: spyder/plugins/editor/plugin.py:1684 spyder/plugins/toolbar/plugin.py:54
 msgid "File toolbar"
@@ -2693,852 +2693,853 @@ msgstr "&راهنما"
 
 #: spyder/plugins/editor/plugin.py:1943
 msgid "Spyder Editor"
-msgstr ""
+msgstr "ویرایشگر اسپایدر"
 
 #: spyder/plugins/editor/plugin.py:1944
 msgid "This is a temporary script file."
-msgstr ""
+msgstr "این یک فایل اسکریپت موقت است."
 
 #: spyder/plugins/editor/plugin.py:2026 spyder/plugins/editor/plugin.py:2037 spyder/plugins/editor/plugin.py:2044 spyder/plugins/pylint/main_widget.py:476
 msgid "untitled"
-msgstr ""
+msgstr "بدون عنوان"
 
 #: spyder/plugins/editor/plugin.py:2122
 msgid "Maximum number of recent files"
-msgstr ""
+msgstr "حداکثر تعداد فایل های اخیر"
 
 #: spyder/plugins/editor/plugin.py:2363
 msgid "Printing..."
-msgstr ""
+msgstr "در حال چاپ..."
 
 #: spyder/plugins/editor/utils/autosave.py:309
 msgid "Error while removing autosave file {}"
-msgstr ""
+msgstr "خطا هنگام حذف فایل ذخیره خودکار {}"
 
 #: spyder/plugins/editor/utils/autosave.py:345
 msgid "Error while creating autosave directory"
-msgstr ""
+msgstr "خطا هنگام ایجاد فهرست ذخیره خودکار"
 
 #: spyder/plugins/editor/utils/autosave.py:415
 msgid "Error while autosaving {} to {}"
-msgstr ""
+msgstr "خطا هنگام ذخیره خودکار {} در {}"
 
 #: spyder/plugins/editor/utils/debugger.py:105
 msgid "Breakpoint"
-msgstr ""
+msgstr "نقطه‌ی توقف"
 
 #: spyder/plugins/editor/utils/debugger.py:106
 msgid "Condition:"
-msgstr ""
+msgstr "شرط:"
 
 #: spyder/plugins/editor/utils/switcher.py:55 spyder/widgets/switcher.py:971 spyder/widgets/tests/test_switcher.py:33
 msgid "Go to Line"
-msgstr ""
+msgstr "برو به خط"
 
 #: spyder/plugins/editor/utils/switcher.py:56 spyder/widgets/switcher.py:972 spyder/widgets/tests/test_switcher.py:34
 msgid "Go to Symbol in File"
-msgstr ""
+msgstr "به Symbol در فایل بروید"
 
 #: spyder/plugins/editor/utils/switcher.py:78
 msgid "Start typing the name of an open file"
-msgstr ""
+msgstr "شروع به تایپ کردن نام یک فایل باز شده کنید"
 
 #: spyder/plugins/editor/utils/switcher.py:111
 msgid "Select line"
-msgstr ""
+msgstr "خط را انتخاب کنید"
 
 #: spyder/plugins/editor/utils/switcher.py:119
 msgid "lines"
-msgstr ""
+msgstr "خطوط"
 
 #: spyder/plugins/editor/utils/switcher.py:120
 msgid "Go to line"
-msgstr ""
+msgstr "برو به خط"
 
 #: spyder/plugins/editor/utils/switcher.py:135
 msgid "Select symbol"
-msgstr ""
+msgstr "انتخاب symbol"
 
 #: spyder/plugins/editor/widgets/autosaveerror.py:47
 msgid "Autosave error"
-msgstr ""
+msgstr "خطای ذخیره خودکار"
 
 #: spyder/plugins/editor/widgets/autosaveerror.py:52 spyder/plugins/editor/widgets/recover.py:273
 msgid "Error message:"
-msgstr ""
+msgstr "پیام خطا:"
 
 #: spyder/plugins/editor/widgets/autosaveerror.py:57
 msgid "Hide all future autosave-related errors during this session"
-msgstr ""
+msgstr "تمام خطاهای مربوط به ذخیره خودکار آینده را در این جلسه پنهان کن"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:658
 msgid "click to open file"
-msgstr ""
+msgstr "کلیک کنید تا فایل باز شود"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:660
 msgid "click to send email"
-msgstr ""
+msgstr "برای ارسال ایمیل کلیک کنید"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:662
 msgid "click to open url"
-msgstr ""
+msgstr "برای باز کردن url کلیک کنید"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:664
 msgid "click to open"
-msgstr ""
+msgstr "کلیک کنید تا باز شود"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:3349
 msgid "Code analysis"
-msgstr ""
+msgstr "تجزیه و تحلیل کد"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:3478
 msgid "To do"
-msgstr ""
+msgstr "کارهای برای انجام"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:3986
 msgid "Removal error"
-msgstr ""
+msgstr "خطای حذف"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:3987
 msgid "It was not possible to remove outputs from this notebook. The error is:\n\n"
-msgstr ""
+msgstr "امکان حذف خروجی ها از این نوت بوک وجود نداشت. خطا این است:\n\n"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:3999 spyder/plugins/explorer/widgets/explorer.py:1693
 msgid "Conversion error"
-msgstr ""
+msgstr "خطای تبدیل"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4000 spyder/plugins/explorer/widgets/explorer.py:1694
 msgid "It was not possible to convert this notebook. The error is:\n\n"
-msgstr ""
+msgstr "امکان تبدیل این نوت بوک وجود نداشت. خطا این است:\n\n"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4550
 msgid "Clear all ouput"
-msgstr ""
+msgstr "تمام خروجی ها را پاک کنید"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4553 spyder/plugins/explorer/widgets/explorer.py:488
 msgid "Convert to Python file"
-msgstr ""
+msgstr "تبدیل به فایل پایتون"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4556
 msgid "Go to definition"
-msgstr ""
+msgstr "برو به تعریف"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4561 spyder/plugins/ipythonconsole/widgets/main_widget.py:486
 msgid "Inspect current object"
-msgstr ""
+msgstr "شی فعلی را بررسی کنید"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4599 spyder/plugins/editor/widgets/printer.py:97 spyder/plugins/plots/widgets/main_widget.py:182 spyder/plugins/plots/widgets/main_widget.py:183 spyder/widgets/browser.py:158
 msgid "Zoom in"
-msgstr ""
+msgstr "بزرگ نمایی"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4603 spyder/plugins/editor/widgets/printer.py:96 spyder/plugins/plots/widgets/main_widget.py:190 spyder/plugins/plots/widgets/main_widget.py:191 spyder/widgets/browser.py:166
 msgid "Zoom out"
-msgstr ""
+msgstr "کوچک نمایی"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4607
 msgid "Zoom reset"
-msgstr ""
+msgstr "بازنشانی بزرگنمایی"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:4613 spyder/plugins/editor/widgets/codeeditor.py:5634
 msgid "Generate docstring"
-msgstr ""
+msgstr "ایجاد docstring"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:5212 spyder/plugins/preferences/api.py:839
 msgid "Information"
-msgstr ""
+msgstr "اطلاعات"
 
 #: spyder/plugins/editor/widgets/codeeditor.py:5213
 msgid "This file is not part of a local repository or upstream/origin remotes are not defined!"
-msgstr ""
+msgstr "این فایل بخشی از یک مخزن محلی نیست یا ریموت های upstream/origin تعریف نشده اند!"
 
 #: spyder/plugins/editor/widgets/editor.py:287
 msgid "Find symbols in file..."
-msgstr ""
+msgstr "یافتن symbol ها در فایل..."
 
 #: spyder/plugins/editor/widgets/editor.py:290
 msgid "Copy path to clipboard"
-msgstr ""
+msgstr "مسیر را در کلیپ بورد کپی کنید"
 
 #: spyder/plugins/editor/widgets/editor.py:294
 msgid "Close all to the right"
-msgstr ""
+msgstr "همه را به سمت راست ببند"
 
 #: spyder/plugins/editor/widgets/editor.py:296
 msgid "Close all but this"
-msgstr ""
+msgstr "همه را ببند به جز این"
 
 #: spyder/plugins/editor/widgets/editor.py:299
 msgid "Sort tabs alphabetically"
-msgstr ""
+msgstr "برگه ها را بر اساس حروف الفبا مرتب کن"
 
 #: spyder/plugins/editor/widgets/editor.py:303 spyder/plugins/explorer/widgets/explorer.py:420
 msgid "Show in Finder"
-msgstr ""
+msgstr "نمایش در یابنده"
 
 #: spyder/plugins/editor/widgets/editor.py:305
 msgid "Show in external file explorer"
-msgstr ""
+msgstr "نمایش در اکسپلورر فایل خارجی"
 
 #: spyder/plugins/editor/widgets/editor.py:422
 msgid "Spyder can't show this file in the external file explorer because the <tt>xdg-utils</tt> package is not available on your system."
-msgstr ""
+msgstr "اسپایدر نمی تواند این فایل را در کاوشگر فایل خارجی نشان دهد زیرا بسته <tt>xdg-utils</tt> در سیستم شما موجود نیست."
 
 #: spyder/plugins/editor/widgets/editor.py:1302
 msgid "Temporary file"
-msgstr ""
+msgstr "فایل‌های موقت"
 
 #: spyder/plugins/editor/widgets/editor.py:1432
 msgid "New window"
-msgstr ""
+msgstr "پنجره جدید"
 
 #: spyder/plugins/editor/widgets/editor.py:1434
 msgid "Create a new editor window"
-msgstr ""
+msgstr "یک پنجره ی ویرایشگر جدید ایجاد کن"
 
 #: spyder/plugins/editor/widgets/editor.py:1440
 msgid "Split vertically"
-msgstr ""
+msgstr "تجزیه به صورت عمودی"
 
 #: spyder/plugins/editor/widgets/editor.py:1442
 msgid "Split vertically this editor window"
-msgstr ""
+msgstr "این پنجره ویرایشگر را به صورت عمودی تقسیم کنید"
 
 #: spyder/plugins/editor/widgets/editor.py:1450
 msgid "Split horizontally"
-msgstr ""
+msgstr "تجزیه به صورت افقی"
 
 #: spyder/plugins/editor/widgets/editor.py:1452
 msgid "Split horizontally this editor window"
-msgstr ""
+msgstr "این پنجره ویرایشگر را به صورت افقی تقسیم کنید"
 
 #: spyder/plugins/editor/widgets/editor.py:1460
 msgid "Close this panel"
-msgstr ""
+msgstr "این پنل را ببند"
 
 #: spyder/plugins/editor/widgets/editor.py:1474 spyder/plugins/editor/widgets/editor.py:3555
 msgid "Close window"
-msgstr ""
+msgstr "بستن پنجره"
 
 #: spyder/plugins/editor/widgets/editor.py:1839
 msgid "<b>%s</b> has been modified.<br>Do you want to save changes?"
-msgstr ""
+msgstr "<b>%s</b> اصلاح شده است.<br>آیا می خواهید تغییرات را ذخیره کنید?"
 
 #: spyder/plugins/editor/widgets/editor.py:1975 spyder/plugins/editor/widgets/editor.py:2164 spyder/plugins/explorer/widgets/utils.py:63
 msgid "Save Error"
-msgstr ""
+msgstr "خطا در ذخیره‌سازی"
 
 #: spyder/plugins/editor/widgets/editor.py:1976 spyder/plugins/editor/widgets/editor.py:2165 spyder/plugins/explorer/widgets/utils.py:64
 msgid "<b>Unable to save file '%s'</b><br><br>Error message:<br>%s"
-msgstr ""
+msgstr "<b>فایل \"%s\" ذخیره نمی شود</b><br><br>پیام خطا:<br>%s"
 
 #: spyder/plugins/editor/widgets/editor.py:2384
 msgid "The file <b>%s</b> is unavailable.<br><br>It may have been removed, moved or renamed outside Spyder.<br><br>Do you want to close it?"
-msgstr ""
+msgstr "فایل <b>%s</b> در دسترس نیست.<br><br>ممکن است حذف شده باشد، منتقل شده باشد یا به خارج از اسپایدر تغییر نام شده باشد.<br><br>آیا می خواهید آن را ببندید?"
 
 #: spyder/plugins/editor/widgets/editor.py:2413
 msgid "The file <b>{}</b> has been modified outside Spyder.<br><br>Do you want to reload it and lose all your changes?"
-msgstr ""
+msgstr "فایل <b>{}</b> خارج از اسپایدر اصلاح شده است.<br><br>آیا می‌خواهید آن را دوباره بارگیری کنید و همه تغییرات خود را از دست بدهید?"
 
 #: spyder/plugins/editor/widgets/editor.py:2433
 msgid "The file <b>{}</b> has been modified outside Spyder but it was not possible to reload it.<br><br>Therefore, it will be closed."
-msgstr ""
+msgstr "فایل <b>{}</b> در خارج از اسپایدر اصلاح شده است، اما امکان بارگیری مجدد آن وجود نداشت.<br><br>بنابراین، بسته خواهد شد."
 
 #: spyder/plugins/editor/widgets/editor.py:2552
 msgid "All changes to file <b>%s</b> will be lost.<br>Do you want to revert it from disk?"
-msgstr ""
+msgstr "همه تغییرات در فایل <b>%s</b> از بین می‌رود.<br>آیا می‌خواهید آن را از دیسک برگردانید?"
 
 #: spyder/plugins/editor/widgets/editor.py:2572
 msgid "File <b>%s</b> is not saved on disk, so it can't be reverted."
-msgstr ""
+msgstr "فایل <b>%s</b> روی دیسک ذخیره نشده است، بنابراین نمی توان آن را برگرداند."
 
 #: spyder/plugins/editor/widgets/editor.py:2786
 msgid "Loading %s..."
-msgstr ""
+msgstr "در حال بارگیری %s..."
 
 #: spyder/plugins/editor/widgets/editor.py:2817
 msgid "<b>%s</b> contains mixed end-of-line characters.<br>Spyder will fix this automatically."
-msgstr ""
+msgstr "<b>%s</b> حاوی نویسه‌های انتهای خط مختلط است.<br>Spyder این مشکل را به‌طور خودکار برطرف می‌کند."
 
 #: spyder/plugins/editor/widgets/editor.py:3557
 msgid "Close this window"
-msgstr ""
+msgstr "بستن این پنجره"
 
 #: spyder/plugins/editor/widgets/gotoline.py:32
 msgid "Go to line:"
-msgstr ""
+msgstr "برو به خط:"
 
 #: spyder/plugins/editor/widgets/gotoline.py:38 spyder/utils/syntaxhighlighters.py:58
 msgid "Current line:"
-msgstr ""
+msgstr "خط فعلی:"
 
 #: spyder/plugins/editor/widgets/gotoline.py:40
 msgid "Line count:"
-msgstr ""
+msgstr "تعداد خطوط:"
 
 #: spyder/plugins/editor/widgets/printer.py:94
 msgid "Fit width"
-msgstr ""
+msgstr "متناسب با عرض"
 
 #: spyder/plugins/editor/widgets/printer.py:95
 msgid "Fit page"
-msgstr ""
+msgstr "Fit page"
 
 #: spyder/plugins/editor/widgets/printer.py:98
 msgid "Portrait"
-msgstr ""
+msgstr "پرتره"
 
 #: spyder/plugins/editor/widgets/printer.py:99
 msgid "Landscape"
-msgstr ""
+msgstr "چشم انداز"
 
 #: spyder/plugins/editor/widgets/printer.py:100
 msgid "First page"
-msgstr ""
+msgstr "اولین صفحه"
 
 #: spyder/plugins/editor/widgets/printer.py:101
 msgid "Previous page"
-msgstr ""
+msgstr "صفحه قبلی"
 
 #: spyder/plugins/editor/widgets/printer.py:102
 msgid "Next page"
-msgstr ""
+msgstr "صفحه بعدی"
 
 #: spyder/plugins/editor/widgets/printer.py:103
 msgid "Last page"
-msgstr ""
+msgstr "آخرین صفحه"
 
 #: spyder/plugins/editor/widgets/printer.py:104
 msgid "Show single page"
-msgstr ""
+msgstr "نمایش تک صفحه"
 
 #: spyder/plugins/editor/widgets/printer.py:105
 msgid "Show overview of all pages"
-msgstr ""
+msgstr "نمایش نمای کلی همه صفحات"
 
 #: spyder/plugins/editor/widgets/printer.py:106
 msgid "Page setup"
-msgstr ""
+msgstr "برپایی برگه"
 
 #: spyder/plugins/editor/widgets/printer.py:107
 msgid "Print"
-msgstr ""
+msgstr "چاپ"
 
 #: spyder/plugins/editor/widgets/recover.py:49
 msgid "Recover from autosave"
-msgstr ""
+msgstr "بازیابی از ذخیره خودکار"
 
 #: spyder/plugins/editor/widgets/recover.py:129
 msgid "Autosave files found. What would you like to do?\n\n"
 "This dialog will be shown again on next startup if any autosave files are not restored, moved or deleted."
-msgstr ""
+msgstr "فایل‌های ذخیره خودکار پیدا شد. دوست دارید چه کار کنید؟\n\n"
+"اگر فایل‌های ذخیره خودکار بازیابی، انتقال یا حذف نشدند، در راه‌اندازی بعدی دوباره نشان داده می‌شود."
 
 #: spyder/plugins/editor/widgets/recover.py:148
 msgid "Actions"
-msgstr ""
+msgstr "اقدامات"
 
 #: spyder/plugins/editor/widgets/recover.py:148
 msgid "Autosave file"
-msgstr ""
+msgstr "ذخیره خودکار فایل"
 
 #: spyder/plugins/editor/widgets/recover.py:148
 msgid "Original file"
-msgstr ""
+msgstr "فایل اصلی"
 
 #: spyder/plugins/editor/widgets/recover.py:167
 msgid "Recover the autosave file to its original location, replacing the original if it exists."
-msgstr ""
+msgstr "فایل ذخیره خودکار را در محل اصلی خود بازیابی کنید و در صورت وجود آن را جایگزین کنید."
 
 #: spyder/plugins/editor/widgets/recover.py:169 spyder/plugins/editor/widgets/recover.py:275 spyder/widgets/onecolumntree.py:96
 msgid "Restore"
-msgstr ""
+msgstr "بازیابی"
 
 #: spyder/plugins/editor/widgets/recover.py:175
 msgid "Delete the autosave file."
-msgstr ""
+msgstr "فایل ذخیره خودکار را حذف کنید."
 
 #: spyder/plugins/editor/widgets/recover.py:176
 msgid "Discard"
-msgstr ""
+msgstr "صرف‌نظر کردن"
 
 #: spyder/plugins/editor/widgets/recover.py:182
 msgid "Display the autosave file (and the original, if it exists) in Spyder's Editor. You will have to move or delete it manually."
-msgstr ""
+msgstr "فایل ذخیره خودکار (و نسخه اصلی، در صورت وجود) را در ویرایشگر اسپایدر نمایش دهید. شما باید آن را به صورت دستی جابجا یا حذف کنید."
 
 #: spyder/plugins/editor/widgets/recover.py:185
 msgid "Open"
-msgstr ""
+msgstr "باز کردن"
 
 #: spyder/plugins/editor/widgets/recover.py:206
 msgid "<i>File name not recorded</i>"
-msgstr ""
+msgstr "<i>نام فایل ثبت نشده است</i>"
 
 #: spyder/plugins/editor/widgets/recover.py:211
 msgid "Last modified"
-msgstr ""
+msgstr "آخرین ویرایش"
 
 #: spyder/plugins/editor/widgets/recover.py:213
 msgid "bytes"
-msgstr ""
+msgstr "bytes"
 
 #: spyder/plugins/editor/widgets/recover.py:213 spyder/plugins/explorer/widgets/explorer.py:496 spyder/plugins/preferences/api.py:780 spyder/widgets/collectionseditor.py:448
 msgid "Size"
-msgstr ""
+msgstr "اندازه"
 
 #: spyder/plugins/editor/widgets/recover.py:215
 msgid "<i>File no longer exists</i>"
-msgstr ""
+msgstr "<i>فایل دیگر وجود ندارد</i>"
 
 #: spyder/plugins/editor/widgets/recover.py:237
 msgid "Restore autosave file to ..."
-msgstr ""
+msgstr "بازیابی فایل ذخیره خودکار در ..."
 
 #: spyder/plugins/editor/widgets/recover.py:252
 msgid "Unable to restore {} using {}"
-msgstr ""
+msgstr "بازیابی {} با استفاده از {} ​​امکان پذیر نیست"
 
 #: spyder/plugins/editor/widgets/recover.py:262
 msgid "Unable to discard {}"
-msgstr ""
+msgstr "نمی توان از {} ​​صرف نظر کرد"
 
 #: spyder/plugins/editor/widgets/recover.py:276
 msgid "<b>{}</b><br><br>{}<br>{}"
-msgstr ""
+msgstr "<b>{}</b><br><br>{}<br>{}"
 
 #: spyder/plugins/editor/widgets/status.py:31
 msgid "File permissions"
-msgstr ""
+msgstr "دسترسی فایل ها"
 
 #: spyder/plugins/editor/widgets/status.py:46
 msgid "File EOL Status"
-msgstr ""
+msgstr "وضعیت فایل EOL"
 
 #: spyder/plugins/editor/widgets/status.py:60
 msgid "Encoding"
-msgstr ""
+msgstr "در حال رمزگذاری"
 
 #: spyder/plugins/editor/widgets/status.py:74
 msgid "Cursor position"
-msgstr ""
+msgstr "موقعیت مکان نما"
 
 #: spyder/plugins/editor/widgets/status.py:139
 msgid "Git branch"
-msgstr ""
+msgstr "شاخه Git"
 
 #: spyder/plugins/explorer/confpage.py:31
 msgid "General options"
-msgstr ""
+msgstr "گزینه های عمومی"
 
 #: spyder/plugins/explorer/confpage.py:32 spyder/plugins/explorer/widgets/explorer.py:447
 msgid "Show hidden files"
-msgstr ""
+msgstr "نمایش فایل‌های پنهان"
 
 #: spyder/plugins/explorer/confpage.py:34
 msgid "Single click to open files"
-msgstr ""
+msgstr "برای باز کردن فایل ها کلیک کنید"
 
 #: spyder/plugins/explorer/confpage.py:41
 msgid "Filter settings"
-msgstr ""
+msgstr "تنظیمات فیلتر"
 
 #: spyder/plugins/explorer/confpage.py:43 spyder/plugins/explorer/widgets/explorer.py:987
 msgid "Filter files by name, extension, or more using <a href=\"https://en.wikipedia.org/wiki/Glob_(programming)\">glob patterns.</a> Please enter the glob patterns of the files you want to show, separated by commas."
-msgstr ""
+msgstr "با استفاده از <a href=\"https://en.wikipedia.org/wiki/Glob_(programming)\">الگوهای گلوب، فایل‌ها را بر اساس نام، پسوند یا موارد دیگر فیلتر کنید.</a> لطفاً الگوهای گلوب فایل‌های مورد نظر خود را وارد کنید. برای نشان دادن، با کاما از هم جدا شده است."
 
 #: spyder/plugins/explorer/confpage.py:90 spyder/plugins/preferences/api.py:862
 msgid "General"
-msgstr ""
+msgstr "عمومی"
 
 #: spyder/plugins/explorer/confpage.py:92
 msgid "File associations"
-msgstr ""
+msgstr "وابستگی‌ها"
 
 #: spyder/plugins/explorer/plugin.py:158 spyder/plugins/explorer/widgets/main_widget.py:199 spyder/plugins/tours/tours.py:154
 msgid "Files"
-msgstr ""
+msgstr "فایل ها"
 
 #: spyder/plugins/explorer/plugin.py:162
 msgid "Explore files in the computer with a tree view."
-msgstr ""
+msgstr "فایل‌ها را در رایانه با نمای درختی کاوش کنید."
 
 #: spyder/plugins/explorer/widgets/explorer.py:318
 msgid "File..."
-msgstr ""
+msgstr "فایل..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:325
 msgid "Python file..."
-msgstr ""
+msgstr "فایل های Python..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:332
 msgid "Folder..."
-msgstr ""
+msgstr "پوشه..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:339
 msgid "Python Package..."
-msgstr ""
+msgstr "بسته ی پایتون..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:347
 msgid "Open in Spyder"
-msgstr ""
+msgstr "در اسپایدر باز کنید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:354
 msgid "Open externally"
-msgstr ""
+msgstr "به صورت خارجی باز کن"
 
 #: spyder/plugins/explorer/widgets/explorer.py:360
 msgid "Default external application"
-msgstr ""
+msgstr "برنامه خارجی پیش فرض"
 
 #: spyder/plugins/explorer/widgets/explorer.py:368
 msgid "Delete..."
-msgstr ""
+msgstr "حذف..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:375
 msgid "Rename..."
-msgstr ""
+msgstr "تغییر نام..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:382
 msgid "Move..."
-msgstr ""
+msgstr "حرکت..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:406
 msgid "Copy Absolute Path"
-msgstr ""
+msgstr "مسیر مطلق را کپی کن"
 
 #: spyder/plugins/explorer/widgets/explorer.py:413
 msgid "Copy Relative Path"
-msgstr ""
+msgstr "مسیر نسبی را کپی کنید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:422
 msgid "Show in Folder"
-msgstr ""
+msgstr "نمایش در پوشه"
 
 #: spyder/plugins/explorer/widgets/explorer.py:433
 msgid "Commit"
-msgstr ""
+msgstr "انجام"
 
 #: spyder/plugins/explorer/widgets/explorer.py:439
 msgid "Browse repository"
-msgstr ""
+msgstr "Repository را مرور کنید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:455
 msgid "Edit filter settings..."
-msgstr ""
+msgstr "ویرایش تنظیمات فیلتر..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:462
 msgid "Single click to open"
-msgstr ""
+msgstr "برای باز کردن کلیک کنید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:472
 msgid "Open IPython console here"
-msgstr ""
+msgstr "کنسول IPython را در اینجا باز کنید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:504 spyder/widgets/collectionseditor.py:448
 msgid "Type"
-msgstr ""
+msgstr "نوع"
 
 #: spyder/plugins/explorer/widgets/explorer.py:512
 msgid "Date modified"
-msgstr ""
+msgstr "تاریخ ویرایش شده"
 
 #: spyder/plugins/explorer/widgets/explorer.py:532
 msgid "New"
-msgstr ""
+msgstr "جدید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:551
 msgid "Open with"
-msgstr ""
+msgstr "باز کردن با"
 
 #: spyder/plugins/explorer/widgets/explorer.py:704 spyder/plugins/explorer/widgets/fileassociations.py:390
 msgid " (Application not found!)"
-msgstr ""
+msgstr " (برنامه یافت نشد!)"
 
 #: spyder/plugins/explorer/widgets/explorer.py:983
 msgid "Edit filter settings"
-msgstr ""
+msgstr "ویرایش تنظیمات فیلتر"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1092
 msgid "Do you really want to delete <b>%s</b>?"
-msgstr ""
+msgstr "یا واقعاً می خواهید <b>%s</b> را حذف کنید?"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1109
 msgid "delete"
-msgstr ""
+msgstr "حذف"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1111 spyder/plugins/projects/plugin.py:591 spyder/plugins/projects/widgets/projectexplorer.py:325
 msgid "Project Explorer"
-msgstr ""
+msgstr "پروژه اکسپلورر"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1112 spyder/plugins/projects/widgets/projectexplorer.py:326
 msgid "<b>Unable to %s <i>%s</i></b><br><br>Error message:<br>%s"
-msgstr ""
+msgstr "<b>%s امکان پذیر نیست <i>%s</i></b><br><br>پیام خطا:<br>%s"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1127
 msgid "File Explorer"
-msgstr ""
+msgstr "مرورگر فایل"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1128
 msgid "The current directory contains a project.<br><br>If you want to delete the project, please go to <b>Projects</b> &raquo; <b>Delete Project</b>"
-msgstr ""
+msgstr "دایرکتوری فعلی حاوی یک پروژه است.<br><br>اگر می‌خواهید پروژه را حذف کنید، لطفاً به <b>پروژه‌ها</b> بروید &raquo; <b>حذف پروژه</b>"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1140
 msgid "New name:"
-msgstr ""
+msgstr "نام جدید:"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1140 spyder/plugins/explorer/widgets/explorer.py:1149 spyder/plugins/explorer/widgets/explorer.py:1165 spyder/plugins/variableexplorer/widgets/main_widget.py:294 spyder/widgets/collectionseditor.py:685 spyder/widgets/collectionseditor.py:1051
 msgid "Rename"
-msgstr ""
+msgstr "تغییر نام"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1150
 msgid "Do you really want to rename <b>%s</b> and overwrite the existing file <b>%s</b>?"
-msgstr ""
+msgstr "آیا واقعاً می‌خواهید نام <b>%s</b> را تغییر دهید و فایل موجود <b>%s</b> را بازنویسی کنید?"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1166
 msgid "<b>Unable to rename file <i>%s</i></b><br><br>Error message:<br>%s"
-msgstr ""
+msgstr "<b>تغییر نام فایل <i>%s</i></b><br><br>پیام خطا:<br>%s ممکن نیست"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1197 spyder/plugins/findinfiles/widgets/combobox.py:174 spyder/plugins/preferences/api.py:544 spyder/plugins/preferences/api.py:559 spyder/plugins/projects/widgets/projectdialog.py:100 spyder/plugins/projects/widgets/projectdialog.py:164 spyder/plugins/pythonpath/widgets/pathmanager.py:429 spyder/plugins/run/widgets.py:271 spyder/plugins/run/widgets.py:296 spyder/plugins/workingdirectory/container.py:227
 msgid "Select directory"
-msgstr ""
+msgstr "دایرکتوری را انتخاب کنید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1214
 msgid "<b>Unable to move <i>%s</i></b><br><br>Error message:<br>%s"
-msgstr ""
+msgstr "<b>انتقال <i>%s</i></b><br><br>پیام خطا امکان پذیر نیست:<br>%s"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1233
 msgid "<b>Unable to create folder <i>%s</i></b><br><br>Error message:<br>%s"
-msgstr ""
+msgstr "<b>نمی توان پوشه را ایجاد کرد <i>%s</i></b><br><br>پیام خطا:<br>%s"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1246 spyder/plugins/explorer/widgets/explorer.py:1288
 msgid "<b>Unable to create file <i>%s</i></b><br><br>Error message:<br>%s"
-msgstr ""
+msgstr "<b>نمی توان فایل را ایجاد کرد <i>%s</i></b><br><br>پیام خطا:<br>%s"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1267
 msgid "New folder"
-msgstr ""
+msgstr "پوشه جدید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1268
 msgid "Folder name:"
-msgstr ""
+msgstr "نام پوشه:"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1381
 msgid "File/Folder copy error"
-msgstr ""
+msgstr "خطای کپی فایل/پوشه"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1382
 msgid "Cannot copy this type of file(s) or folder(s). The error was:\n\n"
-msgstr ""
+msgstr "نمی توان این نوع فایل(ها) یا پوشه(ها) را کپی کرد. خطا این بود:\n\n"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1429
 msgid "Error pasting file"
-msgstr ""
+msgstr "خطا در چسباندن فایل"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1430 spyder/plugins/explorer/widgets/explorer.py:1458
 msgid "Unsupported copy operation. The error was:\n\n"
-msgstr ""
+msgstr "عملیات کپی پشتیبانی نشده خطا این بود:\n\n"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1449
 msgid "Recursive copy"
-msgstr ""
+msgstr "کپی بازگشتی"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1450
 msgid "Source is an ancestor of destination folder."
-msgstr ""
+msgstr "منبع یک اجداد پوشه مقصد است."
 
 #: spyder/plugins/explorer/widgets/explorer.py:1457
 msgid "Error pasting folder"
-msgstr ""
+msgstr "خطا در چسباندن پوشه"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1462
 msgid "No file in clipboard"
-msgstr ""
+msgstr "فایلی در کلیپ بورد وجود ندارد"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1463
 msgid "No file in the clipboard. Please copy a file to the clipboard first."
-msgstr ""
+msgstr "یلی در کلیپ بورد وجود ندارد. لطفا ابتدا یک فایل را در کلیپ بورد کپی کنید."
 
 #: spyder/plugins/explorer/widgets/explorer.py:1467
 msgid "Blank area"
-msgstr ""
+msgstr "منطقه خالی"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1468
 msgid "Cannot paste in the blank area."
-msgstr ""
+msgstr "در قسمت خالی نمی توان چسباند."
 
 #: spyder/plugins/explorer/widgets/explorer.py:1529
 msgid "The following command did not launch successfully:"
-msgstr ""
+msgstr "دستور زیر با موفقیت اجرا نشد:"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1531
 msgid "The following commands did not launch successfully:"
-msgstr ""
+msgstr "دستورات زیر با موفقیت اجرا نشد:"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1562
 msgid "For %s support, please install one of the<br/> following tools:<br/><br/>  %s"
-msgstr ""
+msgstr "برای پشتیبانی %s، لطفاً یکی از<br/> ابزارهای زیر را نصب کنید:<br/><br/> %s"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1567
 msgid "<b>Unable to find external program.</b><br><br>%s"
-msgstr ""
+msgstr "<b>برنامه خارجی پیدا نشد.</b><br><br>%s"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1715
 msgid "New package"
-msgstr ""
+msgstr "بسته جديد"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1716
 msgid "Package name:"
-msgstr ""
+msgstr "نام بسته:"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1726
 msgid "New module"
-msgstr ""
+msgstr "ماژول جدید"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1790 spyder/plugins/variableexplorer/widgets/importwizard.py:538
 msgid "Previous"
-msgstr ""
+msgstr "پیشین"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1796 spyder/plugins/variableexplorer/widgets/importwizard.py:542 spyder/plugins/workingdirectory/container.py:143 spyder/plugins/workingdirectory/container.py:144
 msgid "Next"
-msgstr ""
+msgstr "بعدی"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1802
 msgid "Parent"
-msgstr ""
+msgstr "والد"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1826
 msgid "Filter filenames"
-msgstr ""
+msgstr "نام فایل ها را فیلتر کن"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1950
 msgid "You don't have the right permissions to open this directory"
-msgstr ""
+msgstr "شما مجوزهای مناسبی برای باز کردن این فهرست ندارید"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:111
 msgid "Browse..."
-msgstr ""
+msgstr "جستجو..."
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:118
 msgid "Applications"
-msgstr ""
+msgstr "برنامه‌ها"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:119
 msgid "Type to filter by name"
-msgstr ""
+msgstr "تایپ کنید تا بر اساس نام فیلتر شود"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:185
 msgid "Applications (*.app)"
-msgstr ""
+msgstr "برنامه های کاربردی (*.app)"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:186 spyder/plugins/explorer/widgets/fileassociations.py:201 spyder/plugins/explorer/widgets/fileassociations.py:220
 msgid "Select application"
-msgstr ""
+msgstr "برنامه را انتخاب کنید"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:200
 msgid "Applications (*.exe *.bat *.com)"
-msgstr ""
+msgstr "برنامه های کاربردی (*.exe *.bat *.com)"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:219
 msgid "Applications (*.desktop)"
-msgstr ""
+msgstr "برنامه های کاربردی (*.desktop)"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:256
 msgid "Choose the application for files of type "
-msgstr ""
+msgstr "برنامه را برای نوع فایل ها انتخاب کنید "
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:295
 msgid "Here you can associate different external applications to open specific file extensions (e.g. .txt files with Notepad++ or .csv files with Excel)."
-msgstr ""
+msgstr "در اینجا می‌توانید برنامه‌های خارجی مختلف را برای باز کردن پسوندهای فایل خاص (مانند فایل‌های txt. با Notepad++ یا فایل‌های csv. با اکسل) مرتبط کنید."
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:300
 msgid "File types:"
-msgstr ""
+msgstr "انواع فایل:"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:302 spyder/plugins/explorer/widgets/fileassociations.py:308
 msgid "Add"
-msgstr ""
+msgstr "افزودن"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:303 spyder/plugins/explorer/widgets/fileassociations.py:309 spyder/plugins/variableexplorer/widgets/main_widget.py:287 spyder/widgets/collectionseditor.py:682 spyder/widgets/collectionseditor.py:1005
 msgid "Remove"
-msgstr ""
+msgstr "حذف"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:304 spyder/plugins/variableexplorer/widgets/main_widget.py:241 spyder/widgets/collectionseditor.py:644
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:306
 msgid "Associated applications:"
-msgstr ""
+msgstr "برنامه های کاربردی مرتبط:"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:310
 msgid "Set default"
-msgstr ""
+msgstr "تنظیم به‌عنوان پیش‌فرض"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:409
 msgid "Application not found!"
-msgstr ""
+msgstr "برنامه یافت نشد!"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:426
 msgid "File association"
-msgstr ""
+msgstr "ارتباط فایل"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:428
 msgid "Enter new file extension. You can add several values separated by commas.<br>Examples include:"
-msgstr ""
+msgstr "پسوند فایل جدید را وارد کنید. می توانید چندین مقدار را اضافه کنید که با کاما از هم جدا شده اند.<br>مثال ها عبارتند از:"
 
 #: spyder/plugins/findinfiles/plugin.py:49 spyder/plugins/findinfiles/widgets/main_widget.py:209 spyder/plugins/onlinehelp/widgets.py:209 spyder/plugins/tours/tours.py:177
 msgid "Find"
-msgstr ""
+msgstr "پیدا کردن"
 
 #: spyder/plugins/findinfiles/plugin.py:52
 msgid "Search for strings of text in files."
-msgstr ""
+msgstr "جستجوی رشته های متن در فایل ها."
 
 #: spyder/plugins/findinfiles/plugin.py:60
 msgid "Find in files"
-msgstr ""
+msgstr "در فایل ها پیدا کنید"
 
 #: spyder/plugins/findinfiles/plugin.py:61
 msgid "Search text in multiple files"
-msgstr ""
+msgstr "جستجوی متن در چندین فایل"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:45
 msgid "Search directory"
-msgstr ""
+msgstr "جستجو در دایرکتوری"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:56 spyder/plugins/workingdirectory/container.py:118
 msgid "Current working directory"
-msgstr ""
+msgstr "دایرکتوری در حال کار فعلی"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:61 spyder/plugins/projects/widgets/main_widget.py:80
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:62
 msgid "Search in all files and directories present on the current project path (if opened)"
-msgstr ""
+msgstr "جستجو در تمام فایل ها و دایرکتوری های موجود در مسیر پروژه فعلی (در صورت باز بودن)"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:68
 msgid "Search in current opened file"
-msgstr ""
+msgstr "جستجو در فایل باز شده فعلی"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:73
 msgid "Select other directory"
-msgstr ""
+msgstr "دایرکتوری دیگر را انتخاب کنید"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:74
 msgid "Search in other folder present on the file system"
-msgstr ""
+msgstr "در پوشه دیگر موجود در سیستم فایل جستجو کنید"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:78
 msgid "Clear the list of other directories"
-msgstr ""
+msgstr "لیست دایرکتوری های دیگر را پاک کنید"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:159
 msgid "Clear other directories"
-msgstr ""
+msgstr "دایرکتوری های دیگر را پاک کنید"
 
 #: spyder/plugins/findinfiles/widgets/combobox.py:160
 msgid "Do you want to clear the list of other directories?"
-msgstr ""
+msgstr "آیا می خواهید لیست دایرکتوری های دیگر را پاک کنید?"
 
 #: spyder/plugins/findinfiles/widgets/main_widget.py:85 spyder/widgets/findreplace.py:59
 msgid "Regular expression error"
