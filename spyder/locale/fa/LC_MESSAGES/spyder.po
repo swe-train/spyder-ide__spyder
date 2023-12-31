@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 12:30\n"
+"PO-Revision-Date: 2023-12-31 13:33\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -1135,45 +1135,47 @@ msgstr "لغو شد"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:70
 msgid "Now Spyder can use Kite to provide better code completions for key packages in the scientific Python Ecosystem. Install Kite for a better editor experience in Spyder. <br><br>Kite is free to use but is not open source. <a href=\"{kite_url}\">Learn more about Kite </a>"
-msgstr ""
+msgstr "اکنون اسپایدر می تواند از Kite برای ارائه تکمیل کدهای بهتر برای بسته های کلیدی در اکوسیستم علمی پایتون استفاده کند. برای تجربه ویرایشگر بهتر در kite، اسپایدر را نصب کنید. <br><br>استفاده از Kite رایگان است اما منبع باز نیست. <a href=\"{kite_url}\">درباره kite بیشتر بیاموزید</a>"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:94
 msgid "Install Kite"
-msgstr ""
+msgstr "نصب Kite"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:213
 msgid "Kite comes with a native app called the Copilot <br>which provides you with real time <br>documentation as you code.<br><br>When Kite is done installing, the Copilot will <br>launch automatically and guide you through the <br>rest of the setup process."
-msgstr ""
+msgstr "Kite با یک برنامه به نام Copilot میاید <br>که زمان واقعی را در اختیار شما قرار می دهد <br> <br>ثبت اسناد هم زمانی که کد می‌زنید<br>.<br><br>هنگامی که نصب Kite تمام شد، Copilot به طور خودکار راه‌اندازی می شود و شما را در بقیه مراحل راه‌اندازی راهنمایی می کند."
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:323 spyder/plugins/completion/providers/kite/widgets/messagebox.py:24
 msgid "Kite installation error"
-msgstr ""
+msgstr "خطای نصب kite"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:324
 msgid "<b>An error ocurred while installing Kite!</b><br><br>Please try to <a href=\"{kite_url}\">install it manually</a> or <a href=\"{kite_contact}\">contact Kite</a> for help"
-msgstr ""
+msgstr "<b>هنگام نصب Kite خطایی روی داد!</b><br><br>لطفاً سعی کنید <a href=\"{kite_url}\">آن را به صورت دستی نصب کنید</a> یا <a href=\"{kite_contact}\" برای راهنمایی >با Kite</a> ارتباط برقرار کنید"
 
 #: spyder/plugins/completion/providers/kite/widgets/install.py:347
 msgid "Do you really want to cancel Kite installation?"
-msgstr ""
+msgstr "آیا می خواهید نصب به روز رسانی Kite را لغو کنید?"
 
 #: spyder/plugins/completion/providers/kite/widgets/status.py:33
 msgid "Kite completions status"
-msgstr ""
+msgstr "وضعیت تکمیلگر بادبادک"
 
 #: spyder/plugins/completion/providers/kite/widgets/status.py:34
 msgid "not reachable"
-msgstr ""
+msgstr "قابل دسترس نیست"
 
 #: spyder/plugins/completion/providers/kite/widgets/status.py:70
 msgid "Kite installation will continue in the background.\n"
 "Click here to show the installation dialog again"
-msgstr ""
+msgstr "نصب Kite در پس‌زمینه ادامه خواهد یافت.\n"
+"اینجا را کلیک کنید تا پنجره نصب دوباره نمایش داده شود"
 
 #: spyder/plugins/completion/providers/kite/widgets/status.py:75
 msgid "Click here to show the\n"
 "installation dialog again"
-msgstr ""
+msgstr "برای نشان دادن دوباره دیالوگ نصب\n"
+" اینجا کلیک کنید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:28 spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:60 spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:268
 msgid "Advanced"
@@ -1233,408 +1235,413 @@ msgstr "در اینجا می‌توانید تصمیم بگیرید که آیا 
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:51
 msgid "Enable docstring style linting"
-msgstr ""
+msgstr "سبک docstring ،Linting را فعال کنید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:56
 msgid "Choose the convention used to lint docstrings: "
-msgstr ""
+msgstr "قراردادی را که برای lint کردن رشته های اسناد استفاده می شود انتخاب کنید: "
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:62 spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:127
 msgid "Show the following errors:"
-msgstr ""
+msgstr "نشان دادن خطاهای زیر:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:64
 msgid "Example codes: D413, D414"
-msgstr ""
+msgstr "کدهای مثال: D413, D414"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:66 spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:129
 msgid "Ignore the following errors:"
-msgstr ""
+msgstr "خطاهای زیر را نادیده بگیرید:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:68
 msgid "Example codes: D107, D402"
-msgstr ""
+msgstr "کدهای مثال: D107، D402"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:70 spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:53
 msgid "Only check filenames matching these patterns:"
-msgstr ""
+msgstr "فقط نام فایل های مطابق با این الگوها را بررسی کنید:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:72
 msgid "Skip test files: (?!test_).*\\.py"
-msgstr ""
+msgstr "رد کردن فایل های آزمایشی: (?!test_).*\\.py"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:74
 msgid "Only check in directories matching these patterns:"
-msgstr ""
+msgstr "فقط دایرکتوری هایی را بررسی کنید که با این الگوها مطابقت دارند:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:76
 msgid "Skip dot directories: [^\\.].*"
-msgstr ""
+msgstr "رد کردن دایرکتوری های dot: [^\\.].*"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:132
 msgid "Show the following errors in addition to the specified convention:"
-msgstr ""
+msgstr "خطاهای زیر را علاوه بر قرارداد مشخص شده نشان دهید:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:135
 msgid "Ignore the following errors in addition to the specified convention:"
-msgstr ""
+msgstr "علاوه بر قرارداد مشخص شده، خطاهای زیر را نادیده بگیرید:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:143
 msgid "Directory patterns listed for matching should be valid regular expressions"
-msgstr ""
+msgstr "الگوهای فهرست شده برای تطبیق باید عبارات منظم معتبر باشند"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/docstring.py:146
 msgid "File patterns listed for matching should be valid regular expressions"
-msgstr ""
+msgstr "الگوهای فایل فهرست شده برای تطبیق باید عبارات منظم معتبر باشند"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:27
 msgid "Code style and formatting"
-msgstr ""
+msgstr "سبک کد و قالب بندی"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:35
 msgid "<a href='http://pycodestyle.pycqa.org/en/stable/intro.html#error-codes'>pycodestyle error codes</a>"
-msgstr ""
+msgstr "<a href='http://pycodestyle.pycqa.org/en/stable/intro.html#error-codes'>pycodestyle error codes</a>"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:39
 msgid "Spyder can use pycodestyle to analyze your code for conformance to the {} convention. You can also manually show or hide specific warnings by their {}."
-msgstr ""
+msgstr "اسپایدر می تواند از pycodestyle برای تجزیه و تحلیل کد شما برای مطابقت با قرارداد {} استفاده کند. همچنین می توانید به صورت دستی اخطارهای خاص را توسط {} آنها نشان داده یا پنهان کنید."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:48
 msgid "Enable code style linting"
-msgstr ""
+msgstr "روشن کردن style linting"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:55
 msgid "Check Python files: *.py"
-msgstr ""
+msgstr "فایل های پایتون را بررسی کنید: *.py"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:57
 msgid "Exclude files or directories matching these patterns:"
-msgstr ""
+msgstr "حذف فایل ها یا دایرکتوری های مطابق با این الگوها:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:59
 msgid "Exclude all test files: (?!test_).*\\.py"
-msgstr ""
+msgstr "حذف تمام فایل های آزمایشی: (?!test_).*\\.py"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:61
 msgid "Show the following errors or warnings:"
-msgstr ""
+msgstr "خطاها یا هشدارهای زیر را نشان دهید:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:64
 msgid "Example codes: E113, W391"
-msgstr ""
+msgstr "کدهای مثال: E113, W391"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:66
 msgid "Ignore the following errors or warnings:"
-msgstr ""
+msgstr "خطاها یا هشدارهای زیر را نادیده بگیرید:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:68
 msgid "Example codes: E201, E303"
-msgstr ""
+msgstr "کدهای مثال: E201، E303"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:70
 msgid "Maximum allowed line length:"
-msgstr ""
+msgstr "حداکثر طول مجاز خط:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:72
 msgid "Default is 79"
-msgstr ""
+msgstr "پیش فرض 79 است"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:75
 msgid "Show vertical line at that length"
-msgstr ""
+msgstr "خط عمودی را در طول نشان دهید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:98
 msgid "Code style"
-msgstr ""
+msgstr "استایل کد"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:106
 msgid "Line length"
-msgstr ""
+msgstr "طول خط"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:123
 msgid "Spyder can use {0} or {1} to format your code for conformance to the {2} convention."
-msgstr ""
+msgstr "اسپایدر می تواند از {0} یا {1} برای قالب بندی کد شما برای مطابقت با قرارداد {2} استفاده کند."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:131
 msgid "Choose the code formatting provider: "
-msgstr ""
+msgstr "ارائه دهنده قالب بندی کد را انتخاب کنید: "
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:138
 msgid "Autoformat files on save"
-msgstr ""
+msgstr "ذخیره فرمت خودکار فایل ها"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:140
 msgid "If enabled, autoformatting will take place when saving a file"
-msgstr ""
+msgstr "در صورت فعال بودن، فرمت خودکار هنگام ذخیره یک فایل انجام می شود"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:144
 msgid "Code formatting"
-msgstr ""
+msgstr "قالب بندی کد"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:162
 msgid "Directory patterns listed for exclusion should be valid regular expressions"
-msgstr ""
+msgstr "الگوهای فهرست شده برای حذف باید عبارات منظم و معتبر باشند"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/formatting.py:165
 msgid "File patterns listed for exclusion should be valid regular expressions"
-msgstr ""
+msgstr "الگوهای فایل فهرست شده برای حذف باید عبارات منظم معتبر باشند"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:26
 msgid "Introspection"
-msgstr ""
+msgstr "درون نگری"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:33
 msgid "Basic features"
-msgstr ""
+msgstr "ویژگی‌های پایه"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:35
 msgid "Enable Go to definition"
-msgstr ""
+msgstr "فعال سازی Go to definition"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:37
 msgid "If enabled, left-clicking on an object name while \n"
 "pressing the {} key will go to that object's definition\n"
 "(if resolved)."
-msgstr ""
+msgstr "در صورت فعال بودن، روی نام شیء کلیک چپ کنید و\n"
+"با فشار دادن کلید {} به تعریف آن شی میتوانید به آن شیء بروید \n"
+"(اگر حل شده باشد)."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:40
 msgid "Follow imports when going to a definition"
-msgstr ""
+msgstr "هنگام رفتن به یک تعریف، import ها را دنبال کنید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:43 spyder/plugins/ipythonconsole/confpage.py:33
 msgid "Show calltips"
-msgstr ""
+msgstr "نمایش calltips"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:45
 msgid "Enable hover hints"
-msgstr ""
+msgstr "نکات hover را فعال کنید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:47
 msgid "If enabled, hovering the mouse pointer over an object\n"
 "name will display that object's signature and/or\n"
 "docstring (if present)."
-msgstr ""
+msgstr "اگر فعال باشد، نشانگر ماوس را روی یک شی قرار دهید\n"
+"نام، امضا و/یا آن شی را نمایش می دهد\n"
+"docstring (در صورت وجود)."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/introspection.py:62
 msgid "Preload the following modules to make completion faster and more accurate:"
-msgstr ""
+msgstr "ماژول های زیر را از قبل بارگذاری کنید تا تکمیل سریعتر و دقیق تر شود:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/linting.py:22
 msgid "Linting"
-msgstr ""
+msgstr "Linting"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/linting.py:28
 msgid "Spyder can optionally highlight syntax errors and possible problems with your code in the editor."
-msgstr ""
+msgstr "اسپایدر می تواند به صورت اختیاری خطاهای نحوی و مشکلات احتمالی کد شما را در ویرایشگر برجسته کند."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/linting.py:34
 msgid "Enable basic linting"
-msgstr ""
+msgstr "فعال سازی linting پایه"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/linting.py:37 spyder/plugins/editor/plugin.py:950
 msgid "Underline errors and warnings"
-msgstr ""
+msgstr "زیر خطاها و هشدارها خط بکشید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/linting.py:41
 msgid "Enable complexity linting with the Mccabe package"
-msgstr ""
+msgstr "فعال کردن complexity linting با Mccabe package"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:30
 msgid "Other languages"
-msgstr ""
+msgstr "سایر زبان‌ها"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:36
 msgid "Spyder uses the <a href=\"{lsp_url}\">Language Server Protocol</a> to provide code completion and linting for its Editor. Here, you can setup and configure LSP servers for languages other than Python, so Spyder can provide such features for those languages as well."
-msgstr ""
+msgstr "اسپایدر از <a href=\"{lsp_url}\">پروتکل سرور زبان</a> استفاده می‌کند تا تکمیل کد و خط‌بندی را برای ویرایشگر خود ارائه دهد. در اینجا، می‌توانید سرورهای LSP را برای زبان‌هایی غیر از پایتون تنظیم و پیکربندی کنید، بنابراین اسپایدر می‌تواند چنین ویژگی‌هایی را برای آن زبان‌ها نیز فراهم کند."
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:47
 msgid "Available servers:"
-msgstr ""
+msgstr "سرورهای موجود:"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:55 spyder/plugins/completion/providers/snippets/conftabs.py:75 spyder/plugins/explorer/confpage.py:58 spyder/plugins/shortcuts/confpage.py:33
 msgid "Reset to default values"
-msgstr ""
+msgstr "بازگشت به مقادیر پیش‌فرض"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:56
 msgid "Set up a new server"
-msgstr ""
+msgstr "یک سرور جدید راه اندازی کنید"
 
 #: spyder/plugins/completion/providers/languageserver/conftabs/otherlanguages.py:57
 msgid "Delete currently selected server"
-msgstr ""
+msgstr "سرور انتخابی فعلی را حذف کنید"
 
 #: spyder/plugins/completion/providers/languageserver/provider.py:292
 msgid "Language Server Protocol (LSP)"
-msgstr ""
+msgstr "Language Server Protocol (LSP)"
 
 #: spyder/plugins/completion/providers/languageserver/provider.py:409
 msgid "It appears there is no {language} language server listening at address:<br><br><tt>{host}:{port}</tt><br><br>Therefore, completion and linting for {language} will not work during this session."
-msgstr ""
+msgstr "به نظر می‌رسد هیچ سرور زبان {language} در آدرس:<br><br><tt>{host}:{port}</tt><br><br>گوش نمی‌دهد، بنابراین، تکمیل و لنت کردن برای {language} انجام خواهد شد. در این جلسه کار نخواهد کرد."
 
 #: spyder/plugins/completion/providers/languageserver/provider.py:449
 msgid "Completion and linting in the editor for {language} files will not work during the current session, or stopped working.<br><br>"
-msgstr ""
+msgstr "Completion و linting در ویرایشگر {language}، فایل‌ها در طول جلسه فعلی کار نخواهند کرد، یا دیگر کار نمی‌کنند.<br><br>"
 
 #: spyder/plugins/completion/providers/languageserver/provider.py:453
 msgid "Do you want to restart Spyder now?"
-msgstr ""
+msgstr "آیا اکنون می خواهید Spyder را مجددا راه‌اندازی کنید?"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/messagebox.py:26
 msgid "Don't show again"
-msgstr ""
+msgstr "دوباره نمایش داده نشود"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:120
 msgid "Valid JSON"
-msgstr ""
+msgstr "JSON معتبر"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:121
 msgid "Invalid JSON"
-msgstr ""
+msgstr "JSON نامعتبر"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:132
 msgid "To create a new server configuration, you need to select a programming language, set the command to start its associated server and enter any arguments that should be passed to it on startup. Additionally, you can set the server's hostname and port if connecting to an external server, or to a local one using TCP instead of stdio pipes.<br><br><i>Note</i>: You can use the placeholders <tt>{host}</tt> and <tt>{port}</tt> in the server arguments field to automatically fill in the respective values.<br>"
-msgstr ""
+msgstr "برای ایجاد یک پیکربندی سرور جدید، باید یک زبان برنامه نویسی را انتخاب کنید، دستوری را برای راه اندازی سرور مرتبط آن تنظیم کنید و هر آرگومان را که باید هنگام راه اندازی به آن ارسال شود، وارد کنید. علاوه بر این، می‌توانید نام میزبان و پورت سرور را در صورت اتصال به یک سرور خارجی، یا با استفاده از یک سرور محلی با استفاده از TCP به جای لوله‌های stdio، تنظیم کنید.<br><br><i>توجه</i>: می‌توانید از متغیرهای نگهدارنده < استفاده کنید. tt>{host}</tt> و <tt>{port}</tt> در قسمت آرگومان های سرور برای پر کردن خودکار مقادیر مربوطه.<br>"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:153
 msgid "External server"
-msgstr ""
+msgstr "سرور خارجی"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:154
 msgid "Host:"
-msgstr ""
+msgstr "میزبان host:"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:156 spyder/plugins/ipythonconsole/widgets/kernelconnect.py:68
 msgid "Port:"
-msgstr ""
+msgstr "درگاه Port:"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:158
 msgid "Command:"
-msgstr ""
+msgstr "دستور:"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:160
 msgid "Arguments:"
-msgstr ""
+msgstr "آرگومان‌ها:"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:163
 msgid "<b>Server Configuration:</b>"
-msgstr ""
+msgstr "<b>کانفیگ سرور:</b>"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:173
 msgid "LSP server editor"
-msgstr ""
+msgstr "ویرایشگر سرور LSP"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:178 spyder/plugins/completion/providers/snippets/conftabs.py:53
 msgid "Programming language provided by the LSP server"
-msgstr ""
+msgstr "زبان برنامه نویسی ارائه شده توسط سرور LSP"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:179
 msgid "Select a language"
-msgstr ""
+msgstr "زبان را انتخاب کنید"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:192
 msgid "TCP port number of the server"
-msgstr ""
+msgstr "شماره پورت TCP سرور"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:202
 msgid "Additional arguments required to start the server"
-msgstr ""
+msgstr "آرگومان های اضافی برای راه اندازی سرور مورد نیاز است"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:214
 msgid "Additional LSP server configuration set at runtime. JSON required"
-msgstr ""
+msgstr "پیکربندی سرور LSP اضافی در زمان اجرا تنظیم شده است. JSON مورد نیاز است"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:223
 msgid "Check if the server runs on a remote location"
-msgstr ""
+msgstr "بررسی اینکه که آیا سرور در یک مکان راه ریموت اجرا می شود"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:226
 msgid "Use stdio pipes for communication"
-msgstr ""
+msgstr "برای ارتباط از stdio pipes استفاده کنید"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:227
 msgid "Check if the server communicates using stdin/out pipes"
-msgstr ""
+msgstr "بررسی کنید که آیا سرور با استفاده از stdin/out pipes ارتباط برقرار می کند"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:238 spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:559 spyder/plugins/completion/providers/snippets/conftabs.py:59
 msgid "Language"
-msgstr ""
+msgstr "زبان"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:244
 msgid "Language server"
-msgstr ""
+msgstr "سرور زبان"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:253
 msgid "Server address"
-msgstr ""
+msgstr "آدرس سرور"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:321
 msgid "Hostname must be valid"
-msgstr ""
+msgstr "نام میزبان باید معتبر باشد"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:324
 msgid "Hostname or IP address of the host on which the server is running. Must be non empty."
-msgstr ""
+msgstr "نام میزبان یا آدرس IP میزبانی که سرور روی آن اجرا می شود. باید خالی نباشد."
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:328
 msgid "Hostname is valid"
-msgstr ""
+msgstr "نام میزبان باید معتبر باشد"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:336
 msgid "Command used to start the LSP server locally. Must be non empty"
-msgstr ""
+msgstr "دستوری که برای راه‌اندازی سرور LSP به صورت محلی استفاده می شود. باید خالی نباشد"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:343
 msgid "Program was not found on your system"
-msgstr ""
+msgstr "برنامه در سیستم شما یافت نشد"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:347
 msgid "Program was found on your system"
-msgstr ""
+msgstr "برنامه در سیستم شما پیدا شد"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:561
 msgid "Address"
-msgstr ""
+msgstr "آدرس"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:563
 msgid "Command to execute"
-msgstr ""
+msgstr "دستور اجرا"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/status.py:35
 msgid "starting"
-msgstr ""
+msgstr "در حال شروع"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/status.py:36
 msgid "ready"
-msgstr ""
+msgstr "آماده"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/status.py:37
 msgid "restarting"
-msgstr ""
+msgstr "در حال راه‌اندازی مجدد"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/status.py:38
 msgid "down"
-msgstr ""
+msgstr "پایین"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/status.py:46
 msgid "Completions, linting, code\n"
 "folding and symbols status."
-msgstr ""
+msgstr "Completions, linting, code\n"
+"folding and symbols status."
 
 #: spyder/plugins/completion/providers/languageserver/widgets/status.py:76
 msgid "Restart {} Language Server"
-msgstr ""
+msgstr "سرور زبان {} را مجددا راه اندازی کنید"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:33
 msgid "Snippets"
-msgstr ""
+msgstr "اسنیپت ها"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:40
 msgid "the LSP grammar"
-msgstr ""
+msgstr "گرامر LSP"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:42
 msgid "Spyder allows to define custom completion snippets to use in addition to the ones offered by the Language Server Protocol (LSP). Each snippet should follow {}.<br><br> <b>Note:</b> All changes will be effective only when applying the settings"
-msgstr ""
+msgstr "اسپایدر اجازه می دهد تا قطعه های تکمیل شخصی سازی شده را برای استفاده علاوه بر موارد ارائه شده توسط پروتکل سرور زبان (LSP) تعریف کنید. هر قطعه باید از {} ​​پیروی کند.<br><br> <b>توجه:</b> همه تغییرات فقط هنگام اعمال تنظیمات مؤثر خواهند بود"
 
 #: spyder/plugins/completion/providers/snippets/conftabs.py:69
 msgid "Available snippets"
