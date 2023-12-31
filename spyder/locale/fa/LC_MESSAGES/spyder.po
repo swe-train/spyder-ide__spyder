@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 02:43\n"
+"PO-Revision-Date: 2023-12-31 10:30\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -225,16 +225,17 @@ msgstr "در حال راه‌اندازی مجدد"
 
 #: spyder/config/manager.py:616
 msgid "Shortcut context must match '_' or the plugin `CONF_SECTION`!"
-msgstr ""
+msgstr "متن میانبر باید با '_' و یا با افزونه `CONF_SECTION`برابر باشد!"
 
 #: spyder/config/manager.py:697
 msgid "There was an error while loading Spyder configuration options. You need to reset them for Spyder to be able to launch.\n\n"
 "Do you want to proceed?"
-msgstr ""
+msgstr "یک خطا در بارگذاری گزینه های کانفیگ اسپایدر به وجود آمد. اسپایدر نیاز به دوباره راه‌اندازی برای شروع مجدد دارد.\n"
+"آیا میخواهید ادامه دهید?"
 
 #: spyder/config/manager.py:705
 msgid "Spyder configuration files resetted!"
-msgstr ""
+msgstr "فایل های کانفیگ از نو تنظیم شد!"
 
 #: spyder/config/utils.py:25 spyder/plugins/console/widgets/main_widget.py:514 spyder/plugins/explorer/widgets/explorer.py:1727 spyder/plugins/profiler/widgets/main_widget.py:462 spyder/plugins/pylint/main_widget.py:868
 msgid "Python files"
@@ -330,7 +331,7 @@ msgstr "فایل های کانفیگ"
 
 #: spyder/config/utils.py:50
 msgid "Markdown files"
-msgstr ""
+msgstr "فایل های Markdown"
 
 #: spyder/config/utils.py:54 spyder/plugins/explorer/widgets/explorer.py:1300
 msgid "All files"
@@ -338,11 +339,11 @@ msgstr "تمامی فایل ها"
 
 #: spyder/config/utils.py:139
 msgid "Supported text files"
-msgstr ""
+msgstr "فایل های تکست مورد پشتیبانی"
 
 #: spyder/dependencies.py:101
 msgid "Notify macOS that Spyder can open Python files"
-msgstr ""
+msgstr "به مک او اس اعلام کن که اسپایدر میتواند فایل های پایتون را باز کند"
 
 #: spyder/dependencies.py:106
 msgid "Atomic file writes in the Editor"
@@ -526,23 +527,23 @@ msgstr ""
 
 #: spyder/plugins/appearance/confpage.py:47 spyder/plugins/ipythonconsole/confpage.py:106
 msgid "Automatic"
-msgstr ""
+msgstr "خودکار"
 
 #: spyder/plugins/appearance/confpage.py:48
 msgid "Light"
-msgstr ""
+msgstr "روشن"
 
 #: spyder/plugins/appearance/confpage.py:49
 msgid "Dark"
-msgstr ""
+msgstr "تاریک"
 
 #: spyder/plugins/appearance/confpage.py:52
 msgid "Interface theme"
-msgstr ""
+msgstr "تم رابط کاربری"
 
 #: spyder/plugins/appearance/confpage.py:61
 msgid "Icon theme"
-msgstr ""
+msgstr "تم آیکن"
 
 #: spyder/plugins/appearance/confpage.py:75
 msgid "Syntax highlighting theme"
@@ -578,7 +579,7 @@ msgstr ""
 
 #: spyder/plugins/appearance/confpage.py:138 spyder/plugins/variableexplorer/widgets/importwizard.py:520
 msgid "Preview"
-msgstr ""
+msgstr "پیش‌نمایش"
 
 #: spyder/plugins/appearance/confpage.py:381 spyder/plugins/completion/providers/languageserver/conftabs/advanced.py:153 spyder/plugins/completion/providers/languageserver/provider.py:421 spyder/plugins/completion/providers/languageserver/widgets/messagebox.py:25 spyder/plugins/editor/widgets/editor.py:421 spyder/plugins/ipythonconsole/utils/ssh.py:71 spyder/plugins/ipythonconsole/widgets/main_widget.py:2303 spyder/plugins/ipythonconsole/widgets/main_widget.py:2396 spyder/plugins/layout/container.py:307 spyder/plugins/layout/container.py:366 spyder/plugins/layout/plugin.py:429 spyder/plugins/layout/plugin.py:446 spyder/plugins/maininterpreter/confpage.py:176 spyder/plugins/preferences/plugin.py:335 spyder/plugins/pylint/main_widget.py:109 spyder/plugins/variableexplorer/widgets/arrayeditor.py:565 spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:100 spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:441 spyder/utils/environ.py:117 spyder/utils/environ.py:197 spyder/utils/environ.py:228 spyder/widgets/collectionseditor.py:1046 spyder/widgets/collectionseditor.py:1226 spyder/widgets/collectionseditor.py:1238
 msgid "Warning"
@@ -586,11 +587,11 @@ msgstr "هشدار"
 
 #: spyder/plugins/appearance/confpage.py:382
 msgid "Are you sure you want to delete this scheme?"
-msgstr ""
+msgstr "آیا از حذف این مورد اطمینان دارید?"
 
 #: spyder/plugins/appearance/plugin.py:41
 msgid "Appearance"
-msgstr ""
+msgstr "ظاهر"
 
 #: spyder/plugins/appearance/plugin.py:44
 msgid "Manage application appearance and themes."
@@ -598,15 +599,15 @@ msgstr ""
 
 #: spyder/plugins/appearance/widgets.py:88
 msgid "Text"
-msgstr ""
+msgstr "متن"
 
 #: spyder/plugins/appearance/widgets.py:90
 msgid "Highlight"
-msgstr ""
+msgstr "برجسته"
 
 #: spyder/plugins/appearance/widgets.py:92
 msgid "Background"
-msgstr ""
+msgstr "پس زمینه"
 
 #: spyder/plugins/appearance/widgets.py:96
 msgid "Scheme name:"
@@ -618,7 +619,7 @@ msgstr ""
 
 #: spyder/plugins/application/confpage.py:46
 msgid "Language:"
-msgstr ""
+msgstr "زبان:"
 
 #: spyder/plugins/application/confpage.py:54
 msgid "Rendering engine:"
