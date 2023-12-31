@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 01:47\n"
+"PO-Revision-Date: 2023-12-31 02:43\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgstr "از قفل درآوردن موقعیت"
 
 #: spyder/api/widgets/main_widget.py:354 spyder/api/widgets/main_widget.py:462 spyder/plugins/base.py:206 spyder/plugins/base.py:501
 msgid "Unlock to move pane to another position"
-msgstr ""
+msgstr "قفلگشایی قطعه برای حرکت به موقعیت دیگر"
 
 #: spyder/api/widgets/main_widget.py:360 spyder/plugins/base.py:213
 msgid "Undock"
@@ -103,7 +103,7 @@ msgstr "بررسی سازگاری افزونه"
 
 #: spyder/app/mainwindow.py:401
 msgid "It was not possible to load the {} plugin. The problem was:<br><br>{}"
-msgstr ""
+msgstr "بارگذاری افزونه {} ممکن نبود. مشکل:<br><br>{}"
 
 #: spyder/app/mainwindow.py:423
 msgid "Loading {}..."
@@ -205,7 +205,7 @@ msgstr "خطا در خروج از اسپایدر"
 
 #: spyder/app/restart.py:144
 msgid "Spyder reset error"
-msgstr ""
+msgstr "خطا در دوباره تنظیم کردن اسپایدر"
 
 #: spyder/app/restart.py:145
 msgid "Spyder restart error"
@@ -306,27 +306,27 @@ msgstr "فایل های Web page"
 
 #: spyder/config/utils.py:43
 msgid "XML files"
-msgstr ""
+msgstr "فایل های XML"
 
 #: spyder/config/utils.py:44
 msgid "Javascript files"
-msgstr ""
+msgstr "فایل های Javascript"
 
 #: spyder/config/utils.py:45
 msgid "Json files"
-msgstr ""
+msgstr "فایل های Jason"
 
 #: spyder/config/utils.py:46
 msgid "IPython notebooks"
-msgstr ""
+msgstr "نوت بوک IPython"
 
 #: spyder/config/utils.py:47
 msgid "Enaml files"
-msgstr ""
+msgstr "فایل های Enaml"
 
 #: spyder/config/utils.py:48
 msgid "Configuration files"
-msgstr ""
+msgstr "فایل های کانفیگ"
 
 #: spyder/config/utils.py:50
 msgid "Markdown files"
@@ -334,7 +334,7 @@ msgstr ""
 
 #: spyder/config/utils.py:54 spyder/plugins/explorer/widgets/explorer.py:1300
 msgid "All files"
-msgstr ""
+msgstr "تمامی فایل ها"
 
 #: spyder/config/utils.py:139
 msgid "Supported text files"
@@ -646,7 +646,7 @@ msgstr ""
 
 #: spyder/plugins/application/confpage.py:96 spyder/plugins/layout/container.py:163
 msgid "Panes"
-msgstr "زبانه ها"
+msgstr "قطعه ها"
 
 #: spyder/plugins/application/confpage.py:98
 msgid "Vertical tabs in panes"
@@ -855,7 +855,7 @@ msgstr ""
 
 #: spyder/plugins/application/container.py:555
 msgid "Question"
-msgstr ""
+msgstr "سوال"
 
 #: spyder/plugins/application/container.py:558
 msgid "Which debug mode do you want Spyder to restart in?"
@@ -867,23 +867,23 @@ msgstr ""
 
 #: spyder/plugins/application/container.py:562
 msgid "Minimal"
-msgstr ""
+msgstr "کمترین"
 
 #: spyder/plugins/application/container.py:678 spyder/plugins/completion/providers/kite/widgets/messagebox.py:25 spyder/plugins/ipythonconsole/widgets/shell.py:552
 msgid "Don't show again."
-msgstr ""
+msgstr "دوباره نمایش داده نشود."
 
 #: spyder/plugins/application/container.py:693
 msgid "Restart now"
-msgstr ""
+msgstr "راه‌اندازی دوباره"
 
 #: spyder/plugins/application/container.py:695 spyder/plugins/completion/providers/kite/widgets/install.py:114 spyder/plugins/tours/widgets.py:1125
 msgid "Dismiss"
-msgstr ""
+msgstr "نادیده گرفتن"
 
 #: spyder/plugins/application/plugin.py:51
 msgid "Application"
-msgstr ""
+msgstr "برنامه"
 
 #: spyder/plugins/application/plugin.py:57
 msgid "Provide main application base actions."
@@ -907,11 +907,11 @@ msgstr ""
 
 #: spyder/plugins/application/widgets/install.py:36
 msgid "Update available"
-msgstr ""
+msgstr "بروزرسانی قابل دسترسی است"
 
 #: spyder/plugins/application/widgets/install.py:37
 msgid "Checking for updates"
-msgstr ""
+msgstr "بررسی برای به روزرسانی"
 
 #: spyder/plugins/application/widgets/install.py:38
 msgid "Cancelled update"
@@ -955,7 +955,7 @@ msgstr ""
 
 #: spyder/plugins/application/widgets/install.py:77 spyder/plugins/completion/providers/kite/widgets/install.py:221
 msgid "OK"
-msgstr ""
+msgstr "تایید"
 
 #: spyder/plugins/application/widgets/install.py:216
 msgid "Do you really want to cancel the Spyder update installation?"
@@ -988,7 +988,7 @@ msgstr ""
 
 #: spyder/plugins/base.py:333 spyder/plugins/editor/confpage.py:40 spyder/plugins/editor/plugin.py:433 spyder/plugins/editor/plugin.py:2121 spyder/plugins/editor/utils/switcher.py:36 spyder/plugins/editor/widgets/codeeditor.py:5707 spyder/plugins/editor/widgets/editor.py:325 spyder/plugins/editor/widgets/gotoline.py:29 spyder/plugins/help/confpage.py:31 spyder/plugins/help/widgets.py:335 spyder/plugins/tours/tours.py:81
 msgid "Editor"
-msgstr ""
+msgstr "ویرایشگر"
 
 #: spyder/plugins/breakpoints/plugin.py:91 spyder/plugins/breakpoints/widgets/main_widget.py:377
 msgid "Breakpoints"
@@ -1004,15 +1004,15 @@ msgstr ""
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:40
 msgid "Condition"
-msgstr ""
+msgstr "شرط"
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:40 spyder/plugins/findinfiles/widgets/combobox.py:67 spyder/plugins/outlineexplorer/widgets.py:38
 msgid "File"
-msgstr ""
+msgstr "فایل"
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:40 spyder/plugins/outlineexplorer/widgets.py:225
 msgid "Line"
-msgstr ""
+msgstr "خط"
 
 #: spyder/plugins/breakpoints/widgets/main_widget.py:209 spyder/plugins/editor/plugin.py:621
 msgid "Clear breakpoints in all files"
