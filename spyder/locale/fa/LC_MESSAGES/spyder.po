@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2024-01-01 12:26\n"
+"PO-Revision-Date: 2024-01-01 13:56\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -115,11 +115,11 @@ msgstr "به اسپایدر خوش آمدید!"
 
 #: spyder/app/mainwindow.py:822
 msgid "Loading old third-party plugins..."
-msgstr "در حال بارگذاری افزونه های قدیم توضیح سیستم (Third-party)..."
+msgstr "در حال بارگذاری افزونه های قدیم توضیح سیستم Third-party..."
 
 #: spyder/app/mainwindow.py:870 spyder/plugins/editor/widgets/editor.py:282
 msgid "File switcher..."
-msgstr "تعویض کننده ی فایل..."
+msgstr "تعویض کننده فایل..."
 
 #: spyder/app/mainwindow.py:872
 msgid "Fast switch between files"
@@ -717,7 +717,7 @@ msgstr "تنظیم این برای نمایشگرهای high DPI هنگامی ک
 msgid "Enter values for different screens separated by semicolons ';'.\n"
 "Float values are supported"
 msgstr "مقادیر را برای صفحات مختلف که با نقطه ویرگول «;» از هم جدا شده اند وارد کنید.\n"
-"مقادیر شناور (float) پشتیبانی می شوند"
+"مقادیر شناور پشتیبانی می شوند"
 
 #: spyder/plugins/application/confpage.py:235 spyder/plugins/ipythonconsole/confpage.py:28 spyder/plugins/outlineexplorer/widgets.py:48
 msgid "Interface"
@@ -789,11 +789,11 @@ msgstr "راه اندازی مجدد"
 
 #: spyder/plugins/application/container.py:201
 msgid "&Restart in debug mode"
-msgstr "&راه‌اندازی مجدد در حالت اشکال‌زدایی (debug)"
+msgstr "&راه‌اندازی مجدد در حالت اشکال‌زدایی"
 
 #: spyder/plugins/application/container.py:202
 msgid "Restart in debug mode"
-msgstr "راه‌اندازی مجدد در حالت اشکال‌زدایی (debug)"
+msgstr "راه‌اندازی مجدد در حالت اشکال‌زدایی"
 
 #: spyder/plugins/application/container.py:212
 msgid "Debug logs"
@@ -853,7 +853,7 @@ msgstr "Spyder به روز است."
 
 #: spyder/plugins/application/container.py:518
 msgid "<b>You have missing dependencies!</b><br><br><tt>%s</tt><br><b>Please install them to avoid this message.</b><br><br><i>Note</i>: Spyder could work without some of these dependencies, however to have a smooth experience when using Spyder we <i>strongly</i> recommend you to install all the listed missing dependencies.<br><br>Failing to install these dependencies might result in bugs. Please be sure that any found bugs are not the direct result of missing dependencies, prior to reporting a new issue."
-msgstr "<b>شما وابستگی‌های گمشده دارید!</b><br><br><tt>%s</tt><br><b>لطفاً آنها را نصب کنید تا از این پیام جلوگیری کنید.</b><br><br><br> ><i>توجه</i>: Spyder می‌تواند بدون برخی از این وابستگی‌ها کار کند، اما برای داشتن تجربه‌ای روان هنگام استفاده از Spyder، <i>اکیداً</i> به شما توصیه می‌کنیم که تمام وابستگی‌های گمشده فهرست شده را نصب کنید.<br> <br>نصب نکردن این وابستگی ها ممکن است منجر به اشکال شود. لطفاً قبل از گزارش یک مشکل جدید، مطمئن شوید که هر گونه اشکال یافت شده نتیجه مستقیم وابستگی های از دست رفته نیست."
+msgstr "<b>شما وابستگی‌های گمشده دارید!</b><br><br><tt>%s</tt><br><b>لطفاً آنها را نصب کنید تا از این پیام جلوگیری کنید..</b><br><br><i>توجه</i> اسپایدر می‌تواند بدون برخی از این وابستگی‌ها کار کند، اما برای داشتن تجربه‌ای روان هنگام استفاده از اسپایدر، <i>اکیداً</i> به شما توصیه می‌کنیم که تمام وابستگی‌های گمشده فهرست شده را نصب کنید.<br><br>نصب نکردن این وابستگی ها ممکن است منجر به اشکال شود. لطفاً قبل از گزارش یک مشکل جدید، مطمئن شوید که هر گونه اشکال یافت شده نتیجه مستقیم وابستگی های از دست رفته نیست."
 
 #: spyder/plugins/application/container.py:555
 msgid "Question"
@@ -1499,7 +1499,7 @@ msgstr "JSON نامعتبر"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:132
 msgid "To create a new server configuration, you need to select a programming language, set the command to start its associated server and enter any arguments that should be passed to it on startup. Additionally, you can set the server's hostname and port if connecting to an external server, or to a local one using TCP instead of stdio pipes.<br><br><i>Note</i>: You can use the placeholders <tt>{host}</tt> and <tt>{port}</tt> in the server arguments field to automatically fill in the respective values.<br>"
-msgstr "برای ایجاد یک پیکربندی سرور جدید، باید یک زبان برنامه نویسی را انتخاب کنید، دستوری را برای راه اندازی سرور مرتبط آن تنظیم کنید و هر آرگومان را که باید هنگام راه اندازی به آن ارسال شود، وارد کنید. علاوه بر این، می‌توانید نام میزبان و پورت سرور را در صورت اتصال به یک سرور خارجی، یا با استفاده از یک سرور محلی با استفاده از TCP به جای لوله‌های stdio، تنظیم کنید.<br><br><i>توجه</i>: می‌توانید از متغیرهای نگهدارنده < استفاده کنید. tt>{host}</tt> و <tt>{port}</tt> در قسمت آرگومان های سرور برای پر کردن خودکار مقادیر مربوطه.<br>"
+msgstr "برای ایجاد یک پیکربندی سرور جدید، باید یک زبان برنامه نویسی را انتخاب کنید، دستوری را برای راه اندازی سرور مرتبط آن تنظیم کنید و هر آرگومان را که باید هنگام راه اندازی به آن ارسال شود، وارد کنید. علاوه بر این، می‌توانید نام میزبان و پورت سرور را در صورت اتصال به یک سرور خارجی، یا با استفاده از یک سرور محلی با استفاده از TCP به جای لوله‌های stdio، تنظیم کنید..<br><br><i>Note</i>: می‌توانید از متغیرهای نگهدارنده استفاده کنید. <tt>{host}</tt> و <tt>{port}</tt> در قسمت آرگومان های سرور برای پر کردن خودکار مقادیر مربوطه.<br>"
 
 #: spyder/plugins/completion/providers/languageserver/widgets/serversconfig.py:153
 msgid "External server"
@@ -4059,7 +4059,7 @@ msgstr "تکمیلگر Greedy"
 
 #: spyder/plugins/ipythonconsole/confpage.py:310
 msgid "Enable <tt>Tab</tt> completion on elements of lists, results of function calls, etc, <i>without</i> assigning them to a variable, like <tt>li[0].&lt;Tab&gt;</tt> or <tt>ins.meth().&lt;Tab&gt;</tt> <br><b>Warning:</b> Due to a bug, IPython's greedy completer requires a leading <tt>&lt;Space&gt;</tt> for some completions; e.g.  <tt>np.sin(&lt;Space&gt;np.&lt;Tab&gt;</tt> works while <tt>np.sin(np.&lt;Tab&gt; </tt> doesn't."
-msgstr "فعال کردن تکمیل <tt>Tab</tt> در عناصر لیست، نتایج فراخوانی تابع و غیره، <i>without<br></i> اختصاص دادن آنها به متغیری، مانند <tt>li[0].&lt;Tab&gt;</tt> یا <tt>ins.meth().&lt;Tab&gt;</tt> <br><b>Warning:</b> به دلیل وجود یک اشکال، تکمیل کننده حریص IPython به یک <tt>&lt;Space&gt;</tt> برای برخی از تکمیل‌ها نیاز دارد. به عنوان مثال، <tt>np.sin(&lt;Space&gt;np.&lt;Tab&gt;</tt> کار می کند در حالی که <tt>np.sin(np.&lt;Tab&gt; </tt> این کار را نمی کند."
+msgstr "فعال کردن تکمیل <tt>Tab</tt> در عناصر لیست، نتایج فراخوانی تابع و غیره، <i>بدون</i>  اختصاص دادن آنها به متغیری، مانند like <tt>li[0].&lt;Tab&gt;</tt> or <tt>ins.meth().&lt;Tab&gt;</tt> <br><b>هشدار:</b>  به دلیل یک اشکال، تکمیل کننده حریص IPython نیاز به یک پیشرو دارد <tt>&lt;Space&gt;</tt> برای برخی از تکمیل ها؛ به عنوان مثال <tt>np.sin(&lt;Space&gt;np.&lt;Tab&gt;</tt> کار می کند در حالی که <tt>np.sin(np.&lt;Tab&gt; </tt> نمی کند."
 
 #: spyder/plugins/ipythonconsole/confpage.py:322
 msgid "Use greedy completion in the IPython console"
@@ -5256,7 +5256,7 @@ msgstr "<b>{}</b> دیگر یک پروژه اسپایدر معتبر نیست! �
 
 #: spyder/plugins/projects/utils/watcher.py:140
 msgid "File system changes for this project can't be tracked because it contains too many files. To fix this you need to increase the inotify limit in your system, with the following command:<br><br><code>sudo sysctl -n -w fs.inotify.max_user_watches=524288</code><br><br>For a permanent solution you need to add to<code>/etc/sysctl.conf</code>the following line:<br><br><code>fs.inotify.max_user_watches=524288</code><br><br>After doing that, you need to close and start Spyder again so those changes can take effect."
-msgstr "تغییرات سیستم فایل برای این پروژه قابل ردیابی نیست زیرا حاوی فایل های بسیار زیادی است. برای رفع این مشکل باید محدودیت inotify را در سیستم خود با دستور زیر افزایش دهید:<br><br><br><br>sudo sysctl -n -w fs.inotify.max_user_watches=524288</code><br><br >برای یک راه حل دائمی باید به<code>/etc/sysctl.conf</code>خط زیر را اضافه کنید:<br><br><code>fs.inotify.max_user_watches=524288</code><br> <br>بعد از انجام این کار، باید اسپایدر را ببندید و دوباره راه اندازی کنید تا این تغییرات اعمال شوند."
+msgstr "تغییرات سیستم فایل برای این پروژه قابل ردیابی نیست زیرا حاوی فایل های بسیار زیادی است. برای رفع این مشکل باید محدودیت inotify را در سیستم خود با دستور زیر افزایش دهید:<br><br><code>sudo sysctl -n -w fs.inotify.max_user_watches=524288</code><br><br> برای یک راه حل دائمی باید به<code>/etc/sysctl.conf</code>خط زیر را اضافه کنید:<br><br><code>fs.inotify.max_user_watches=524288</code><br><br> بعد از انجام این کار، باید Spyder را ببندید و دوباره راه اندازی کنید تا این تغییرات اعمال شوند."
 
 #: spyder/plugins/projects/widgets/projectdialog.py:74
 msgid "Select a new or existing directory to create a new Spyder project in it. To learn more about projects, take a look at our <a href=\"{0}\">documentation</a>."
