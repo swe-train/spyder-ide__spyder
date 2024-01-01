@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-12-31 18:51\n"
+"PO-Revision-Date: 2024-01-01 05:47\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -4910,123 +4910,123 @@ msgstr "سلول"
 
 #: spyder/plugins/outlineexplorer/widgets.py:65
 msgid "Block comment"
-msgstr ""
+msgstr "Block comment"
 
 #: spyder/plugins/plots/plugin.py:34 spyder/plugins/plots/widgets/main_widget.py:87 spyder/plugins/tours/tours.py:146
 msgid "Plots"
-msgstr ""
+msgstr "Plots"
 
 #: spyder/plugins/plots/plugin.py:37
 msgid "Display, explore and save console generated plots."
-msgstr ""
+msgstr "نمایش، کاوش و ذخیره plot های تولید شده توسط کنسول."
 
 #: spyder/plugins/plots/widgets/figurebrowser.py:488
 msgid "The image is broken, please try to generate it again"
-msgstr ""
+msgstr "تصویر خراب است، لطفاً دوباره سعی کنید آن را ایجاد کنید"
 
 #: spyder/plugins/plots/widgets/main_widget.py:101
 msgid "Mute inline plotting"
-msgstr ""
+msgstr "بی‌صدا کردن طرح‌های درون خطی"
 
 #: spyder/plugins/plots/widgets/main_widget.py:102
 msgid "Mute inline plotting in the ipython console."
-msgstr ""
+msgstr "بی‌صدا کردن plotting درون خطی در کنسول ipython."
 
 #: spyder/plugins/plots/widgets/main_widget.py:109
 msgid "Show plot outline"
-msgstr ""
+msgstr "نمایش طرح کلی"
 
 #: spyder/plugins/plots/widgets/main_widget.py:110
 msgid "Show the plot outline."
-msgstr ""
+msgstr "طرح کلی plot را نشان دهید."
 
 #: spyder/plugins/plots/widgets/main_widget.py:117
 msgid "Fit plots to window"
-msgstr ""
+msgstr "نقشه ها را با پنجره منطبق کنید"
 
 #: spyder/plugins/plots/widgets/main_widget.py:118
 msgid "Automatically fit plots to Plot pane size."
-msgstr ""
+msgstr "به طور خودکار نمودارها را با اندازه قطعه طرح Plot مطابقت دهید."
 
 #: spyder/plugins/plots/widgets/main_widget.py:127 spyder/plugins/plots/widgets/main_widget.py:128
 msgid "Save plot as..."
-msgstr ""
+msgstr "ذخیره plot به عنوان..."
 
 #: spyder/plugins/plots/widgets/main_widget.py:135 spyder/plugins/plots/widgets/main_widget.py:136
 msgid "Save all plots..."
-msgstr ""
+msgstr "تمام plot ها را ذخیره کن..."
 
 #: spyder/plugins/plots/widgets/main_widget.py:143
 msgid "Copy image"
-msgstr ""
+msgstr "کپی تصویر"
 
 #: spyder/plugins/plots/widgets/main_widget.py:144
 msgid "Copy plot to clipboard as image"
-msgstr ""
+msgstr "Plot را به عنوان تصویر در کلیپ بورد کپی کنید"
 
 #: spyder/plugins/plots/widgets/main_widget.py:151
 msgid "Remove plot"
-msgstr ""
+msgstr "حذف plot"
 
 #: spyder/plugins/plots/widgets/main_widget.py:158 spyder/plugins/plots/widgets/main_widget.py:159
 msgid "Remove all plots"
-msgstr ""
+msgstr "تمام plot ها را حذف کن"
 
 #: spyder/plugins/plots/widgets/main_widget.py:166 spyder/plugins/plots/widgets/main_widget.py:167
 msgid "Previous plot"
-msgstr ""
+msgstr "Plot قبلی"
 
 #: spyder/plugins/plots/widgets/main_widget.py:174 spyder/plugins/plots/widgets/main_widget.py:175
 msgid "Next plot"
-msgstr ""
+msgstr "Plot بعدی"
 
 #: spyder/plugins/preferences/api.py:541
 msgid "Invalid directory path"
-msgstr ""
+msgstr "مسیر دایرکتوری نامعتبر است"
 
 #: spyder/plugins/preferences/api.py:571 spyder/plugins/preferences/api.py:746
 msgid "Invalid file path"
-msgstr ""
+msgstr "مسیر فایل غیرمعتبر"
 
 #: spyder/plugins/preferences/api.py:574 spyder/plugins/preferences/api.py:591 spyder/plugins/preferences/api.py:751
 msgid "Select file"
-msgstr ""
+msgstr "انتخاب فایل"
 
 #: spyder/plugins/preferences/api.py:590
 msgid "All files (*)"
-msgstr ""
+msgstr "تمامی فایل ها (*)"
 
 #: spyder/plugins/preferences/api.py:671
 msgid "Bold"
-msgstr ""
+msgstr "Bold"
 
 #: spyder/plugins/preferences/api.py:674
 msgid "Italic"
-msgstr ""
+msgstr "Italic"
 
 #: spyder/plugins/preferences/api.py:774
 msgid "Font"
-msgstr ""
+msgstr "فونت"
 
 #: spyder/plugins/preferences/api.py:799
 msgid "Font style"
-msgstr ""
+msgstr "استایل فونت"
 
 #: spyder/plugins/preferences/api.py:831
 msgid "One or more of the settings you changed requires a restart to be applied.<br><br>Do you wish to restart now?"
-msgstr ""
+msgstr "برای یک یا چند مورد از تنظیماتی که تغییر داده‌اید، باید راه‌اندازی مجدد اعمال شود.<br><br>آیا می‌خواهید اسپایدر را اکنون راه‌اندازی مجدد کنید?"
 
 #: spyder/plugins/preferences/plugin.py:267 spyder/plugins/preferences/widgets/configdialog.py:51 spyder/plugins/preferences/widgets/container.py:107
 msgid "Preferences"
-msgstr ""
+msgstr "اولویت‌ها"
 
 #: spyder/plugins/preferences/plugin.py:270
 msgid "This plugin provides access to Spyder preferences page"
-msgstr ""
+msgstr "این افزونه دسترسی به صفحه تنظیمات اسپایدر را فراهم می کند"
 
 #: spyder/plugins/preferences/plugin.py:336
 msgid "Spyder will restart and reset to default settings: <br><br>Do you want to continue?"
-msgstr ""
+msgstr "اسپایدر راه‌اندازی مجدد می شود و به تنظیمات پیش فرض بازنشانی می شود: <br><br>آیا می خواهید ادامه دهید?"
 
 #: spyder/plugins/preferences/widgets/container.py:115
 msgid "Reset Spyder to factory defaults"
@@ -5034,80 +5034,81 @@ msgstr "بازگرداندن Spyder به تنظیمات پیشفرض"
 
 #: spyder/plugins/profiler/confpage.py:19 spyder/plugins/pylint/confpage.py:42
 msgid "Results"
-msgstr ""
+msgstr "نتایج"
 
 #: spyder/plugins/profiler/confpage.py:20
 msgid "Profiler plugin results (the output of python's profile/cProfile)\n"
 "are stored here:"
-msgstr ""
+msgstr "نتایج افزونه Profiler (خروجی نمایه/cProfile پایتون)\n"
+"در اینجا ذخیره می شوند:"
 
 #: spyder/plugins/profiler/plugin.py:60 spyder/plugins/profiler/widgets/main_widget.py:191 spyder/plugins/tours/tours.py:185
 msgid "Profiler"
-msgstr ""
+msgstr "پروفایلر"
 
 #: spyder/plugins/profiler/plugin.py:63
 msgid "Profile your scripts and find bottlenecks."
-msgstr ""
+msgstr "اسکریپت های خود را نمایه کنید و bottleneck ها را پیدا کنید."
 
 #: spyder/plugins/profiler/plugin.py:75 spyder/plugins/profiler/plugin.py:76 spyder/plugins/profiler/widgets/main_widget.py:199 spyder/plugins/profiler/widgets/main_widget.py:200
 msgid "Run profiler"
-msgstr ""
+msgstr "پروفایلر را اجرا کنید"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:207 spyder/plugins/profiler/widgets/main_widget.py:460 spyder/plugins/pylint/main_widget.py:510 spyder/plugins/pylint/main_widget.py:511 spyder/plugins/pylint/main_widget.py:866
 msgid "Select Python file"
-msgstr ""
+msgstr "فایل پایتون را انتخاب کنید"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:213 spyder/plugins/pylint/main_widget.py:517
 msgid "Output"
-msgstr ""
+msgstr "خروجی"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:214
 msgid "Show program's output"
-msgstr ""
+msgstr "نمایش خروجی برنامه"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:220
 msgid "Collapse"
-msgstr ""
+msgstr "جمع کردن"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:221
 msgid "Collapse one level up"
-msgstr ""
+msgstr "به یک سطح بالاتر جمع کن"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:227
 msgid "Expand"
-msgstr ""
+msgstr "گسترش"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:228
 msgid "Expand one level down"
-msgstr ""
+msgstr "یک سطح به پایین گسترش دهید"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:234 spyder/plugins/variableexplorer/widgets/main_widget.py:175 spyder/plugins/variableexplorer/widgets/namespacebrowser.py:270 spyder/plugins/variableexplorer/widgets/namespacebrowser.py:297
 msgid "Save data"
-msgstr ""
+msgstr "ذخیره داده ها"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:235
 msgid "Save profiling data"
-msgstr ""
+msgstr "ذخیره داده های پروفایل"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:241
 msgid "Load data"
-msgstr ""
+msgstr "بارگذاری داده ها"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:242
 msgid "Load profiling data for comparison"
-msgstr ""
+msgstr "داده های پروفایل را برای مقایسه بارگیری کنید"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:248 spyder/plugins/profiler/widgets/main_widget.py:249
 msgid "Clear comparison"
-msgstr ""
+msgstr "مقایسه واضح"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:291
 msgid "Please install"
-msgstr ""
+msgstr "لطفا نصب کنید"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:292
 msgid "the Python profiler modules"
-msgstr ""
+msgstr "ماژول های پروفایلر پایتون"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:371
 msgid "Save profiler result"
@@ -5171,7 +5172,7 @@ msgstr "نام تابع یا ماژول"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:897
 msgid "Time in function (including sub-functions)"
-msgstr ""
+msgstr "زمان در عملکرد (شامل توابع فرعی)"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:906
 msgid "Local time in function (not in sub-functions)"
@@ -7015,55 +7016,55 @@ msgstr ""
 
 #: spyder/widgets/onecolumntree.py:89
 msgid "Expand all"
-msgstr ""
+msgstr "گسترش دادن همه"
 
 #: spyder/widgets/onecolumntree.py:97
 msgid "Restore original tree layout"
-msgstr ""
+msgstr "طرح tree اصلی را بازیابی کنید"
 
 #: spyder/widgets/onecolumntree.py:104
 msgid "Collapse section"
-msgstr ""
+msgstr "کوچک کردن بخش"
 
 #: spyder/widgets/onecolumntree.py:111
 msgid "Expand section"
-msgstr ""
+msgstr "بخش را گسترش دهید"
 
 #: spyder/widgets/reporterror.py:137
 msgid "Issue reporter"
-msgstr ""
+msgstr "گزارشگر مشکل"
 
 #: spyder/widgets/reporterror.py:146
 msgid "Please fill the following information"
-msgstr ""
+msgstr "لطفا اطلاعات زیر را پر کنید"
 
 #: spyder/widgets/reporterror.py:148
 msgid "Spyder has encountered an internal problem!"
-msgstr ""
+msgstr "اسپایدر با مشکل داخلی مواجه شده است!"
 
 #: spyder/widgets/reporterror.py:150
 msgid "<h3>{title}</h3>Before reporting this problem, <i>please</i> consult our comprehensive <b><a href=\"{trouble_url}\">Troubleshooting Guide</a></b> which should help solve most issues, and search for <b><a href=\"{project_url}\">known bugs</a></b> matching your error message or problem description for a quicker solution."
-msgstr ""
+msgstr "<h3>{title}</h3>قبل از گزارش این مشکل، <i>لطفاً</i> <b><a href=\"{trouble_url}\">راهنمای عیب‌یابی</a></b> جامع ما را که باید به حل اکثر مشکلات کمک کند و <b><a href=\"{project_url}\">اشکال‌های شناخته شده</a></b> مطابق با پیام خطا یا شرح مشکل شما را برای راه‌حل سریع‌تر جستجو کنید."
 
 #: spyder/widgets/reporterror.py:168 spyder/widgets/reporterror.py:206
 msgid "{} more characters to go..."
-msgstr ""
+msgstr "{} کاراکتر دیگر باقی مانده است..."
 
 #: spyder/widgets/reporterror.py:173
 msgid "<b>Title</b>: {}"
-msgstr ""
+msgstr "<b>عنوان</b>: {}"
 
 #: spyder/widgets/reporterror.py:179
 msgid "<b>Steps to reproduce:</b> {}"
-msgstr ""
+msgstr "<b>مراحل تکثیر:</b> {}"
 
 #: spyder/widgets/reporterror.py:181
 msgid "Please enter a detailed step-by-step description (in English) of what led up to the problem below. Issue reports without a clear way to reproduce them will be closed."
-msgstr ""
+msgstr "لطفاً شرح گام به گام مفصل (به زبان انگلیسی) از آنچه منجر به مشکل شده است را در زیر وارد کنید. گزارش‌هایی که راه روشنی برای بازتولید آنها نیست بسته خواهند شد."
 
 #: spyder/widgets/reporterror.py:211
 msgid "Hide all future errors during this session"
-msgstr ""
+msgstr "تمام خطاهای آینده را در این جلسه پنهان کنید"
 
 #: spyder/widgets/reporterror.py:215
 msgid "Include IPython console environment"
