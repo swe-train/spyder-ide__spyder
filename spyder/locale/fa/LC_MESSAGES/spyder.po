@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2024-01-01 07:39\n"
+"PO-Revision-Date: 2024-01-01 11:29\n"
 "Last-Translator: \n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -5724,35 +5724,35 @@ msgstr "تضادهای زیر شناسایی شده است:"
 
 #: spyder/plugins/statusbar/confpage.py:25
 msgid "Show memory usage every"
-msgstr ""
+msgstr "استفاده از حافظه در هر"
 
 #: spyder/plugins/statusbar/confpage.py:32
 msgid "Show CPU usage every"
-msgstr ""
+msgstr "استفاده از CPU در هر"
 
 #: spyder/plugins/statusbar/confpage.py:39
 msgid "Show clock"
-msgstr ""
+msgstr "نمایش ساعت"
 
 #: spyder/plugins/statusbar/plugin.py:54
 msgid "Status bar"
-msgstr ""
+msgstr "نوار وضعیت"
 
 #: spyder/plugins/statusbar/plugin.py:60
 msgid "Provide Core user interface management"
-msgstr ""
+msgstr "ارائه مدیریت رابط کاربری Core"
 
 #: spyder/plugins/statusbar/widgets/status.py:30
 msgid "Global memory usage"
-msgstr ""
+msgstr "استفاده از حافظه جهانی"
 
 #: spyder/plugins/statusbar/widgets/status.py:44
 msgid "CPU usage"
-msgstr ""
+msgstr "میزان استفاده از CPU"
 
 #: spyder/plugins/statusbar/widgets/status.py:60
 msgid "Clock"
-msgstr ""
+msgstr "ساعت"
 
 #: spyder/plugins/toolbar/container.py:117 spyder/plugins/toolbar/container.py:133 spyder/plugins/toolbar/container.py:134
 msgid "Show toolbars"
@@ -5764,15 +5764,15 @@ msgstr "نوار ابزارها"
 
 #: spyder/plugins/toolbar/container.py:130 spyder/plugins/toolbar/container.py:131
 msgid "Hide toolbars"
-msgstr ""
+msgstr "پنهان‌سازی نوار ابزارها"
 
 #: spyder/plugins/toolbar/plugin.py:44
 msgid "Toolbar"
-msgstr ""
+msgstr "نوار ابزار"
 
 #: spyder/plugins/toolbar/plugin.py:47
 msgid "Application toolbars management."
-msgstr ""
+msgstr "مدیریت نوار ابزار برنامه."
 
 #: spyder/plugins/toolbar/plugin.py:57
 msgid "Main toolbar"
@@ -5780,19 +5780,19 @@ msgstr "نوار ابزار اصلی"
 
 #: spyder/plugins/tours/container.py:52
 msgid "Show tour"
-msgstr ""
+msgstr "نمایش تور"
 
 #: spyder/plugins/tours/container.py:61 spyder/plugins/tours/plugin.py:41
 msgid "Interactive tours"
-msgstr ""
+msgstr "تورهای تعاملی"
 
 #: spyder/plugins/tours/plugin.py:44
 msgid "Provide interactive tours."
-msgstr ""
+msgstr "ارائه تورهای تعاملی."
 
 #: spyder/plugins/tours/plugin.py:52
 msgid "Introduction to Spyder"
-msgstr ""
+msgstr "مقدمه ای بر اسپایدر"
 
 #: spyder/plugins/tours/tours.py:70
 msgid "Welcome to the introduction tour!"
@@ -5912,43 +5912,43 @@ msgstr "منابع با تمام حروف بزرگ را حذف کنید"
 
 #: spyder/plugins/variableexplorer/confpage.py:24 spyder/plugins/variableexplorer/widgets/main_widget.py:141
 msgid "Exclude unsupported data types"
-msgstr ""
+msgstr "انواع داده های پشتیبانی نشده را حذف کنید"
 
 #: spyder/plugins/variableexplorer/confpage.py:26 spyder/plugins/variableexplorer/widgets/main_widget.py:150
 msgid "Exclude callables and modules"
-msgstr ""
+msgstr "فراخوانی ها و ماژول ها را حذف کنید"
 
 #: spyder/plugins/variableexplorer/confpage.py:32 spyder/plugins/variableexplorer/widgets/main_widget.py:159
 msgid "Show arrays min/max"
-msgstr ""
+msgstr "نمایش آرایه ها حداقل/حداکثر"
 
 #: spyder/plugins/variableexplorer/plugin.py:40
 msgid "Variable explorer"
-msgstr ""
+msgstr "کاوشگر متغیر"
 
 #: spyder/plugins/variableexplorer/plugin.py:43
 msgid "Display, explore load and save variables in the current namespace."
-msgstr ""
+msgstr "نمایش، کاوش بار و ذخیره متغیرها در فضای نام فعلی."
 
 #: spyder/plugins/variableexplorer/widgets/arrayeditor.py:566
 msgid "It was not possible to copy values for this array"
-msgstr ""
+msgstr "امکان کپی مقادیر برای این آرایه وجود نداشت"
 
 #: spyder/plugins/variableexplorer/widgets/arrayeditor.py:619 spyder/plugins/variableexplorer/widgets/arrayeditor.py:812 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:981 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:1305
 msgid "Format"
-msgstr ""
+msgstr "قالب‌بندی"
 
 #: spyder/plugins/variableexplorer/widgets/arrayeditor.py:620 spyder/plugins/variableexplorer/widgets/dataframeeditor.py:1306
 msgid "Float formatting"
-msgstr ""
+msgstr "قالب بندی شناور"
 
 #: spyder/plugins/variableexplorer/widgets/arrayeditor.py:628
 msgid "Format (%s) is incorrect"
-msgstr ""
+msgstr "قالب (%s) نادرست است"
 
 #: spyder/plugins/variableexplorer/widgets/arrayeditor.py:673
 msgid "Arrays with more than 3 dimensions are not supported"
-msgstr ""
+msgstr "آرایه هایی با بیش از 3 بعد پشتیبانی نمی شوند"
 
 #: spyder/plugins/variableexplorer/widgets/arrayeditor.py:677
 msgid "The 'xlabels' argument length do no match array column number"
