@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2024-03-31 13:49\n"
+"PO-Revision-Date: 2024-04-04 20:57\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -6505,11 +6505,11 @@ msgstr "Beim Starten ist das Arbeitsverzeichnis:"
 
 #: spyder/plugins/workingdirectory/confpage.py:41 spyder/plugins/workingdirectory/confpage.py:80
 msgid "The project (if open) or user home directory"
-msgstr ""
+msgstr "Das Projekt- (falls geöffnet) oder das Benutzerverzeichnis"
 
 #: spyder/plugins/workingdirectory/confpage.py:43
 msgid "The startup working dir will be root of the current project if one is open, otherwise the user home directory"
-msgstr ""
+msgstr "Das Arbeitsverzeichnis beim Start ist das Stammverzeichnis des aktuellen Projekts, falls eines geöffnet ist, andernfalls das Benutzerverzeichnis"
 
 #: spyder/plugins/workingdirectory/confpage.py:51
 msgid "At startup, the current working directory will be the specified path"
@@ -6525,7 +6525,7 @@ msgstr "Das Arbeitsverzeichnis für neue IPython-Konsolen ist:"
 
 #: spyder/plugins/workingdirectory/confpage.py:82
 msgid "The working dir for new consoles will be root of the project if one is open, otherwise the user home directory"
-msgstr ""
+msgstr "Das Arbeitsverzeichnis für neue Konsolen ist das Stammverzeichnis des Projekts, falls eines geöffnet ist, andernfalls das Benutzerverzeichnis"
 
 #: spyder/plugins/workingdirectory/confpage.py:87
 msgid "The working directory of the current console"
