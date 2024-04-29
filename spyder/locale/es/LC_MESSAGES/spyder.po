@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2023-10-20 18:41-0500\n"
-"PO-Revision-Date: 2023-10-24 00:16\n"
+"PO-Revision-Date: 2024-04-29 16:53\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -5174,7 +5174,7 @@ msgstr "Llamados"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:673
 msgid "Local Time"
-msgstr "Tiempo Local"
+msgstr "Tiempo local"
 
 #: spyder/plugins/profiler/widgets/main_widget.py:674
 msgid "File:line"
